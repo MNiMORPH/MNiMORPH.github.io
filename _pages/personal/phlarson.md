@@ -37,5 +37,4 @@ Arid/desert geomorphology, landscape evolution, fluvial and aeolian systems, pal
 5. Sandur geomorphology and evolution, Iceland.
 6. Late Quaternary geology and geomorphology of the Minnesota River basin: Geomorphic evolution of the Minnesota River valley.
 
-![Image!](/assets/images/photo-1590379492966-e076d8f84c2d.jpeg)
-Photo credit: [**Unsplash**](https://unsplash.com)
+![Image!](/assets/images/personal-pages/Zion.jpg)
