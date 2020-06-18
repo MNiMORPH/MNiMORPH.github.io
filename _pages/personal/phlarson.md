@@ -39,10 +39,15 @@ Larson, P.H. and Dorn, R.I. (2014). Strath Development in Small Arid Watersheds:
 #### Current Research
 
 1) Basin integration and the establishment of through-flowing rivers in extensional tectonic landscapes: Salt and Verde Rivers, Basin and Range, Arizona, USA
+
 2) Post-glacial natural and cultural landscape evolution of the upper Mississippi River basin: Chippewa (Wisconsin), Cannon (Minnesota), Whitewater (Minnesota), Zumbro (Minnesota) River drainage basins. 
+
 3) Geomorphology and paleoenvironmental significance of late Pleistocene and Holocene aeolian deposition in the upper Mississippi River basin (western Wisconsin, eastern Minnesota).
+
 4) Piedmont landform (pediments, alluvial fans, talus flat irons) and hillslope evolution in the southwestern USA (Arizona, Utah).
+
 5) Sandur geomorphology and evolution, Iceland.
+
 6) Late Quaternary geology and geomorphology of the Minnesota River basin: Geomorphic evolution of the Minnesota River valley.
 
 
