@@ -105,6 +105,13 @@ grads:
 
 undergrads:
   - image_path: /assets/images/headshots/blank.jpg
+    alt: "Josie Welsh"
+    title: "Josie Welsh"
+    excerpt: "Undergraduate Researcher<br/>
+              University of Minnesota<br/>
+              *Bed-load sediment sampler design*
+              "
+  - image_path: /assets/images/headshots/blank.jpg
     alt: "Peter Mitchell"
     title: "Peter Mitchell"
     excerpt: "Undergraduate Researcher<br/>
@@ -143,8 +150,9 @@ visitors:
   - image_path: /assets/images/headshots/romero_square.jpg
     alt: "Matías Romero"
     title: "Matías Romero"
-    excerpt: "Visiting Ph.D. Student<br/>
+    excerpt: "Collaborating Ph.D. Student<br/>
               Doctoral student, CICTERRA-CONICET and Argentine Antarctic Program, Universidad Nacional de Córdoba, Argentina<br/>
+              Advisor: Jorge A. Strelin<br/>
               Geologist, 2019, Universidad Nacional de Córdoba<br/>
               *Glacial geology, ice sheets, and sea level*
               "
