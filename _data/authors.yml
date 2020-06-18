@@ -36,3 +36,10 @@ Phillip Larson:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://mavdisk.mnsu.edu/dj1515bb/geomorph/index.html"
+
+Andrea Prichard:
+  name             : "Andrea Prichard"
+  avatar           : "/assets/images/headshots/prichard.jpeg"
+  bio              : "Fulbright Scholar, Batipa Field Institute, Universidad Tecnológica Oteima, Panamá"
+  location         : Cochabamba, Bolivia
+  email            : andrea.prichard@gmail.com
