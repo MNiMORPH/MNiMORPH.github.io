@@ -156,6 +156,6 @@ visitors:
 
 {% include feature_row id="undergrads" %}
 
-## Visiting Scientists
+## Visiting and Affiliated Scientists
 
 {% include feature_row id="visitors" %}
