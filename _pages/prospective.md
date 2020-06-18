@@ -15,9 +15,11 @@ header:
 excerpt: ""
 ---
 
+## Open positions
+
 We are considering applicants for the following positions:
 
-## Ph.D. student (University of Minnesota)
+### Ph.D. student (University of Minnesota)
 
 Working with both Phil Larson and Andy Wickert
 
@@ -26,7 +28,7 @@ Working with both Phil Larson and Andy Wickert
   * Modeling river long-profile evolution
   * Linking to ice-sheet and proglacial lake history
 
-## M.S. or Ph.D. student (University of Minnesota)
+### M.S. or Ph.D. student (University of Minnesota)
 
 Working with Andy Wickert
 
@@ -39,13 +41,24 @@ Working with Andy Wickert
     * Telemetry
     * Bringing these technologies to the people who need them
 
-## M.S. student (Minnesota State University, Mankato)
+### M.S. student (Minnesota State University, Mankato)
 
 Working with Phil Larson
 
 * Aeolian activity in the upper Mississippi valley
   * Identifying and dating (with OSL) ancient aeolian deposits
   * Bringing pulses of aeolian activity into a broad paleogeographic framework
+
+### Undergraduate research assistant
+
+Working with Andy Wickert
+
+* Testing and documenting environmental instrumentation
+
+
+## Important information for international students and visitors
+
+Prospective international students and visitors should be in touch with Andy Wickert and [International Student and Scholar Services](https://isss.umn.edu/) at the University of Minnesota.
 
 
 ## Important information for prospective students
