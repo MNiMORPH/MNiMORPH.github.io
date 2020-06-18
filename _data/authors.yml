@@ -7,10 +7,7 @@ Andrew Wickert:
   location         : Minneapolis, Minnesota, USA
   email            : awickert@umn.edu
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:awickert@umn.edu"
-    - label: "Website"
+    - label: "University website"
       icon: "fas fa-fw fa-link"
       url: "https://www.esci.umn.edu/people/Andrew-Wickert"
     - label: "Twitter"
@@ -30,12 +27,12 @@ Phillip Larson:
   name             : "Phillip Larson"
   avatar           : "/assets/images/headshots/larson_square.jpg"
   bio              : "Associate Professor, Minnesota State University, Mankato"
-  location         : Mankato, Minnesota, USA"
-  email            : awickert@umn.edu
+  location         : Mankato, Minnesota, USA
+  email            : phillip.larson@mnsu.edu
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "phillip.larson@mnsu.edu"
+    - label: "Profile: MSU Mankato"
+      icon: "fas fa-fw fa-link"
+      url: "https://sbs.mnsu.edu/academics/geography/faculty-and-staff/phillip-larson/"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://mavdisk.mnsu.edu/dj1515bb/geomorph/index.html"
