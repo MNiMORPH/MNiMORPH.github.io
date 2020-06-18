@@ -116,6 +116,17 @@ undergrads:
     #btn_class: "btn--inverse"
 
 visitors:
+  - image_path: /assets/images/headshots/barnes.jpg
+    alt: "Richard Barnes"
+    title: "Richard Barnes"
+    excerpt: "Collaborating Ph.D. Student<br/>
+              Ph.D. candidate, Energy Research Group, University of California, Berkeley<br/>
+              M.S. 2019, Computer Science, University of California Berkeley<br/>
+              M.S. 2015, Ecology, University of Minnesota<br/>
+              B.S. 2011, Physics, University of Minnesota<br/>
+              B.A. 2010, Philosophy, University of Minnesota<br/>
+              *Elegant solutions to computational problems*
+              "
   - image_path: /assets/images/headshots/prichard.jpeg
     alt: "Andrea Prichard"
     title: "Andrea Prichard"
@@ -156,6 +167,6 @@ visitors:
 
 {% include feature_row id="undergrads" %}
 
-## Visiting and Affiliated Scientists
+## Visiting, Affiliated, and Key Collaborating Scientists
 
 {% include feature_row id="visitors" %}
