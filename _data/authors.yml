@@ -22,6 +22,9 @@ Andrew Wickert:
       # - label: "Instagram"
       # icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-google"
+      url: https://scholar.google.com/citations?user=-cCwyPsAAAAJ&hl=en
 
 Phillip Larson:
   name             : "Phillip Larson"
@@ -36,6 +39,9 @@ Phillip Larson:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://mavdisk.mnsu.edu/dj1515bb/geomorph/index.html"
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-google"
+      url: https://scholar.google.com/citations?user=aqo-a90AAAAJ&hl=en&oi=sra
 
 Andrea Prichard:
   name             : "Andrea Prichard"
