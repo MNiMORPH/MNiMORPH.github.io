@@ -4,6 +4,15 @@ layout: splash
 permalink: /research/
 author_profile: false
 classes: wide
+header:
+  overlay_color: "#222222" #"#5e616c"
+  overlay_filter: "0.5"
+  overlay_image: #/assets/images/DysonSW_Ecuador_2020-01-14_15.32.41_modified.jpg
+  #actions:
+  #  - label: "Get started"
+  #    url: "/awtest/"
+  caption: ""
+excerpt: ""
 ---
 
 ## Rivers and lakes
