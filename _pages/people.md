@@ -39,7 +39,7 @@ faculty:
     btn_class: "btn--inverse"
 
 grads:
-  - image_path: /assets/images/headshots/callaghan.jpg
+  - image_path: /assets/images/headshots/callaghan_square.jpg
     alt: "Kerry Callaghan"
     title: "Kerry Callaghan"
     excerpt: "Ph.D. Candidate<br/>
@@ -60,7 +60,7 @@ grads:
     #url: ""
     #btn_label: "Homepage"
     #btn_class: "btn--inverse"
-  - image_path: /assets/images/headshots/jones.jpg
+  - image_path: /assets/images/headshots/jones_square.jpg
     alt: "Jabari Jones"
     title: "Jabari Jones"
     excerpt: "Ph.D. Candidate<br/>
@@ -71,7 +71,7 @@ grads:
     #url: ""
     #btn_label: "Homepage"
     #btn_class: "btn--inverse"
-  - image_path: /assets/images/headshots/vanWykdeVries.jpg
+  - image_path: /assets/images/headshots/vanWykdeVries_square.jpg
     alt: "Max van Wyk de Vries"
     title: "Max van Wyk de Vries"
     excerpt: "Ph.D. Candidate (co-advised with Emi Ito)<br/>
@@ -81,7 +81,7 @@ grads:
     #url: ""
     #btn_label: "Homepage"
     #btn_class: "btn--inverse"
-  - image_path: /assets/images/headshots/penprase.jpeg
+  - image_path: /assets/images/headshots/penprase_square.jpeg
     alt: "Shanti Penprase"
     title: "Shanti Penprase"
     excerpt: "Ph.D. Student
@@ -91,7 +91,7 @@ grads:
     #url: ""
     #btn_label: "Homepage"
     #btn_class: "btn--inverse"
-  - image_path: /assets/images/headshots/iscen.jpeg
+  - image_path: /assets/images/headshots/iscen_square.jpg
     alt: "Nilay Iscen"
     title: "Nilay Iscen"
     excerpt: "M.S. 2018 Virginia Polytechnic Institute and State University<br/>
