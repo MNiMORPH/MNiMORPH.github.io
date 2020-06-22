@@ -19,41 +19,40 @@ excerpt: ""
 
 We are considering applicants for the following positions:
 
-### Ph.D. student (University of Minnesota)
+### Deciphering the glacial and deglacial history of the upper Mississippi valley
 
-Working with both Phil Larson and Andy Wickert
+***Ph.D. student (University of Minnesota)***
 
-* Deciphering the glacial and deglacial history upper Mississippi valley
-  * Dating the terrace record (CRN and/or OSL)
-  * Modeling river long-profile evolution
-  * Linking to ice-sheet and proglacial lake history
+* Working with both Phil Larson and Andy Wickert
+* Dating the terrace record (CRN and/or OSL)
+* Modeling river long-profile evolution
+* Linking research to ice-sheet and proglacial-lake history
 
-### M.S. or Ph.D. student (University of Minnesota)
+### Environmental instrumentation
 
-Working with Andy Wickert
+***M.S. or Ph.D. student (University of Minnesota)***
 
-* Environmental instrumentation
-  * Designing, testing, and documenting sensors to measure water level
-  * Possible extension to broader-scale weather and climate instrumentation
-  * Focus will be on implementation: Bobby Schulz (current student) has completed or thoroughly started many hardware designs. This position therefore focuses on:
-    * Field testing
-    * Documentation
-    * Telemetry
-    * Bringing these technologies to the people who need them
+* Working with Andy Wickert
+* Designing, testing, and documenting sensors to measure water level
+* Possible extension to broader-scale weather and climate instrumentation
+* Focus will be on implementation: Bobby Schulz (current student) has completed or thoroughly started many hardware designs. This position therefore focuses on:
+  * Field testing
+  * Documentation
+  * Telemetry
+  * Bringing these technologies to the people who need them
 
-### M.S. student (Minnesota State University, Mankato)
+### Aeolian activity in the upper Mississippi valley
 
-Working with Phil Larson
+***M.S. student (Minnesota State University, Mankato)***
 
-* Aeolian activity in the upper Mississippi valley
-  * Identifying and dating (with OSL) ancient aeolian deposits
-  * Bringing pulses of aeolian activity into a broad paleogeographic framework
+* Working with Phil Larson
+* Identifying and dating (with OSL) ancient aeolian deposits
+* Bringing pulses of aeolian activity into a broad paleogeographic framework
 
-### Undergraduate research assistant
+### Testing and documenting environmental instrumentation
 
-Working with Andy Wickert
-
-* Testing and documenting environmental instrumentation
+* Working with Andy Wickert
+* Undergraduate research assistant
 
 
 ## Important information for international students and visitors
