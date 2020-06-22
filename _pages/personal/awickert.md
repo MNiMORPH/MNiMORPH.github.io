@@ -16,13 +16,6 @@ classes: wide
 #  image_description: "A description of the image"
 ---
 
-## Test heading 1
+## Research interests
 
-Look into a Markdown help guide to find out how to add content.
-
-## I do some stuff
-
-Stuff, stuff, Fjord-cat
-
-![Image!](/assets/images/photo-1590379492966-e076d8f84c2d.jpeg)
-Photo credit: [**Unsplash**](https://unsplash.com)
+I investigate ice, water, and landscapes through the past and present. My tools are physics, computers, sensors, experiments, and geological field observations. I am passionate about unifying theory and observations in Earth-surface dynamics, deciphering the glacial history of North America and using its ice-sheet-altered rivers as natural experiments about Earth-surface processes, and open-source software and hardware. My research often takes me to Argentina; Germany; the upper Mississippi River valley; and my desk with my pen, paper, and a comfortable mug of tea.
