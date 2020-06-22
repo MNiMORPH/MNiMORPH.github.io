@@ -51,8 +51,10 @@ We are considering applicants for the following positions:
 
 ### Testing and documenting environmental instrumentation
 
+***Undergraduate research assistant***
+
 * Working with Andy Wickert
-* Undergraduate research assistant
+* Interest in and/or experience with sensors and programming required
 
 
 ## Important information for international students and visitors
