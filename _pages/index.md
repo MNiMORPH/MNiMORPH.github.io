@@ -19,6 +19,12 @@ excerpt: Rivers, glaciers, sea level, and instrumentation design.<br />
 
 The surface-processes group at the University of Minnesota blends **field investigations**, **numerical modeling**, **geospatial analyses**, **laboratory experiments**, and **instrumentation design and fabrication** to address changes in past and present glaciers and ice sheets, river systems, sea level, and landscapes.
 
+## UMN–MNSU collaboration
+
+Our research group – and this website – display the active collaboration between Andy Wickert's research group in the Department of Earth & Environmental Sciences and the Saint Anthony Falls Laboratory at the **University of Minnesota**, and Phil Larson's research group in the Department of Geography at **Minnesota State University, Mankato**.
+
+In addition to these core semi-merged research groups, we maintain active collaborations with scientists across the region and around the world.
+
 ## Ethos
 
 * Statement on importance of Earth-surface Science
