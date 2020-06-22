@@ -144,9 +144,9 @@ visitors:
               B.A. 2004 Oberlin College<br/>
               *GIS and water resources*
               "
-    url: "/people/ahprichard/"
-    btn_label: "About"
-    btn_class: "btn--inverse"
+    #url: "/people/ahprichard/"
+    #btn_label: "About"
+    #btn_class: "btn--inverse"
   - image_path: /assets/images/headshots/romero_square.jpg
     alt: "Matías Romero"
     title: "Matías Romero"
