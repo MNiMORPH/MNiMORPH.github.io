@@ -178,3 +178,82 @@ visitors:
 ## Visiting, Affiliated, and Key Collaborating Scientists
 
 {% include feature_row id="visitors" %}
+
+## Former Group Members
+
+### Researchers
+
+#### Fiona Clubb (2017)
+* **Predoctoral research scientist**
+* *Research with our group:* River-terrace analysis in the upper Mississippi valley
+* ***Now:*** [Assistant Professor, Department of Geography, Durham University](https://www.dur.ac.uk/research/directory/staff/?mode=staff&id=18302)
+
+#### Chad Sandell (2016-2018)
+* **Research specialist:** Lab engineer
+* Maker of many things
+* ***Now:*** [Design Engineer, Ironwood Electronics](https://www.researchgate.net/profile/Chad_Sandell)
+
+
+### Graduate Students
+
+#### Olivia Beaulieu (2016-2018)
+* **MS, 2018**
+* Experimental fluvial geomorphology
+* Landslide mapping and analysis
+* ***Now:*** [U.S. Army Corps of Engineers, New England Division](https://www.linkedin.com/in/olivia-beaulieu-9abb25160)
+
+#### Shane Loeffler (2016-2018)
+
+* **MS, 2018** (co-advised with Amy Myrbo)
+* B.S. 2015 University of Minnesota Duluth
+* [Flyover Country](https://flyovercountry.io/)
+* **Now:** [Cartographer and Web Developer, Polar Geospatial Center](https://www.pgc.umn.edu/about/people/shane-loeffler/)
+
+#### Rachel McLaughlin (2015-2017)
+* **MS, 2017** (co-advised with primary advisor Crystal Ng)
+* Hydrology and water resources on Chimborazo Volcano, Ecuador
+* ***Now:*** [Staff Hydrogeologist - PES Environmental, Inc.](https://www.linkedin.com/in/rachel-mclaughlin-50796a36)
+
+
+### Undergraduate Students
+
+#### Evan Grove (2018-2019)
+* Undergraduate student researcher
+* Design of "thermal stake" for heat-flow and water-flux measurements
+* ***Now:*** [Enginner at Turck USA](https://www.linkedin.com/in/epg)
+
+#### Lauren Michael (2017)
+* Visiting undergraduate researcher from Carleton College
+* Mapping global paleolakes
+
+#### Keenen Francois-King (2017)
+* Undergraduate student researcher
+* GPS to measure snow-water equivalent
+
+#### Libby Witte (2016-2017)
+* Undergraduate student researcher
+* Experimental fluvial geomorphology
+* ***Now:*** Geologist with Corvis Gold (Nevada)
+
+#### Ethan Kurak (2016-2018)
+* Undergraduate student researcher
+* River terraces
+* ***Now:*** [M.S. Student, Lehigh University](https://ees.cas.lehigh.edu/content/ethan-kurak)
+
+
+### Visiting, Affiliated, and Key Collaborating Scientists
+
+#### Dr. Beth Fisher (2017-2019)
+* Friendly Neighborhood Scientist
+* *Research with our group:* Environmental instrumentation
+* ***Now:*** [Assistant Professor, Department of Chemistry and Geology, Minnesota State University, Mankato](https://cset.mnsu.edu/departments/chemistry-and-geology/faculty-and-staff/beth-fisher/)
+
+#### Dr. Sara Savi (2015)
+* Visiting postdoctoral research scientist from the Universität Potsdam
+* *Research with our group:* Alluvial fans and tributary interactions at SAFL
+* ***Now:*** [Postdoctoral research scientist at the Universität Potsdam](http://www.geo.uni-potsdam.de/mitarbeiterdetails/show/482/Sara_Savi.html)
+
+#### Dr. Stefanie Tofelde (2015)
+* Visiting doctoral student from the Universität Potsdam
+* *Research with our group:* Fluvial terrace formation at SAFL
+* ***Now:*** [Lecturer at the Universität Potsdam](http://www.geo.uni-potsdam.de/mitarbeiterdetails/show/771/Stefanie_Tofelde.html)
