@@ -133,6 +133,7 @@ visitors:
               M.S. 2015, Ecology, University of Minnesota<br/>
               B.S. 2011, Physics, University of Minnesota<br/>
               B.A. 2010, Philosophy, University of Minnesota<br/>
+              [Github](https://github.com/r-barnes) | [Homepage](http://richard.science)<br/>
               *Elegant solutions to computational problems*
               "
   - image_path: /assets/images/headshots/prichard.jpeg
