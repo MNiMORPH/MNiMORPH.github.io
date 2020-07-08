@@ -21,7 +21,7 @@ The surface-processes group at the University of Minnesota blends **field invest
 
 ## UMN–MNSU collaboration
 
-Our research group – and this website – display the active collaboration between Andy Wickert's research group in the Department of Earth & Environmental Sciences and the Saint Anthony Falls Laboratory at the **University of Minnesota**, and Phil Larson's research group in the Department of Geography at **Minnesota State University, Mankato**.
+This website features intertwined and collaborative research groups and programs led by Andy Wickert in the Department of Earth & Environmental Sciences and the Saint Anthony Falls Laboratory at the University of Minnesota, and by Phillip Larson in the Earth Science Program, EARTH Systems Laboratory, and Department of Geography at Minnesota State University, Mankato.
 
 In addition to these core semi-merged research groups, we maintain active collaborations with scientists across the region and around the world.
 
