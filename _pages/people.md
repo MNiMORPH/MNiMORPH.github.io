@@ -5,8 +5,8 @@ permalink: /people/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image:
-  caption: ""
+  overlay_image: assets/images/banners/2018-06-20 15.38.58_modified_Terrace_Diamond.jpg
+  caption: "Pleistocene braided-river bars cross farmfields on the Last Glacial Maximum terrace of the Mississippi River, looking towards Diamond Bluff, Wisconsin. The modern Mississippi lies hidden, tucked 30-40 meters below the terrace at the edge of the dolostone bluff. *Photo: A. Wickert*"
 excerpt: "Research group memebers"
 
 #intro:

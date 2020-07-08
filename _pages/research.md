@@ -7,11 +7,11 @@ classes: wide
 header:
   overlay_color: "#222222" #"#5e616c"
   overlay_filter: "0.5"
-  overlay_image: #/assets/images/DysonSW_Ecuador_2020-01-14_15.32.41_modified.jpg
+  overlay_image: https://advances.sciencemag.org/content/advances/5/1/eaav2366/F2.large.jpg
   #actions:
   #  - label: "Get started"
   #    url: "/awtest/"
-  caption: ""
+  caption: "The upper Mississippi River integrated between 2.6 and 0.8 million years ago when ice first advanced into its catchment, damming rivers into lakes that overtopped ancient drainage divides and incised through isostatically uplifted landscape. Deeply eroded bedrock and an ancient waterfall beneath the river bed record the big river's dramatic start. *[Read the full study in Science Advances](https://advances.sciencemag.org/content/5/1/eaav2366/).*"
 excerpt: ""
 ---
 

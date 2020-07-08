@@ -6,11 +6,11 @@ hidden: true
 header:
   overlay_color: "#222222" #"#5e616c"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/DysonSW_Ecuador_2020-01-14_15.32.41_modified.jpg
+  overlay_image: /assets/images/banners/2019-10-06 12.45.10_modified_EagleMountain_withMarkH.jpg
   #actions:
   #  - label: "Get started"
   #    url: "/awtest/"
-  caption: ""
+  caption: "Northeastern Minnesota in early October; view from Eagle Mountain. *Photo: A. Wickert*"
 excerpt: Archean assembly. Glacial history. Modern environment.<br />
 #         <small>Environmental sensors and data loggers.</small>
 ---

@@ -7,12 +7,12 @@ classes: wide
 header:
   overlay_color: "#222222" #"#5e616c"
   overlay_filter: "0.5"
-  overlay_image: #/assets/images/DysonSW_Ecuador_2020-01-14_15.32.41_modified.jpg
+  overlay_image: /assets/images/banners/IMG_20151117_170548_modified_SaviExperiment.jpg
   #actions:
   #  - label: "Get started"
   #    url: "/awtest/"
-  caption: ""
-excerpt: ""
+  caption: "Experiments help us to understand and predict the complex interactions between water, sediment, and the surrounding landscape that shape tributary junctions. [Interested? Read Savi et al., 2020](https://esurf.copernicus.org/articles/8/303/2020/). *Photo: A. Wickert*"
+excerpt: "Joining our lab"
 ---
 
 ## Open positions

@@ -6,11 +6,11 @@ hidden: true
 header:
   overlay_color: "#222222" #"#5e616c"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/DysonSW_Ecuador_2020-01-14_15.32.41_modified.jpg
+  overlay_image: /assets/images/banners/PANO_20150719_190529_modified_Argentina_bedrock_alluvial_2015.jpg
   #actions:
   #  - label: "Get started"
   #    url: "/awtest/"
-  caption: ""
+  caption: "Sediment, rock, and water combine to shape Earth's surface. Northwestern Argentina. *Photo: A. Wickert*"
 excerpt: Rivers, glaciers, sea level, and instrumentation design.<br />
 #         <small>Environmental sensors and data loggers.</small>
 ---
