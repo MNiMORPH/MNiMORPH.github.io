@@ -91,6 +91,16 @@ grads:
     #url: ""
     #btn_label: "Homepage"
     #btn_class: "btn--inverse"
+  - image_path: /assets/images/headshots/nelson_square.jpg
+    alt: "Leah Nelson"
+    title: "Leah Nelson"
+    excerpt: "**M.S. Student**<br/>
+              B.A. 2015 Carleton College<br/>
+              *Tropical glacierized watersheds in Ecuador*
+              "
+    #url: ""
+    #btn_label: "Homepage"
+    #btn_class: "btn--inverse"
   - image_path: /assets/images/headshots/iscen_square.jpg
     alt: "Nilay Iscen"
     title: "Nilay Iscen"
