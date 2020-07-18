@@ -233,8 +233,13 @@ visitors:
 * Design of "thermal stake" for heat-flow and water-flux measurements
 * ***Now:*** [Enginner at Turck USA](https://www.linkedin.com/in/epg)
 
+#### Suyash Handa (2018)
+* Visiting undergraduate researcher from Colgate College
+* MEMS accelerometers and geophones for low-cost seismometers
+* **Now:** Joint physics (Colgate) and electrical engineering (Columbia) undergraduate student
+
 #### Lauren Michael (2017)
-* Visiting undergraduate researcher from Carleton College
+* Visiting undergraduate researcher from Carleton College (geology)
 * Mapping global paleolakes
 
 #### Keenen Francois-King (2017)
