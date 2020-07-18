@@ -219,7 +219,7 @@ visitors:
 * **MS, 2018** (co-advised with Amy Myrbo)
 * B.S. 2015 University of Minnesota Duluth
 * [Flyover Country](https://flyovercountry.io/)
-* **Now:** [Cartographer and Web Developer, Polar Geospatial Center](https://www.pgc.umn.edu/about/people/shane-loeffler/)
+* ***Now:*** [Cartographer and Web Developer, Polar Geospatial Center](https://www.pgc.umn.edu/about/people/shane-loeffler/)
 
 #### Rachel McLaughlin (2015-2017)
 * **MS, 2017** (co-advised with primary advisor Crystal Ng)
@@ -237,7 +237,7 @@ visitors:
 #### Suyash Handa (2018)
 * Visiting undergraduate researcher from Colgate College
 * MEMS accelerometers and geophones for low-cost seismometers
-* **Now:** Joint physics (Colgate) and electrical engineering (Columbia) undergraduate student
+* ***Now:*** Joint physics (Colgate) and electrical engineering (Columbia) undergraduate student
 
 #### Lauren Michael (2017)
 * Visiting undergraduate researcher from Carleton College (geology)
