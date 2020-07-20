@@ -94,7 +94,7 @@ grads:
   - image_path: /assets/images/headshots/nelson_square.jpg
     alt: "Leah Nelson"
     title: "Leah Nelson"
-    excerpt: "**M.S. Student**<br/>
+    excerpt: "**M.S. Student** (co-advised with primary advisor G.-H. Crystal Ng)<br/>
               B.A. 2015 Carleton College<br/>
               *Tropical glacierized watersheds in Ecuador*
               "
