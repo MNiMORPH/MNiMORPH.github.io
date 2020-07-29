@@ -171,6 +171,17 @@ visitors:
     #url: ""
     #btn_label: "Homepage"
     #btn_class: "btn--inverse"
+  - image_path: /assets/images/headshots/FjordCat.JPG
+    alt: "Fjord C. Wickert"
+    title: "Fjord Catters Wickert"
+    excerpt: "**Tuxedo Stylist**<br/>
+              Invasive Species Management<br/>
+              B.A.C. 2019<br/>
+              *Testing classical mechanics*
+              "
+    #url: ""
+    #btn_label: "Homepage"
+    #btn_class: "btn--inverse"
 ---
 
 
