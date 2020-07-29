@@ -19,11 +19,24 @@ excerpt: ""
 
 ### Incorporating topographic depressions into drainage analyses
 
-Advert: Kerry
+Internally-drained regions in digital elevation models, termed "depressions", have been traditionally treated as artifacts that need to be removed. While sometimes this was the case, many depressions are real. Unfortunately, these algorithms that erased depressions forced hydrologic and geomorphic models to also ignore them. This technological deficiency fueled a paradigm in which hydrologists and geomorphologists focused on steep mountain catchments rather than low-relief catchments with lakes and swales.
+
+The Depression Hierarchy and Fill-Spill-Merge algorithms and associated code bases (https://github.com/r-barnes/Barnes2019-DepressionHierarchy; https://github.com/r-barnes/Barnes2020-FillSpillMerge) are poised to reverse this trend. They allow us to integrate closed depressions directly into drainage networks in a mathematically consistent way as part of a directed graph. This tool will allow models to incorporate more elements of reality and open new landscapes and environments to cutting-edge hydrological and geomorphic research.
+
+#### Key Personnel
+
+* Richard Barnes
+* Kerry Callaghan
+
+#### Key Publications
+
+
 
 ### Attribution of climate vs. land-use change to increased river discharge
 
-Advert: Jabari
+#### Key Personnel
+
+* Jabari Jones
 
 ### Mechanistic river long-profile evolution
 
