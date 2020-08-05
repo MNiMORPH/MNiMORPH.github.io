@@ -17,7 +17,7 @@ excerpt: Archean assembly. Glacial history. Modern environment.<br />
 
 The University of Minnesota is situated at the meeting point of major geologic, physiographic, hydrologic, and ecologic provinces. Here, the wooded hills of the Paleozoic Plateau along the Upper Mississippi Valley meet the edge of the Prairies, and the central lakes meet the rugged cliffs and boreal forests of the Superior Craton and Keweenawan Rift. Waters from Minnesota flow to the Saint Lawrence, Hudson Bay, and the Gulf of Mexico. The topography is a patchwork of ice-stream-generated moraines, glacial outburst flood gorges, and exposed Precambrian tectonic structures.
 
-![Minnesota Landscapes](/assets/images/Minnesota.png)
+<img align="right" src="/assets/images/Minnesota.png" style="margin:15px">
 
 Our group:
 * Investigates how past glaciations shaped the landscape, rivers, and sea level
