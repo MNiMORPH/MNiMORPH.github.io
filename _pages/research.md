@@ -164,6 +164,8 @@ We design and build open-source sensors and data loggers to monitor the environm
 * https://github.com/NorthernWidget
 * https://github.com/NorthernWidget-Skunkworks
 
+<img align="right" src="https://raw.githubusercontent.com/NorthernWidget-Skunkworks/Project-Margay/master/Documentation/images/MargayAndyHand_cropped_2020-02-16_19.22.39.png" alt="Margay v2.2 data logger" width="480px">
+
 * Wickert, A. D., C. T. Sandell, R. Schulz, and G.-H. C. Ng (2019b), [Open-source Arduino-compatible data loggers designed for field research](https://hess.copernicus.org/articles/23/2065/2019/), Hydrology and Earth System Sciences, 23, 2065–2076, doi:10.5194/hess-23-2065-2019.
 * Tauro, F., Selker, J., van de Giesen, N., Abrate, T., Uijlenhoet, R., Porfiri, M., Manfreda, S., Caylor, K., Moramarco, T., Benveniste, J., Ciraolo, G., Estes, L., Domeneghetti, A., Perks, M., Corbari, C., Rabiei, E., Ravazzani, G., Bogena, H., Harfouche, A., Brocca, L., Maltese, A., Wickert, A., Tarpanelli, A., Good, S., Lopez Alcala, J. M., Petroselli, A., Cudennec, C., Blume, T., Hut, R., and Grimaldi, S. (2018), [Measurements and Observations in the XXI century (MOXXI): innovation and multidisciplinarity to sense the hydrological cycle](https://www.tandfonline.com/doi/abs/10.1080/02626667.2017.1420191), Hydrological Sciences Journal, 63(2), 169–196, doi:10.1080/02626667.2017.1420191.
 * Wickert, A. D. (2014), [The ALog: Inexpensive, Open-Source, Automated Data Collection in the Field](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1890/0012-9623-95.2.68#:~:text=The%20ALog%20data%20logger%2C%20built,%2C%20and%20low%E2%80%90cost%20design.), Bulletin of the Ecological Society of America, 95(2), 68–78, doi:10.1890/0012-9623-95.2.68.
