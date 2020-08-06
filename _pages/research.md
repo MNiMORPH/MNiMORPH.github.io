@@ -11,7 +11,7 @@ header:
   #actions:
   #  - label: "Get started"
   #    url: "/awtest/"
-  caption: "The upper Mississippi River integrated between 2.6 and 0.8 million years ago when ice first advanced into its catchment, damming rivers into lakes that overtopped ancient drainage divides and incised through isostatically uplifted landscape. Deeply eroded bedrock and an ancient waterfall beneath the river bed record the big river's dramatic start. *[Read the full study in Science Advances](https://advances.sciencemag.org/content/5/1/eaav2366/).*"
+  caption: "The upper Mississippi River integrated between 2.6 and 0.8 million years ago when ice first advanced into its catchment, damming rivers into lakes that overtopped and incised ancient drainage divides. A deep buried gorge and waterfall record the big river's dramatic start. *[Read the full study in Science Advances](https://advances.sciencemag.org/content/5/1/eaav2366/).*"
 excerpt: "Fluvial geomorphology<br/>
           Glaciers and sea level<br/>
           Water in the environment<br/>
@@ -82,6 +82,8 @@ How did ice sheets and global sea-level change since the Last Glacial Maximum, ~
 * Collaborations to couple our work as inputs to and/or tests for general circulation models (i.e., global climate models)
 
 We use these approaches together to reconstruct past landscapes and environments, and to test the skill of our physics-based models of river and landscape change against long-term data sets.
+
+***Research spotlight:*** [***A buried waterfall on a backwards Mississippi River***](https://www.safl.umn.edu/node/1636)
 
 ### Key Personnel
 
