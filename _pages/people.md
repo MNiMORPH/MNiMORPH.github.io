@@ -206,7 +206,7 @@ visitors:
 
 ### Researchers
 
-#### Fiona Clubb (2017)
+#### Dr. Fiona Clubb (2017)
 * **Predoctoral research scientist**
 * *Research with our group:* River-terrace analysis in the upper Mississippi valley
 * ***Now:*** [Assistant Professor, Department of Geography, Durham University](https://www.dur.ac.uk/research/directory/staff/?mode=staff&id=18302)
