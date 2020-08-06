@@ -23,10 +23,9 @@ excerpt: "Fluvial geomorphology<br/>
 Our work connects glaciers to the sea, encompassing water, sediment, and landscape evolution. Our diverse work, from building embedded electronics to augering for samples from past rivers and glaciers, is designed to be able to answer one key question: ***What drives and sets the pace and style of Earth-surface change?***
 
 To see our open-source code, open-access data, and open-source hardware designs, visit:
-* https://github.com/umn-earth-surface
-* https://github.com/awickert
-* https://github.com/NorthernWidget
-* https://github.com/NorthernWidget-Skunkworks
+* [Research group GitHub organization](https://github.com/umn-earth-surface)
+* [Wickert's GitHub](https://github.com/awickert)
+* Instrumentation GitHub organizations for [finalized](https://github.com/NorthernWidget) and [experimental](https://github.com/NorthernWidget-Skunkworks) designs
 
 ![Fitz Roy](/assets/images/GroupFitzRoy.JPG)
 
