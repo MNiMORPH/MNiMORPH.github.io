@@ -11,7 +11,10 @@ header:
   #  - label: "Get started"
   #    url: "/awtest/"
   caption: "Northeastern Minnesota in early October; view from Eagle Mountain. *Photo: A. Wickert*"
-excerpt: Archean assembly. Glacial history. Modern environment.<br />
+excerpt: Archean to Proterozoic craton<br />
+         Sculpted by glaciers<br />
+         Experiencing human-induced environmental change<br />
+         Covered in lakes, forests, streams, hills, prairies, & mosquitoes<br />
 #         <small>Environmental sensors and data loggers.</small>
 ---
 
