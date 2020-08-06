@@ -11,7 +11,7 @@ header:
   #actions:
   #  - label: "Get started"
   #    url: "/awtest/"
-  caption: "The upper Mississippi River integrated between 2.6 and 0.8 million years ago when ice first advanced into its catchment, damming rivers into lakes that overtopped and incised ancient drainage divides. A deep buried gorge and waterfall record the big river's dramatic start. *[Read the full study in Science Advances](https://advances.sciencemag.org/content/5/1/eaav2366/).*"
+  caption: "The upper Mississippi River integrated when glaciers advanced between 2.6 and 0.8 million years ago, damming rivers into lakes that overtopped and incised ancient drainage divides. A deep buried gorge and waterfall record the big river's dramatic start. *[Science Advances](https://advances.sciencemag.org/content/5/1/eaav2366/)*"
 excerpt: "Fluvial geomorphology<br/>
           Glaciers and sea level<br/>
           Water in the environment<br/>
