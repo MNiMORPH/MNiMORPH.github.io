@@ -1,7 +1,7 @@
 ---
-title: "Prospective Students and Researchers"
+title: "Our Lab + Prospective Students & Researchers"
 layout: splash
-permalink: /prospective/
+permalink: /lab+prospective/
 author_profile: false
 classes: wide
 header:
@@ -12,12 +12,14 @@ header:
   #  - label: "Get started"
   #    url: "/awtest/"
   caption: "Experiments help us to understand and predict the complex interactions between water, sediment, and the surrounding landscape that shape tributary junctions. [Interested? Read Savi et al., 2020](https://esurf.copernicus.org/articles/8/303/2020/). *Photo: A. Wickert*"
-excerpt: "Joining our lab"
+excerpt: "Facilities<br/>Broad goals<br/>Information if you are considering joining us<br/>"
 ---
 
 # The lab & our group
 
-We are a group that straddles traditional disciplines. We run the **Surface Processes Instrumentation Lab** within the [Department of Earth & Environmental Sciences](https://www.esci.umn.edu/) in [John T. Tate Hall](https://www.google.com/maps/uv?hl=en&pb=!1s0x52b32d1661d0911f%3A0xb4bf99a8068a596f!3m1!7e115!4shttps%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNT5CBaqaF5K2RSo63dayZLeght6UBqYgTeFtJ2%3Dw262-h176-k-no!5sjohn%20t%20tate%20hall%20-%20Google%20Search!15sCgIgAQ&imagekey=!1e10!2sAF1QipNT5CBaqaF5K2RSo63dayZLeght6UBqYgTeFtJ2&sa=X&ved=2ahUKEwiy2uDSk4brAhXbVc0KHRAnDbAQoiowFHoECBAQBg). We are also a part of the [Saint Anthony Falls Laboratory](https://www.safl.umn.edu/), a legendary hydraulics lab built into the side of the largest waterfall on the Mississippi, where group members can have offices and run experiments.
+<img align="right" src="/assets/images/DSC_0728_OnABoat.JPG" alt="Ivanovic" width="480px">
+
+We are a group that straddles traditional disciplines. We run the **Surface Processes Instrumentation Lab** within the [Department of Earth & Environmental Sciences](https://www.esci.umn.edu/) in [John T. Tate Hall](https://www.google.com/maps/uv?hl=en&pb=!1s0x52b32d1661d0911f%3A0xb4bf99a8068a596f!3m1!7e115!4shttps%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNT5CBaqaF5K2RSo63dayZLeght6UBqYgTeFtJ2%3Dw262-h176-k-no!5sjohn%20t%20tate%20hall%20-%20Google%20Search!15sCgIgAQ&imagekey=!1e10!2sAF1QipNT5CBaqaF5K2RSo63dayZLeght6UBqYgTeFtJ2&sa=X&ved=2ahUKEwiy2uDSk4brAhXbVc0KHRAnDbAQoiowFHoECBAQBg). We are also a part of the [**Saint Anthony Falls Laboratory**](https://www.safl.umn.edu/), a legendary hydraulics lab built into the side of the largest waterfall on the Mississippi, where group members can have offices and run experiments. Wickert is also an Associate of the [**Institute on the Environment (IonE)**](http://environment.umn.edu/), which hosts educational and research programs and helps us to communicate our work and to produce impactful applications.
 
 Most importantly, though, we are the lab members. If you are inquisitive, open-minded, interested in connecting theory and observations, and someone who wants to be a member of a diverse and collaborative team, you could be be a good fit. If you are excited about methods that may include instrumentation design, numerical methods, physical computing, laboratory experiments, geomorphic history, field investigations, and/or theory, your interests intersect with ours. We have limited positions, but we're always glad to hear form interested applicants.
 
