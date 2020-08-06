@@ -43,7 +43,7 @@ Current focal points include:
 
 ![UMV Perrot](/assets/images/2019-10-27 09.45.24_modified_UMV_Perrot.jpg)
 
-#### Key Personnel
+### Key Personnel
 
 * Andy Wickert
 * Nilay Iscen
@@ -52,7 +52,7 @@ Current focal points include:
 * Phil Larson
 * Peter Mitchell
 
-#### Key Publications
+### Key Publications
 
 <img align="right" src="https://esurf.copernicus.org/articles/7/17/2019/esurf-7-17-2019-avatar-web.png" alt="Long-profile plots">
 
@@ -62,7 +62,7 @@ Current focal points include:
 * Wickert, A. D., and T. F. Schildgen (2019), [Long-Profile Evolution of Transport-Limited Gravel-Bed Rivers](https://esurf.copernicus.org/articles/7/17/2019/), Earth Surface Dynamics, 7, 17–43, doi:10.5194/esurf-7-17-2019.
 * Wickert, A. D., J. M. Martin, M. Tal, W. Kim, B. A. Sheets, and C. Paola (2013), River channel lateral mobility: metrics, time scales, and controls, Journal of Geophysical Research: Earth Surface, 118(2), 396–412, doi:10.1029/2012JF002386.
 
-#### Additional Relevant Publications
+### Additional Relevant Publications
 
 * Beaulieu, O. P., E. Witte, and A. D. Wickert (in revision, 2020), Mechanistic Insights from Emergent Landslides in Physical Experiments, Geology.
 * Tofelde, S., W. Düsing, T. F. Schildgen, A. D. Wickert, H. Wittmann, and R. N. Alonso (2018), [Effects of deep-seated versus shallow hillslope processes on cosmogenic 10 Be concentrations in fluvial sand and gravel](https://onlinelibrary.wiley.com/doi/abs/10.1002/esp.4471), Earth Surface Processes and Landforms, 34, 3086–3098, doi:10.1002/esp.4471.
@@ -180,6 +180,13 @@ We design and build open-source sensors and data loggers to monitor the environm
 * https://github.com/NorthernWidget-Skunkworks
 
 <img align="right" src="https://raw.githubusercontent.com/NorthernWidget-Skunkworks/Project-Margay/master/Documentation/images/MargayAndyHand_cropped_2020-02-16_19.22.39.png" alt="Margay v2.2 data logger" width="480px">
+
+### Key Personnel
+
+* Bobby Schulz
+* Andy Wickert
+
+### Key Publications
 
 * Wickert, A. D., C. T. Sandell, R. Schulz, and G.-H. C. Ng (2019b), [Open-source Arduino-compatible data loggers designed for field research](https://hess.copernicus.org/articles/23/2065/2019/), Hydrology and Earth System Sciences, 23, 2065–2076, doi:10.5194/hess-23-2065-2019.
 * Tauro, F., Selker, J., van de Giesen, N., Abrate, T., Uijlenhoet, R., Porfiri, M., Manfreda, S., Caylor, K., Moramarco, T., Benveniste, J., Ciraolo, G., Estes, L., Domeneghetti, A., Perks, M., Corbari, C., Rabiei, E., Ravazzani, G., Bogena, H., Harfouche, A., Brocca, L., Maltese, A., Wickert, A., Tarpanelli, A., Good, S., Lopez Alcala, J. M., Petroselli, A., Cudennec, C., Blume, T., Hut, R., and Grimaldi, S. (2018), [Measurements and Observations in the XXI century (MOXXI): innovation and multidisciplinarity to sense the hydrological cycle](https://www.tandfonline.com/doi/abs/10.1080/02626667.2017.1420191), Hydrological Sciences Journal, 63(2), 169–196, doi:10.1080/02626667.2017.1420191.
