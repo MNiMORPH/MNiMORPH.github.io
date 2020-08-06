@@ -28,9 +28,11 @@ To see our open-source code, open-access data, and open-source hardware designs,
 * https://github.com/NorthernWidget
 * https://github.com/NorthernWidget-Skunkworks
 
+![Fitz Roy](/assets/images/GroupFitzRoy.JPG)
+
 ## River mechanics and geomorphic evolution
 
-<img align="right" src="https://esurf.copernicus.org/articles/7/17/2019/esurf-7-17-2019-avatar-web.png" alt="Long-profile plots">
+<img align="right" src="/assets/images/NetworkGridSchematic.png" alt="RiverNetwork" width="230px">
 
 We work to find **physics-centered solutions** for how **river channels and watersheds evolve through time**. Our goal is geomorphic: to predict the results of landscape change. To do so, we develop theory and build mathematical and numerical models. We then test these against field data from modern and ancient settings, as well as against laboratory experiments, to improve our ability to predict both natural and human impacts on river and landscape change.
 
@@ -39,6 +41,8 @@ Current focal points include:
 * Linking hydrology and hillslope sediment supply with channel evolution
 * Impacts of changing climate and land use on river systems
 * Transience and departures from steady bankfull hydraulics
+
+![UMV Perrot](/assets/images/2019-10-27 09.45.24_modified_UMV_Perrot.jpg)
 
 #### Key Personnel
 
@@ -50,6 +54,8 @@ Current focal points include:
 * Peter Mitchell
 
 #### Key Publications
+
+<img align="right" src="https://esurf.copernicus.org/articles/7/17/2019/esurf-7-17-2019-avatar-web.png" alt="Long-profile plots">
 
 * Savi, S., S. Tofelde, A. D. Wickert, A. Bufe, T. F. Schildgen, and M. R. Strecker (2020), [Interactions between main channels and tributary alluvial fans: channel adjustments and sediment-signal propagation](https://esurf.copernicus.org/articles/8/303/2020/), Earth Surface Dynamics, 8, 303–322, doi:10.5194/esurf-8-303-2020.
 * Bufe, A., J. M. Turowski, D. W. Burbank, C. Paola, A. D. Wickert, and S. Tofelde (2019), [Controls on the lateral channel migration rate of braided channel systems in coarse non-cohesive sediment](https://onlinelibrary.wiley.com/doi/full/10.1002/esp.4710), Earth Surface Processes and Landforms, 44(14), 2823–2836, doi:10.1002/esp.4710.
@@ -65,6 +71,8 @@ Current focal points include:
 
 
 ## Glacial cycles and global change
+
+<img align="right" src="/assets/images/Ivanovic2017_myfig_TD.png" alt="Ivanovic" width="480px">
 
 How did ice sheets and global sea-level change since the Last Glacial Maximum, ~26,000–19,500 years ago, and what can this teach us about past and modern landscapes, ice dynamics, climate, and the solid Earth? Our work to answer these questions encompasses:
 * Field studies to map and date evidence of ancient rivers and landscapes
@@ -92,6 +100,8 @@ We use these approaches together to reconstruct past landscapes and environments
 
 ### Key Publications: Rivers, Glaciers, and Ice Sheets
 
+<img align="right" src="/assets/images/rivers_G12_BA_0145.png" alt="G12 rivers at 14.5 ka" width="480px">
+
 * M. S. van Wyk de Vries and A. D. Wickert (submitted, 2020), Glacier Image Velocimetry: an open-source toolbox for easy and rapid calculation of high-resolution glacier-velocity fields, The Cryosphere Discussions.
 * Koriche, S. A., J. Singarayer, H. Cloke, P. Valdes, F. Wesselingh, S. Kroonenberg, A. Wickert, and T. Yanina (submitted, 2020), What are the drivers of Caspian Sea level variation during the late Quaternary?, Quaternary Science Reviews.
 * Tofelde, S., T. F. Schildgen, S. Savi, H. Pingel, A. D. Wickert, B. Bookhagen, H. Wittmann, R. N. Alonso, J. Cottle, and M. R. Strecker (2017), [100 kyr fluvial cut-and-fill terrace cycles since the Middle Pleistocene in the southern Central Andes, NW Argentina](https://www.sciencedirect.com/science/article/pii/S0012821X17303102), Earth Planet. Sci. Lett., 473, 141–153, doi:10.1016/j.epsl.2017.06.001.
@@ -116,6 +126,8 @@ The Depression Hierarchy and Fill-Spill-Merge algorithms and associated code bas
 
 ### Hydrological modeling, water resources, and sustainability
 
+<img align="right" src="https://trac.osgeo.org/grass/raw-attachment/wiki/Grass7/NewFeatures74/gsflow_CannonRiver.png" alt="GSFLOW-GRASS discretization (HRUs) for the Cannon River, Minnesota, USA" width="480px">
+
 * We co-built [GSFLOW-GRASS](https://github.com/UMN-Hydro/GSFLOW-GRASS), which automates construction of model domains and inputs to the [US Geological Survey's integrated hydrological model GSFLOW](https://www.usgs.gov/software/coupled-ground-water-and-surface-water-flow-model-gsflow), a combination of MODFLOW and PRMS.
 * Changing climate, land use, and land cover is changing hydrological regimes across the Midwest. We seek to quantify and attribute this change.
 * We frequently apply our instrumentation to water-resources problems.
@@ -126,6 +138,8 @@ The Depression Hierarchy and Fill-Spill-Merge algorithms and associated code bas
 * Kerry Callaghan
 * Jabari Jones
 * Andy Wickert
+
+![Perito Moreno ablation stake](/assets/images/MaxAndy_AblationStakes.JPG)
 
 ### Key Publications
 
@@ -140,7 +154,7 @@ The Depression Hierarchy and Fill-Spill-Merge algorithms and associated code bas
 
 ## Flexural isostasy
 
-<img align="right" src="https://www.researchgate.net/profile/Andrew_Wickert/publication/297737148/figure/fig1/AS:338333042528256@1457676291050/Flexural-isostasy-can-be-produced-in-response-to-a-range-of-geological-loads_W640.jpg" alt="Flexural isostasy examples" width="480px">
+<img align="right" src="/assets/images/IntroCartoon3D.png" alt="Flexural isostasy examples" width="480px">
 
 Wickert developed [gFlex](https://github.com/awickert/gFlex), a finite-difference solver for lithospheric flexure that is written in Python and integrated into [CSDMS](https://csdms.colorado.edu/), [Landlab](https://landlab.github.io/), and [PyBandlands](https://github.com/badlands-model/badlands). We also occasionally use it ourselves, thus far on glacial isostatic adjustment and foreland basin development.
 
