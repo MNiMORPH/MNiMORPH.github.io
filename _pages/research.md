@@ -175,9 +175,9 @@ Wickert developed [gFlex](https://github.com/awickert/gFlex), a finite-differenc
 ![Weather station](https://northernwidget.com/assets/images/MiddleWS_2020-02-23_19.59.52_modified.jpg)
 
 We design and build open-source sensors and data loggers to monitor the environment. For more information, see:
-* https://northernwidget.com/
-* https://github.com/NorthernWidget
-* https://github.com/NorthernWidget-Skunkworks
+* [Northern Widget Website](https://northernwidget.com/): information on our open-source electronics
+* [Northern Widget GitHub](https://github.com/NorthernWidget)
+* [Northern Widget Skunkworks GitHub](https://github.com/NorthernWidget-Skunkworks)
 
 <img align="right" src="https://raw.githubusercontent.com/NorthernWidget-Skunkworks/Project-Margay/master/Documentation/images/MargayAndyHand_cropped_2020-02-16_19.22.39.png" alt="Margay v2.2 data logger" width="480px">
 
