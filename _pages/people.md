@@ -84,7 +84,7 @@ grads:
   - image_path: /assets/images/headshots/penprase_square.jpeg
     alt: "Shanti Penprase"
     title: "Shanti Penprase"
-    excerpt: "**Ph.D. Student**<br/>
+    excerpt: "**Ph.D. Candidate**<br/>
               B.A. 2016 Carleton College<br/>
               *Glacier–river interactions; Quaternary geochronology*
               "
