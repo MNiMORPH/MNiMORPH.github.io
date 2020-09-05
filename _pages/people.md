@@ -81,7 +81,7 @@ grads:
     #url: ""
     #btn_label: "Homepage"
     #btn_class: "btn--inverse"
-  - image_path: /assets/images/headshots/penprase_square.jpeg
+  - image_path: /assets/images/headshots/penprase_2020_square_480px.jpg
     alt: "Shanti Penprase"
     title: "Shanti Penprase"
     excerpt: "**Ph.D. Candidate**<br/>
