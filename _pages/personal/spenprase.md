@@ -28,4 +28,4 @@ Fluvial geomorphology, fluvial and glacial systems, geochronology
 * [Department of Earth and Environmental Sciences](https://www.esci.umn.edu/)
 
 
-![Image!](/assets/images/personal-pages/Zion.jpg)
+![Image!](/assets/images/personal-pages/Shanti_Upsala.jpg)
