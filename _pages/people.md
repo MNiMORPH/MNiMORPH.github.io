@@ -43,7 +43,7 @@ grads:
     alt: "Kerry Callaghan"
     title: "Kerry Callaghan"
     excerpt: "**Ph.D. Candidate**<br/>
-              B.S. 2011 University of Praetoria<br/>
+              B.S. 2011 University of Pretoria<br/>
               M.S. 2014 Stellenbosch University<br/>
               *Glacial-stage hydrology, terrestrial water storage, surface-water computation*
               "
