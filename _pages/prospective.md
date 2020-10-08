@@ -25,7 +25,22 @@ Most importantly, though, we are the lab members. If you are inquisitive, open-m
 
 ## Open positions
 
-We are considering applicants for the following positions:
+We are interested in considering applicants for the following positions:
+
+### Model deveolpment in fluvial geomorphology
+
+***Ph.D. student (University of Minnesota)***
+
+* Working with Andy Wickert
+* Analyzing landscape structure
+* Coupling and numerically solving differential equations for river-system change
+* Applying solutions to problems of flooding, climate change, and geological-scale river evolution
+
+***Desired skills***
+
+* Scientific programming and software development (C++ and/or Python)
+* Geospatial computation and topographic analysis
+* Mathematics, physics, and fluid mechanics
 
 ### Deciphering the glacial and deglacial history of the upper Mississippi valley
 
@@ -35,6 +50,13 @@ We are considering applicants for the following positions:
 * Dating the terrace record (CRN and/or OSL)
 * Modeling river long-profile evolution
 * Linking research to ice-sheet and proglacial-lake history
+
+***Desired skills***
+
+* Scientific programming and software development (C++ and/or Python)
+* Geospatial computation and topographic analysis
+* Field geomorphology and Quaternary geology
+* (Can be taught through short courses) Quaternary geochronology
 
 ### Environmental instrumentation
 
@@ -48,6 +70,13 @@ We are considering applicants for the following positions:
   * Documentation
   * Telemetry
   * Bringing these technologies to the people who need them
+
+***Desired skills***
+
+* Electrical engineering: circuit design, fabrication, and assembly
+* Mechanical engineering: CAD, fabrication (CNC, 3D printing), and assembly
+* Scientific programming and software development (C++ and/or Python), with a focus on Arduino-style embedded C++
+* Field instrumentation assembly and data analysis
 
 ### Aeolian activity in the upper Mississippi valley
 
