@@ -25,7 +25,7 @@ Most importantly, though, we are the lab members. If you are inquisitive, open-m
 
 ## Open positions
 
-We are considering applicants for the following positions:
+We are considering applicants for projects in the following general areas:
 
 ### Deciphering the glacial and deglacial history of the upper Mississippi valley
 
@@ -48,6 +48,14 @@ We are considering applicants for the following positions:
   * Documentation
   * Telemetry
   * Bringing these technologies to the people who need them
+
+### Field-oriented fluvial geomorphology
+
+***M.S. student (Minnesota State University, Mankato)***
+
+* Working with Phil Larson
+* Linking late Quaternary fluvial-system change and geochronology
+* Connections between soils geomorphology, weathering, and landscape change
 
 ### Aeolian activity in the upper Mississippi valley
 
