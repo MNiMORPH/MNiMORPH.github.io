@@ -42,9 +42,10 @@ grads:
   - image_path: /assets/images/headshots/callaghan_square.jpg
     alt: "Kerry Callaghan"
     title: "Kerry Callaghan"
-    excerpt: "**Ph.D. Candidate**<br/>
+    excerpt: "**Ph.D. Defended, December 2020**<br/>
               B.S. 2011 University of Pretoria<br/>
               M.S. 2014 Stellenbosch University<br/>
+              Ph.D. 2020 University of Minnesota<br/>
               *Glacial-stage hydrology, terrestrial water storage, surface-water computation*
               "
     #url: ""
