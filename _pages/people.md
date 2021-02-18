@@ -18,7 +18,8 @@ faculty:
     title: "Andy Wickert"
     excerpt: "**McKnight Land-Grant Assistant Professor**<br/>
               Ph.D. 2014 University of Colorado Boulder<br/>
-              S.B. 2008 Massachusetts Institute of Technology
+              S.B. 2008 Massachusetts Institute of Technology<br/>
+              awickert [at] umn [dot] edu
               "
     #url: "https://www.esci.umn.edu/people/Andy-Wickert"
     url: "/people/awickert/"
@@ -31,7 +32,8 @@ faculty:
               Department of Geography, Minnesota State University, Mankato**<br/>
               Ph.D. 2013 Arizona State University<br/>
               M.A. 2011 Arizona State University<br/>
-              B.S 2008 University of Wisconsin - Eau Claire
+              B.S 2008 University of Wisconsin - Eau Claire<br/>
+              phillip.larson [at] mnsu [dot] edu
               "
     url: "/people/phlarson/"
     #url: "https://sbs.mnsu.edu/academics/geography/faculty-and-staff/phillip-larson/"
@@ -46,7 +48,8 @@ grads:
               B.S. 2011 University of Pretoria<br/>
               M.S. 2014 Stellenbosch University<br/>
               Ph.D. 2020 University of Minnesota<br/>
-              *Glacial-stage hydrology, terrestrial water storage, surface-water computation*
+              *Glacial-stage hydrology, terrestrial water storage, surface-water computation*<br/>
+              calla350 [at] umn [dot] edu
               "
     #url: ""
     #btn_label: "Homepage"
@@ -56,7 +59,8 @@ grads:
     title: Bobby Schulz
     excerpt: "**M.S. Student** (co-advised with Nikolaos Papanikolopoulos)<br/>
               B.S. 2017 University of Minnesota<br/>
-              *Environmental instrumentation*
+              *Environmental instrumentation*<br/>
+              schu3119 [at] umn [dot] edu
               "
     #url: ""
     #btn_label: "Homepage"
@@ -67,7 +71,8 @@ grads:
     excerpt: "**Ph.D. Candidate**<br/>
               M.S. 2018 Utah State University<br/>
               B.A. 2015 Carleton College<br/>
-              *Geomorphic and hydrologic response to climate and land-use change*
+              *Geomorphic and hydrologic response to climate and land-use change; environmental justice; geoscience education*<br/>
+              jone2176 [at] umn [dot] edu
               "
     #url: ""
     #btn_label: "Homepage"
@@ -77,7 +82,8 @@ grads:
     title: "Max van Wyk de Vries"
     excerpt: "**Ph.D. Candidate** (co-advised with Emi Ito)<br/>
               B.Sc. 2018 University of Edinburgh<br/>
-              *Deglaciation, isostatic adjustment, and paleolimnology in southern Patagonia*
+              *Deglaciation, isostatic adjustment, and paleolimnology; volcanic and glacial hazards; remote sensing*<br/>
+              vanwy048 [at] umn [dot] edu
               "
     #url: ""
     #btn_label: "Homepage"
@@ -87,7 +93,8 @@ grads:
     title: "Shanti Penprase"
     excerpt: "**Ph.D. Candidate**<br/>
               B.A. 2016 Carleton College<br/>
-              *Glacier–river interactions; Quaternary geochronology*
+              *Glacier–river interactions; Quaternary geochronology*<br/>
+              penpr001 [at] umn [dot] edu
               "
     #url: ""
     #btn_label: "Homepage"
@@ -97,7 +104,8 @@ grads:
     title: "Leah Nelson"
     excerpt: "**M.S. Student** (co-advised with primary advisor G.-H. Crystal Ng)<br/>
               B.A. 2015 Carleton College<br/>
-              *Tropical glacierized watersheds in Ecuador*
+              *Tropical glacierized watersheds in Ecuador*<br/>
+              nel00954 [at] umn [dot] edu
               "
     #url: ""
     #btn_label: "Homepage"
@@ -109,7 +117,8 @@ grads:
               M.S. 2018 Virginia Polytechnic Institute and State University<br/>
               M.S. 2015 Middle East Technical University<br/>
               B.S. 2011 Middle East Technical University<br/>
-              *Fluvial geomorphology*
+              *Fluvial geomorphology*<br/>
+              iscen001 [at] umn [dot] edu
               "
     #url: ""
     #btn_label: "Homepage"
@@ -121,14 +130,27 @@ undergrads:
     title: "Josie Welsh"
     excerpt: "**Undergraduate Researcher**<br/>
               University of Minnesota<br/>
-              *Bed-load sediment sampler design*
+              *Bed-load sediment sampler design*<br/>
+              welsh162 [at] umn [dot] edu
               "
   - image_path: /assets/images/headshots/blank.jpg
     alt: "Peter Mitchell"
     title: "Peter Mitchell"
     excerpt: "**Undergraduate Researcher**<br/>
               University of Minnesota<br/>
-              *River-terrace mapping*
+              *River-terrace mapping*<br/>
+              mitc0560 [at] umn [dot] edu
+              "
+    #url: ""
+    #btn_label: "Homepage"
+    #btn_class: "btn--inverse"
+  - image_path: /assets/images/headshots/blank.jpg
+    alt: "Jesse Schewe"
+    title: "Jesse Schewe"
+    excerpt: "**Undergraduate Researcher**<br/>
+              University of Minnesota<br/>
+              *DEM merging and analysis along the St. Croix River*<br/>
+              schew027 [at] umn [dot] edu
               "
     #url: ""
     #btn_label: "Homepage"
@@ -145,7 +167,8 @@ visitors:
               B.S. 2011, Physics, University of Minnesota<br/>
               B.A. 2010, Philosophy, University of Minnesota<br/>
               [Github](https://github.com/r-barnes) | [Homepage](http://richard.science)<br/>
-              *Elegant solutions to computational problems*
+              *Elegant solutions to computational problems*<br/>
+              richard.barnes [at] berkeley [dot] edu
               "
   - image_path: /assets/images/headshots/prichard.jpeg
     alt: "Andrea Prichard"
@@ -155,7 +178,7 @@ visitors:
               M.S. 2012 Universidad Mayor de San Simón<br/>
               M.A. 2011 University of Arizona<br/>
               B.A. 2004 Oberlin College<br/>
-              *GIS and water resources*
+              *GIS and water resources*<br/>
               "
     #url: "/people/ahprichard/"
     #btn_label: "About"
@@ -167,7 +190,8 @@ visitors:
               Doctoral student, CICTERRA-CONICET and Argentine Antarctic Program, Universidad Nacional de Córdoba<br/>
               Advisor: Jorge A. Strelin<br/>
               Geologist, 2019, Universidad Nacional de Córdoba<br/>
-              *Glacial geology, ice sheets, and sea level*
+              *Glacial geology, ice sheets, and sea level*<br/>
+              matias.romero [at] unc [dot] edu [dot] ar
               "
     #url: ""
     #btn_label: "Homepage"
