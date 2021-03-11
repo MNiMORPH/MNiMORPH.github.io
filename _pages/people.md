@@ -137,6 +137,16 @@ grads:
     #url: ""
     #btn_label: "Homepage"
     #btn_class: "btn--inverse"
+    - image_path: /assets/images/headshots/blank.jpg
+      alt: "Tyler Fulghum"
+      title: "Tyler Fulghum"
+      excerpt: "**Ph.D. Student**<br/>
+                B.S. 2021 (pending) Tennessee Technological University<br/>
+                *Instrumentation and geoscientific data*
+                "
+      #url: ""
+      #btn_label: "Homepage"
+      #btn_class: "btn--inverse"
 
 undergrads:
   - image_path: /assets/images/headshots/blank.jpg
