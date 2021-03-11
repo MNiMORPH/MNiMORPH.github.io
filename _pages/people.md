@@ -40,6 +40,20 @@ faculty:
     btn_label: "About"
     btn_class: "btn--inverse"
 
+researchers:
+- image_path: /assets/images/headshots/kwang_headshot.jpg
+  alt: "Jeffrey Kwang"
+  title: "Jeffrey Kwang"
+  excerpt: "**Postdoctoral Research Scientist**<br/>
+            Ph.D. 2019 University of Illinois<br/>
+            M.S. 2016 University of Illinois<br/>
+            B.S. 2013 Johns Hopkins University<br/>
+            jeffskwang [at] gmail [dot] com
+            "
+  url: "https://jeffskwang.github.io/"
+  btn_label: "Homepage"
+  btn_class: "btn--inverse"
+
 grads:
   - image_path: /assets/images/headshots/callaghan_square.jpg
     alt: "Kerry Callaghan"
@@ -214,6 +228,10 @@ visitors:
 ## Faculty
 
 {% include feature_row id="faculty" %}
+
+## Researchers and Postdocs
+
+{% include feature_row id="researchers" %}
 
 ## Graduate Students
 
