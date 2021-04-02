@@ -147,6 +147,16 @@ grads:
     #url: ""
     #btn_label: "Homepage"
     #btn_class: "btn--inverse"
+  - image_path: /assets/images/headshots/blank.jpg
+    alt: "Jimmy Wood"
+    title: "Jimmy Wood"
+    excerpt: "**M.S. Student**<br/>
+              B.S. 2021 (pending) University of Nebraska Omaha<br/>
+              *Fluvial geomorphology*
+              "
+    #url: ""
+    #btn_label: "Homepage"
+    #btn_class: "btn--inverse"
 
 undergrads:
   - image_path: /assets/images/headshots/blank.jpg
