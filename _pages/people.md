@@ -16,7 +16,7 @@ faculty:
   - image_path: /assets/images/headshots/andy_square_320px.png
     alt: "Andy Wickert"
     title: "Andy Wickert"
-    excerpt: "**McKnight Land-Grant Assistant Professor**<br/>
+    excerpt: "**McKnight Land-Grant Associate Professor**<br/>
               Ph.D. 2014 University of Colorado Boulder<br/>
               S.B. 2008 Massachusetts Institute of Technology<br/>
               awickert [at] umn [dot] edu
@@ -28,7 +28,7 @@ faculty:
   - image_path: /assets/images/headshots/larson_square.jpg
     alt: "Phil Larson"
     title: "Phil Larson"
-    excerpt: "**Associate Professor:
+    excerpt: "**Professor:
               Department of Geography, Minnesota State University, Mankato**<br/>
               Ph.D. 2013 Arizona State University<br/>
               M.A. 2011 Arizona State University<br/>
