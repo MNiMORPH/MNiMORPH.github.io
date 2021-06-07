@@ -6,7 +6,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: assets/images/banners/2018-06-20 15.38.58_modified_Terrace_Diamond.jpg
-  caption: "Pleistocene braided-river bars cross farmfields on the Last Glacial Maximum terrace of the Mississippi River, looking towards Diamond Bluff, Wisconsin. The modern Mississippi lies hidden, tucked 30-40 meters below the terrace at the edge of the dolostone bluff. *Photo: A. Wickert*"
+  caption: "Pleistocene braided-river bars cross farmfields on the Last Glacial Maximum terrace of the Mississippi River, looking towards Diamond Bluff, Wisconsin. The modern Mississippi lies hidden, tucked 30-40 meters below the terrace at the edge of the dolostone cliff. *Photo: A. Wickert*"
 excerpt: "Research group members"
 
 #intro:
@@ -41,10 +41,35 @@ faculty:
     btn_class: "btn--inverse"
 
 researchers:
+- image_path: /assets/images/headshots/EricBarefoot_480p.png
+  alt: "Eric Barefoot"
+  title: "Eric Barefoot"
+  excerpt: "**Postdoctoral Research Scientist**<br/>
+            Starting Fall 2021<br/>
+            Ph.D. 2021 Rice University<br/>
+            B.S. 2016 University of North Carolina at Chapel Hill<br/>
+            eric.barefoot [at] rice [dot] edu
+            "
+  url: "http://ericbarefoot.com/"
+  btn_label: "Homepage"
+  btn_class: "btn--inverse"
+- image_path: /assets/images/headshots/HimaHG_480p.png
+  alt: "Hima Hassenruck-Gudipati"
+  title: "Hima Hassenruck-Gudipati"
+  excerpt: "**Postdoctoral Research Scientist**<br/>
+            Starting Fall 2021<br/>
+            Ph.D. 2021 University of Texas at Austin<br/>
+            B.S. 2014 California Institute of Technology<br/>
+            himahg [at] utexas [dot] edu
+            "
+  url: "https://sites.google.com/utexas.edu/hima-hg/"
+  btn_label: "Homepage"
+  btn_class: "btn--inverse"
 - image_path: /assets/images/headshots/kwang_headshot.jpg
   alt: "Jeffrey Kwang"
   title: "Jeffrey Kwang"
   excerpt: "**Postdoctoral Research Scientist**<br/>
+            Starting Spring 2022<br/>
             Ph.D. 2019 University of Illinois<br/>
             M.S. 2016 University of Illinois<br/>
             B.S. 2013 Johns Hopkins University<br/>
@@ -141,7 +166,7 @@ grads:
     alt: "Tyler Fulghum"
     title: "Tyler Fulghum"
     excerpt: "**Ph.D. Student**<br/>
-              B.S. 2021 (pending) Tennessee Technological University<br/>
+              B.S. 2021 Tennessee Technological University<br/>
               *Instrumentation and geoscientific data*
               "
     #url: ""
@@ -151,7 +176,8 @@ grads:
     alt: "Jimmy Wood"
     title: "Jimmy Wood"
     excerpt: "**M.S. Student**<br/>
-              B.S. 2021 (pending) University of Nebraska Omaha<br/>
+              B.S. 2021 (Geology) University of Nebraska Omaha<br/>
+              B.S. 2021 (Physics) University of Nebraska Omaha<br/>
               *Fluvial geomorphology*
               "
     #url: ""
