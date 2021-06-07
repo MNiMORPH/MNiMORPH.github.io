@@ -185,14 +185,14 @@ grads:
     #btn_class: "btn--inverse"
 
 undergrads:
-  - image_path: /assets/images/headshots/blank.jpg
-    alt: "Josie Welsh"
-    title: "Josie Welsh"
-    excerpt: "**Undergraduate Researcher**<br/>
-              University of Minnesota<br/>
-              *Bed-load sediment sampler design*<br/>
-              welsh162 [at] umn [dot] edu
-              "
+  #- image_path: /assets/images/headshots/blank.jpg
+  #  alt: "Josie Welsh"
+  #  title: "Josie Welsh"
+  #  excerpt: "**Undergraduate Researcher**<br/>
+  #            University of Minnesota<br/>
+  #            *Bed-load sediment sampler design*<br/>
+  #            welsh162 [at] umn [dot] edu
+  #            "
   - image_path: /assets/images/headshots/blank.jpg
     alt: "Peter Mitchell"
     title: "Peter Mitchell"
@@ -328,6 +328,11 @@ visitors:
 
 
 ### Undergraduate Students
+
+#### Josie Welsh (2019-2020)
+* Undergraduate student researcher
+* Bed-load sediment sampler design
+* ***Now:*** Undergraduate student at UMN ESCI; research assistant in paleomagnetism
 
 #### Evan Grove (2018-2019)
 * Undergraduate student researcher
