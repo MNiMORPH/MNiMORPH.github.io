@@ -69,7 +69,10 @@ Nilay filled this
 ***Graduate student To Be Determined***
 
 * Working with Phil Larson as primary advisor
-* Linking Quaternary fluvial-system change and geochronology
+* Linking Quaternary fluvial-system change and geochronology (OSL, 14C, cosmogenic radionuclides)
+* Interested in reconstructing the proglacial lake flood history of the Minnesota and St. Croix Rivers
+* Interested in understanding the impacts of these floods on tributary systems and the upper Mississippi drainage basin's evolution
+* Theoretical underpinning tied to base level adjustments and fluvial system response
 * Connections between geomorphology, sedimentology, and landscape evolution
 
 <!--
