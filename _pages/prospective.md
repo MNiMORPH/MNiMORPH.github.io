@@ -19,14 +19,14 @@ excerpt: "Facilities<br/>Broad goals<br/>Information if you are considering join
 
 <img align="right" src="/assets/images/DSC_0728_OnABoat.JPG" alt="Ivanovic" width="480px">
 
-We are a group that straddles traditional disciplines. We are based out of the historic [**Saint Anthony Falls Laboratory**](https://www.safl.umn.edu/) [(Google Maps)](https://goo.gl/maps/Fn7Hxyugo2LJnnkq9), built into the side of the largest waterfall on the Mississippi, where we interact wtih fluid dynamicists from across science and engineering. We also run and maintain the **Surface Processes Instrumentation Lab** within the [Department of Earth & Environmental Sciences](https://www.esci.umn.edu/) in [John T. Tate Hall](https://www.google.com/maps/uv?hl=en&pb=!1s0x52b32d1661d0911f%3A0xb4bf99a8068a596f!3m1!7e115!4shttps%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNT5CBaqaF5K2RSo63dayZLeght6UBqYgTeFtJ2%3Dw262-h176-k-no!5sjohn%20t%20tate%20hall%20-%20Google%20Search!15sCgIgAQ&imagekey=!1e10!2sAF1QipNT5CBaqaF5K2RSo63dayZLeght6UBqYgTeFtJ2&sa=X&ved=2ahUKEwiy2uDSk4brAhXbVc0KHRAnDbAQoiowFHoECBAQBg); this department is Wickert's tenure home and also the entity that grants students' degrees. Wickert is also an Associate of the [**Institute on the Environment (IonE)**](http://environment.umn.edu/), which hosts educational and research programs and helps us to communicate our work and to produce impactful applications.
+We are a group that straddles traditional disciplines. We are based out of the historic [**Saint Anthony Falls Laboratory**](https://www.safl.umn.edu/) [(Google Maps)](https://goo.gl/maps/Fn7Hxyugo2LJnnkq9), built into the side of the largest waterfall on the Mississippi, where we interact wtih fluid dynamicists from across science and engineering. We also run and maintain the **Surface Processes Instrumentation Lab** within the [Department of Earth & Environmental Sciences](https://www.esci.umn.edu/) in [John T. Tate Hall](https://www.google.com/maps/uv?hl=en&pb=!1s0x52b32d1661d0911f%3A0xb4bf99a8068a596f!3m1!7e115!4shttps%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNT5CBaqaF5K2RSo63dayZLeght6UBqYgTeFtJ2%3Dw262-h176-k-no!5sjohn%20t%20tate%20hall%20-%20Google%20Search!15sCgIgAQ&imagekey=!1e10!2sAF1QipNT5CBaqaF5K2RSo63dayZLeght6UBqYgTeFtJ2&sa=X&ved=2ahUKEwiy2uDSk4brAhXbVc0KHRAnDbAQoiowFHoECBAQBg); this department is Wickert's tenure home and also the entity that grants students' degrees. Wickert is also an Associate of the [**Institute on the Environment (IonE)**](http://environment.umn.edu/), which hosts educational and research programs and helps us to communicate our work and to produce impactful applications. In addition, group members have access to and are collaborators with Minnesota State, Mankato's EARTH System Laboratory - a student focused Quaternary science, archeology, and geomorphology/surface process laboratory in Mankato, MN.  Wickert is a lab collaborator and graduate faculty at Minnesota State, Mankato.  The other group faculty, Dr. Phillip Larson, is a Co-Director of the EARTH Systems laboratory and professor at Minnesota State, Mankato. Larson is graduate faculty in Earth and Environmental Sciences at the University of Minnesota.
 
 Most importantly, though, we are the lab members. If you are inquisitive, open-minded, interested in connecting theory and observations, and someone who wants to be a member of a diverse and collaborative team, you could be be a good fit. If you are excited about instrumentation design, numerical methods, physical computing, laboratory experiments, geomorphic history, field investigations, sea level, and/or the development of theory, your interests intersect with ours. We have limited positions, but we're always glad to hear form interested applicants.
 
 ## Open positions
 
 * Wickert's group is currently quite large, but he would consider applicants for projects in the general topics below. When reaching out about projects, it would be helpful to indicate which of the following topics interest you (and why, and what you might like to do in that direction), and if none do, then to suggest a different project. Due to the size of the group, there is a current need to keep some amount of focus (so advising support isn't spread thin among too many topics), but creative ideas are always appreciated. *With deep apologies: I cannot guarantee a response to requests to join the group that do not indicate that you have done background research into our research and goals or to how your future aspirations may align with these.*
-* Larson is actively recruiting MS students in field- and GIS-oriented projects across the upper Midwest, where (de)glaciation and human impacts have produced a dynamic natural laboratory for rapid late Quaternary, post-Euro-American-settlement, and ongoing landscape change.
+* Larson is considering propesctive graduate students, particularly propspective M.S. students with strong backgrounds in quaternary science, geomorphology/surface processes, and/or field geology. In addition, much of Larson's research is field and geospatial data focused so field work and GIS interests are necessary.  Larson has a number of research projects ongoing that potential graduate students focused on geomorphology/surface processes and interested in understanding drainage basin evolution and response tied to base level adjustment and drainage integration could fit in to.  Many of these projects are focused on landscapes in the upper Midwest, USA, where (de)glaciation and human impacts have produced a dynamic natural laboratory for rapid late Quaternary, post-Euro-American-settlement, and ongoing landscape change. Larson is also actively working in the Basin and Range and may have capacity for M.S. students interested in work there.  Larson is also receptive to inquiries with creative ideas/research questions in mind.  Just reach out.  Please make sure to include your C.V. and unofficial transcripts if you contact him.
 
 ### Theory/computation
 
@@ -64,13 +64,13 @@ Nilay filled this
 * Geospatial computation and topographic analysis
 * Mathematics, physics, and fluid mechanics -->
 
-### Field-oriented fluvial geomorphology
+### Field/Geochron/GIS-oriented fluvial geomorphology/landscape evolution
 
-***M.S. student (Minnesota State University, Mankato)***
+***Graduate student To Be Determined***
 
-* Working with Phil Larson
-* Linking late Quaternary fluvial-system change and geochronology
-* Connections between soils geomorphology, weathering, and landscape change
+* Working with Phil Larson as primary advisor
+* Linking Quaternary fluvial-system change and geochronology
+* Connections between geomorphology, sedimentology, and landscape evolution
 
 <!--
 Shanti is working on this; Andy intends to do much of this work with undergrads
@@ -111,12 +111,13 @@ Shanti is working on this; Andy intends to do much of this work with undergrads
 * Scientific programming and software development (C++ and/or Python), with a focus on Arduino-style embedded C++
 * Field instrumentation assembly and data analysis
 
-### Aeolian activity in the upper Mississippi valley
+### Permafrost degradation revealed by aeolian activity in the upper Mississippi valley
 
 ***M.S. student (Minnesota State University, Mankato)***
 
 * Working with Phil Larson
-* Identifying and dating (with OSL) ancient aeolian deposits
+* Identifying (remotely and in the field) and dating (with OSL) ancient aeolian deposits
+* Potentially utilizing Ground Penetrating Radar to understand stratigraphy and sedimentary structure
 * Bringing pulses of aeolian activity into a broad paleogeographic framework
 
 ### Testing and documenting environmental instrumentation
