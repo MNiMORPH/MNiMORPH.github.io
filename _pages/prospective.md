@@ -19,13 +19,35 @@ excerpt: "Facilities<br/>Broad goals<br/>Information if you are considering join
 
 <img align="right" src="/assets/images/DSC_0728_OnABoat.JPG" alt="Ivanovic" width="480px">
 
-We are a group that straddles traditional disciplines. We run the **Surface Processes Instrumentation Lab** within the [Department of Earth & Environmental Sciences](https://www.esci.umn.edu/) in [John T. Tate Hall](https://www.google.com/maps/uv?hl=en&pb=!1s0x52b32d1661d0911f%3A0xb4bf99a8068a596f!3m1!7e115!4shttps%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNT5CBaqaF5K2RSo63dayZLeght6UBqYgTeFtJ2%3Dw262-h176-k-no!5sjohn%20t%20tate%20hall%20-%20Google%20Search!15sCgIgAQ&imagekey=!1e10!2sAF1QipNT5CBaqaF5K2RSo63dayZLeght6UBqYgTeFtJ2&sa=X&ved=2ahUKEwiy2uDSk4brAhXbVc0KHRAnDbAQoiowFHoECBAQBg). We are also a part of the [**Saint Anthony Falls Laboratory**](https://www.safl.umn.edu/), a legendary hydraulics lab built into the side of the largest waterfall on the Mississippi, where group members can have offices and run experiments. Wickert is also an Associate of the [**Institute on the Environment (IonE)**](http://environment.umn.edu/), which hosts educational and research programs and helps us to communicate our work and to produce impactful applications.
+We are a group that straddles traditional disciplines. We are based out of the historic [**Saint Anthony Falls Laboratory**](https://www.safl.umn.edu/) [(Google Maps)](https://goo.gl/maps/Fn7Hxyugo2LJnnkq9), built into the side of the largest waterfall on the Mississippi, where we interact wtih fluid dynamicists from across science and engineering. We also run and maintain the **Surface Processes Instrumentation Lab** within the [Department of Earth & Environmental Sciences](https://www.esci.umn.edu/) in [John T. Tate Hall](https://www.google.com/maps/uv?hl=en&pb=!1s0x52b32d1661d0911f%3A0xb4bf99a8068a596f!3m1!7e115!4shttps%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNT5CBaqaF5K2RSo63dayZLeght6UBqYgTeFtJ2%3Dw262-h176-k-no!5sjohn%20t%20tate%20hall%20-%20Google%20Search!15sCgIgAQ&imagekey=!1e10!2sAF1QipNT5CBaqaF5K2RSo63dayZLeght6UBqYgTeFtJ2&sa=X&ved=2ahUKEwiy2uDSk4brAhXbVc0KHRAnDbAQoiowFHoECBAQBg); this department is Wickert's tenure home and also the entity that grants students' degrees. Wickert is also an Associate of the [**Institute on the Environment (IonE)**](http://environment.umn.edu/), which hosts educational and research programs and helps us to communicate our work and to produce impactful applications.
 
-Most importantly, though, we are the lab members. If you are inquisitive, open-minded, interested in connecting theory and observations, and someone who wants to be a member of a diverse and collaborative team, you could be be a good fit. If you are excited about methods that may include instrumentation design, numerical methods, physical computing, laboratory experiments, geomorphic history, field investigations, and/or theory, your interests intersect with ours. We have limited positions, but we're always glad to hear form interested applicants.
+Most importantly, though, we are the lab members. If you are inquisitive, open-minded, interested in connecting theory and observations, and someone who wants to be a member of a diverse and collaborative team, you could be be a good fit. If you are excited about instrumentation design, numerical methods, physical computing, laboratory experiments, geomorphic history, field investigations, sea level, and/or the development of theory, your interests intersect with ours. We have limited positions, but we're always glad to hear form interested applicants.
 
 ## Open positions
 
-We are considering applicants for projects in the following general areas:
+* Wickert's group is currently quite large, but he would consider applicants for projects in the general topics below. When reaching out about projects, it would be helpful to indicate which of the following topics interest you (and why, and what you might like to do in that direction), and if none do, then to suggest a different project. Due to the size of the group, there is a current need to keep some amount of focus (so advising support isn't spread thin among too many topics), but creative ideas are always appreciated. *With deep apologies: I cannot guarantee a response to requests to join the group that do not indicate that you have done background research into our research and goals or to how your future aspirations may align with these.*
+* Larson is actively recruiting MS students in field- and GIS-oriented projects across the upper Midwest, where (de)glaciation and human impacts have produced a dynamic natural laboratory for rapid late Quaternary, post-Euro-American-settlement, and ongoing landscape change.
+
+### Theory/computation
+
+Wickert's group is always looking to hire curious, engaged, mathematically-minded individuals who want to help develop the underlying theory for how Earth's surface changes and evolves.
+
+***Ph.D. student or Postdoc (University of Minnesota)***
+
+* Working with Andy Wickert
+* Sea level, drainage/lake/depression networks and associated graph theory, (paleo)climate, hydrology--geomorphology links, hillslope--fluvial sediment continuum, etc.: Not necessarily all of these!
+* Data--model integratioon
+
+***Desired skills***
+
+* Scientific programming and software development (C++ and/or Python; Fortran = bonus)
+* Geospatial computation, ideally including geospatial and/or topographic analysis
+* Mathematics, physics, and fluid mechanics
+* GitHub and/or initiative to learn
+* Field observational skills and/or desire to learn
+
+<!--
+Nilay filled this
 
 ### Model deveolpment in fluvial geomorphology
 
@@ -40,7 +62,7 @@ We are considering applicants for projects in the following general areas:
 
 * Scientific programming and software development (C++ and/or Python)
 * Geospatial computation and topographic analysis
-* Mathematics, physics, and fluid mechanics
+* Mathematics, physics, and fluid mechanics -->
 
 ### Field-oriented fluvial geomorphology
 
@@ -49,6 +71,9 @@ We are considering applicants for projects in the following general areas:
 * Working with Phil Larson
 * Linking late Quaternary fluvial-system change and geochronology
 * Connections between soils geomorphology, weathering, and landscape change
+
+<!--
+Shanti is working on this; Andy intends to do much of this work with undergrads
 
 ### Deciphering the glacial and deglacial history of the upper Mississippi valley
 
@@ -64,7 +89,7 @@ We are considering applicants for projects in the following general areas:
 * Scientific programming and software development (C++ and/or Python)
 * Geospatial computation and topographic analysis
 * Field geomorphology and Quaternary geology
-* (Can be taught through short courses) Quaternary geochronology
+* (Can be taught through short courses) Quaternary geochronology -->
 
 ### Environmental instrumentation
 
@@ -130,10 +155,12 @@ I expect that by the time they graduate, all of my students will exceed these le
 
 *We welcome field scientists of all levels of physical ability.*
 
-If you are interested in working in the field with us at a site that requires streuous backcountry travel, I expect that by the time of our departure, you will be able to carry a heavy load at a standard backpacker's pace (~2 miles per hour) over uneven terrain for multiple days. This is a requirement for both completion of the work and (most importantly) the safety of you and the group.
+If you are interested in working in the field with us at a site that requires streuous backcountry travel, I expect that by the time of our departure, you will be able to carry a heavy load (35% of your body weight or greater) at a standard backpacker's pace (~1--2 miles per hour) over uneven terrain for multiple days. This is a requirement for both completion of the work and (most importantly) the safety of you and the group.
 
-If your physical conditioning and/or a disability preclude this kind of work, we welcome potential approaches involving less-strenuous local field work, remote sensing, and landscape analysis. It is most important that students are comfortable with their research and in a good place to succeed.
+If your physical conditioning and/or a disability preclude this kind of work, we'd still like to see everyone who is interested join us in the field! We have some amazing and accessible field sites in Minnesota and Wisconsin wtih scientifically valuable and under-studied geomorphic histories and ongoing change. It is most important that students are comfortable with their research and in a good place to succeed.
 
 ### Personal learning and development objectives
 
 **It is my goal that students in my group become confident, independent-minded, collaborative, and self-aware researchers.** This is a place to stretch your imagination and abilities. Sometimes there are funded projects with things that just need to be done, but as much as possible, I want to promote your ability to learn and explore.
+
+Being supportive of you as a scientist means that I will also be (hopefully kindly) critical of your ideas and explanations. I want to make sure that you communicate clearly, ensure that your approaches are logically consistent, and verify that your work will be impactful. I typically help students early-on with some amount of coding, writing style and English-language usage (yes, even for native speakers), field skills, and geomorphic concepts. I expect that Ph.D. students will become much more independent and that our conversations become more high level later in your graduate career, and for you to be able to overcome appropriately greater challenges as your journey through your graduate career progresses. I expect similar independence and progress with M.S. students, but always have more rigidly defined projects in order to set students up for a 2-year path to graduation.
