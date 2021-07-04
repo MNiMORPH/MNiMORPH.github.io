@@ -129,7 +129,7 @@ Shanti is working on this; Andy intends to do much of this work with undergrads
 
 ## Important information for international students and visitors
 
-Prospective international students and visitors should be in touch with Andy Wickert and [International Student and Scholar Services](https://isss.umn.edu/) at the University of Minnesota.
+Prospective international students and visitors to the University of Minnesota should be in touch with Andy Wickert and [International Student and Scholar Services](https://isss.umn.edu/) at the University of Minnesota.
 
 
 ## Important information for prospective students
@@ -137,8 +137,8 @@ Prospective international students and visitors should be in touch with Andy Wic
 ### Key areas of expertise
 
 My hope is for all students in the group to gain skills and confidence in all three major areas of our work
-* Developing theory / numerical modeling
-* Laboratory research, whether in instrumentation design/development or at SAFL (hydraulics and sediments
+* Developing theory / numerical modeling / data-analysis techniques
+* Laboratory research, whether in instrumentation design/development or at SAFL (hydraulics and sediments)
 * Field work, which can range from local projects in river valleys to farther-flung work in remote locations and on glaciers
 
 ### Core course requirements and competencies
