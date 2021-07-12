@@ -56,6 +56,7 @@ Current focal points include:
 
 <img align="right" src="https://esurf.copernicus.org/articles/7/17/2019/esurf-7-17-2019-avatar-web.png" alt="Long-profile plots">
 
+* Beaulieu, O. P., L. D. Witte, and A. D. Wickert (2021), [Mechanistic insights from emergent landslides in physical experiments](https://pubs.geoscienceworld.org/gsa/geology/article/49/4/392/593340/Mechanistic-insights-from-emergent-landslides-in), Geology, 49(4), 392–396, doi:10.1130/G47875.1.
 * Larson, P.H., Dorn, R.I., Skotnicki, S., Seong, Y.B., DePonty, J. (2020), [Impact of drainage integration on basin geomorphology and landform evolution: Case study along the Salt and Verde Rivers of the Sonoran Desert, USA](https://doi.org/10.1016/j.geomorph.2020.107439), Geomorphology, doi:10.1016/j.geomorph.2020.107439.
 * Skotnicki, S., Seong, Y.B., Dorn, R.I., Larson, P.H., Deponty, J. (2020). [Drainage integration of the Salt and Verde Rivers in a Basin and Range extensional landscape, central Arizona, USA](https://doi.org/10.1016/j.geomorph.2020.107512), Geomorphology, doi:10.1016/j.geomorph.2020.107512
 * Savi, S., S. Tofelde, A. D. Wickert, A. Bufe, T. F. Schildgen, and M. R. Strecker (2020), [Interactions between main channels and tributary alluvial fans: channel adjustments and sediment-signal propagation](https://esurf.copernicus.org/articles/8/303/2020/), Earth Surface Dynamics, 8, 303–322, doi:10.5194/esurf-8-303-2020.
