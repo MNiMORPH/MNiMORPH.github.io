@@ -28,8 +28,9 @@ faculty:
   - image_path: /assets/images/headshots/larson_square.jpg
     alt: "Phil Larson"
     title: "Phil Larson"
-    excerpt: "**Professor:
-              Department of Geography, Minnesota State University, Mankato**<br/>
+    excerpt: "**Professor; Director of Earth Science Programs, 
+              Co-Director of EARTH Systems Laboratory
+              Minnesota State University, Mankato**<br/>
               Ph.D. 2013 Arizona State University<br/>
               M.A. 2011 Arizona State University<br/>
               B.S 2008 University of Wisconsin - Eau Claire<br/>

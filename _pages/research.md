@@ -56,10 +56,19 @@ Current focal points include:
 
 <img align="right" src="https://esurf.copernicus.org/articles/7/17/2019/esurf-7-17-2019-avatar-web.png" alt="Long-profile plots">
 
+* Beaulieu, O. P., L. D. Witte, and A. D. Wickert (2021), [Mechanistic insights from emergent landslides in physical experiments](https://pubs.geoscienceworld.org/gsa/geology/article/49/4/392/593340/Mechanistic-insights-from-emergent-landslides-in), Geology, 49(4), 392–396, doi:10.1130/G47875.1.
+* Larson, P.H., Dorn, R.I., Skotnicki, S., Seong, Y.B., DePonty, J. (2020), [Impact of drainage integration on basin geomorphology and landform evolution: Case study along the Salt and Verde Rivers of the Sonoran Desert, USA](https://doi.org/10.1016/j.geomorph.2020.107439), Geomorphology, doi:10.1016/j.geomorph.2020.107439.
+* Skotnicki, S., Seong, Y.B., Dorn, R.I., Larson, P.H., Deponty, J. (2020). [Drainage integration of the Salt and Verde Rivers in a Basin and Range extensional landscape, central Arizona, USA](https://doi.org/10.1016/j.geomorph.2020.107512), Geomorphology, doi:10.1016/j.geomorph.2020.107512
 * Savi, S., S. Tofelde, A. D. Wickert, A. Bufe, T. F. Schildgen, and M. R. Strecker (2020), [Interactions between main channels and tributary alluvial fans: channel adjustments and sediment-signal propagation](https://esurf.copernicus.org/articles/8/303/2020/), Earth Surface Dynamics, 8, 303–322, doi:10.5194/esurf-8-303-2020.
 * Bufe, A., J. M. Turowski, D. W. Burbank, C. Paola, A. D. Wickert, and S. Tofelde (2019), [Controls on the lateral channel migration rate of braided channel systems in coarse non-cohesive sediment](https://onlinelibrary.wiley.com/doi/full/10.1002/esp.4710), Earth Surface Processes and Landforms, 44(14), 2823–2836, doi:10.1002/esp.4710.
 * Tofelde, S., S. Savi, A. D. Wickert, T. F. Schildgen, and A. Bufe (2019), [Alluvial channel response to environmental perturbations: Fill-terrace formation and sediment-signal disruption](https://esurf.copernicus.org/articles/7/609/2019/), Earth Surface Dynamics, 7(2), 609–630, doi:10.5194/esurf-7-609-2019.
 * Wickert, A. D., and T. F. Schildgen (2019), [Long-Profile Evolution of Transport-Limited Gravel-Bed Rivers](https://esurf.copernicus.org/articles/7/17/2019/), Earth Surface Dynamics, 7, 17–43, doi:10.5194/esurf-7-17-2019.
+* Donovan, M., Belmont, P., Notebaert, B., Coombs, T., Larson, P.H., Souffront, M. (2019). Accounting for uncertainty in measurements of river channel migration. Earth Science Reviews. https://doi.org/10.1016/j.earscirev.2019.04.009
+* Larson, P.H., Meek, N., Dorn, R.I., Douglass, J., Seong, Y.B., (2016). How Rivers Cross Mountains. Annals of the American Association of Geographers. DOI:  10.1080/24694452.2016.1203283
+* Larson, P.H., Kelley, S., Dorn, R.I., Seong Y.B. (2016). Pace of Landscape Change in the northeastern Sonoran Desert, United States. Annals of the American Association of Geographers. DOI: 10.1080/24694452.2016.1201420 
+* Faulkner, D., Larson, P.H., Jol, H.M., Running, G.L., Loope, H.M., and Goble, R.J. (2016). Episodic Incision and Terrace Formation Resulting from Abrupt Late-Glacial Base-Level Fall, Lower Chippewa River, Wisconsin, USA. Geomorphology. 266: 75-95.  DOI:10.1016/j.geomorph.2016.04.016
+* Larson, P.H., Dorn, R.I., Faulkner, D.J, Friend, D.A. (2015). Toe-Cut Terraces: A Review and Criteria to Differentiate from Traditional Fluvial Terraces. Progress in Physical Geography. DOI: 10.1177/0309133315582045.
+* Larson, P.H. and Dorn, R.I. (2014). Strath Development in Small Arid Watersheds: Case Study of South Mountain, Sonoran Desert, Arizona. American Journal of Science. 314: 1202-1223.    
 * Wickert, A. D., J. M. Martin, M. Tal, W. Kim, B. A. Sheets, and C. Paola (2013), River channel lateral mobility: metrics, time scales, and controls, Journal of Geophysical Research: Earth Surface, 118(2), 396–412, doi:10.1029/2012JF002386.
 
 ### Additional Relevant Publications
@@ -108,6 +117,7 @@ We use these approaches together to reconstruct past landscapes and environments
 * Tofelde, S., T. F. Schildgen, S. Savi, H. Pingel, A. D. Wickert, B. Bookhagen, H. Wittmann, R. N. Alonso, J. Cottle, and M. R. Strecker (2017), [100 kyr fluvial cut-and-fill terrace cycles since the Middle Pleistocene in the southern Central Andes, NW Argentina](https://www.sciencedirect.com/science/article/pii/S0012821X17303102), Earth Planet. Sci. Lett., 473, 141–153, doi:10.1016/j.epsl.2017.06.001.
 * Wickert, A. D., R. S. Anderson, J. X. Mitrovica, S. Naylor and E. C. Carson (2019a), [The Mississippi River records glacial-isostatic deformation of North America](https://advances.sciencemag.org/content/5/1/eaav2366), Science Advances, 5(1), eaav2366, doi:10.1126/sciadv.aav2366.
 * Wickert, A. D. (2016b), [Reconstruction of North American drainage basins and river discharge since the Last Glacial Maximum](https://esurf.copernicus.org/articles/4/831/2016/), Earth Surface Dynamics, 4(4), 831–869, doi:10.5194/esurf-4-831-2016.
+* Faulkner, D., Larson, P.H., Jol, H.M., Running, G.L., Loope, H.M., and Goble, R.J. (2016). Episodic Incision and Terrace Formation Resulting from Abrupt Late-Glacial Base-Level Fall, Lower Chippewa River, Wisconsin, USA. Geomorphology. 266: 75-95.  DOI:10.1016/j.geomorph.2016.04.016 
 * Wickert, A. D., J. X. Mitrovica, C. Williams, and R. S. Anderson (2013), [Gradual demise of a thin southern Laurentide ice sheet recorded by Mississippi drainage](https://www.nature.com/articles/nature12609), Nature, 502(7473), pp. 668–671, doi:10.1038/nature12609.
 
 ### Additional Relevant Publications
