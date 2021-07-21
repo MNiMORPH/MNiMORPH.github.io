@@ -25,8 +25,11 @@ Most importantly, though, we are the lab members. If you are inquisitive, open-m
 
 ## Open positions
 
-* Wickert's group is currently quite large, but he would consider applicants for projects in the general topics below. When reaching out about projects, it would be helpful to indicate which of the following topics interest you (and why, and what you might like to do in that direction), and if none do, then to suggest a different project. Due to the size of the group, there is a current need to keep some amount of focus (so advising support isn't spread thin among too many topics), but creative ideas are always appreciated. *With deep apologies: I cannot guarantee a response to requests to join the group that do not indicate that you have done background research into our research and goals or to how your future aspirations may align with these.*
-* Larson is actively recruiting MS students in field- and GIS-oriented projects across the upper Midwest, where (de)glaciation and human impacts have produced a dynamic natural laboratory for rapid late Quaternary, post-Euro-American-settlement, and ongoing landscape change.
+**Wickert's** group works broadly on questions of river systems, sea level, glaciers, and paleoclimate. Our primary tools are continuum mechanics, computational analyses, instrumentation design, data synthesis, and field measurements. I am generally in search of students with strong mathematics/engineering/fluid mechanics backgrounds, though I do also bring in more traditional geologists/geographers.
+
+Wickert's group is currently quite large, but he would consider applicants for projects in the general topics below. When reaching out about projects, it would be helpful to indicate which of the following topics interest you (and why, and what you might like to do in that direction), and if none do, then to suggest a different project. Due to the size of the group, there is a current need to keep some amount of focus (so advising support isn't spread thin among too many topics), but creative ideas are always appreciated. *With deep apologies: I cannot guarantee a response to requests to join the group that do not indicate that you have done background research into our research and goals or to how your future aspirations may align with these.*
+
+**Larson** is actively recruiting MS students in field- and GIS-oriented projects across the upper Midwest, where (de)glaciation and human impacts have produced a dynamic natural laboratory for rapid late Quaternary, post-Euro-American-settlement, and ongoing landscape change.
 
 ### Theory/computation
 
