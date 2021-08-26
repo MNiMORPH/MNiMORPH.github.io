@@ -23,6 +23,21 @@ We are a group that straddles traditional disciplines. We are based out of the h
 
 Most importantly, though, we are the lab members. If you are inquisitive, open-minded, interested in connecting theory and observations, and someone who wants to be a member of a diverse and collaborative team, you could be be a good fit. If you are excited about instrumentation design, numerical methods, physical computing, laboratory experiments, geomorphic history, field investigations, sea level, and/or the development of theory, your interests intersect with ours. We have limited positions, but we're always glad to hear form interested applicants.
 
+## What is a UROP, MS, PhD, or Postdoc all about?
+
+There are multiple ways to become involved in the lab group. Below is an overview of the goals for each type of experience and position within the group, as well as a brief description of the position itself.
+
+* At the completion of an **undergraduate research** position (UROP or REU), a student will have gained knowledge in an area of research as well as insights into how the lab and group operate. These positions start with basic skills and then grow; and undergraduate researchers who work with us throughout much of their time at the university end up operating more like MS students and can contribute to or lead research studies.
+* A **MS** in geoscience indicates that a student has the skills and capacity to bring a complex scientific project to completion.
+  * A MS program is typically 2 years.
+  * You will receive guidance from your advisor and/or other research group members.
+  * You will typically join a project whose focus is already tightly defined.
+* A **PhD** in geoscience indicates that a student has built a substantial body of work that adds to the collective knowledge about the Earth system, and in the process has acquired the skills to become a successful independent scientist.
+  * A PhD program is typically 4-6 years.
+  * You will receive guidance from group members, but advance towards independence through time, and ideally graduate as a colleague and collaborator of the research team.
+  * You may or may not join a predefined project, but are expected either way to take the lead in shaping your role and work.
+* A postdoctoral research scientist ("**postdoc**") uses their time with the research group to advance their studies and make new scientific discoveries. They may help to advise students, run the lab, and take early steps towards building independent research directions and programs. Upon completion, a postdoc should have gained both depth and breadth in the geosciences and be well positioned to become a leading researcher, skilled scientist, and effective mentor.
+
 ## Open positions
 
 **Wickert's** group works broadly on questions of river systems, sea level, glaciers, and paleoclimate. Our primary tools are continuum mechanics, computational analyses, instrumentation design, data synthesis, and field measurements. I am generally in search of students with strong mathematics/engineering/fluid mechanics backgrounds, though I do also bring in more traditional geologists/geographers.
