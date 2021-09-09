@@ -28,7 +28,7 @@ faculty:
   - image_path: /assets/images/headshots/larson_square.jpg
     alt: "Phil Larson"
     title: "Phil Larson"
-    excerpt: "**Professor; Director of Earth Science Programs, 
+    excerpt: "**Professor; Director of Earth Science Programs,
               Co-Director of EARTH Systems Laboratory
               Minnesota State University, Mankato**<br/>
               Ph.D. 2013 Arizona State University<br/>
@@ -163,7 +163,7 @@ grads:
     #url: ""
     #btn_label: "Homepage"
     #btn_class: "btn--inverse"
-  - image_path: /assets/images/headshots/blank.jpg
+  - image_path: /assets/images/headshots/TylerFulghum_headshot_320x320.jpg
     alt: "Tyler Fulghum"
     title: "Tyler Fulghum"
     excerpt: "**Ph.D. Student**<br/>
@@ -186,14 +186,15 @@ grads:
     #btn_class: "btn--inverse"
 
 undergrads:
-  #- image_path: /assets/images/headshots/blank.jpg
-  #  alt: "Josie Welsh"
-  #  title: "Josie Welsh"
-  #  excerpt: "**Undergraduate Researcher**<br/>
-  #            University of Minnesota<br/>
-  #            *Bed-load sediment sampler design*<br/>
-  #            welsh162 [at] umn [dot] edu
-  #            "
+  - image_path: /assets/images/headshots/blank.jpg
+    alt: "Josie Welsh"
+    title: "Josie Welsh"
+    excerpt: "**Undergraduate Researcher**<br/>
+              University of Minnesota<br/>
+              *Bed-load sediment sampler design*<br/>
+              *River-profile analysis along Lake Superior*<br/>
+              welsh162 [at] umn [dot] edu
+              "
   - image_path: /assets/images/headshots/blank.jpg
     alt: "Peter Mitchell"
     title: "Peter Mitchell"
@@ -205,7 +206,7 @@ undergrads:
     #url: ""
     #btn_label: "Homepage"
     #btn_class: "btn--inverse"
-  - image_path: /assets/images/headshots/blank.jpg
+  - image_path: /assets/images/headshots/JesseSchewe_headshot.jpg
     alt: "Jesse Schewe"
     title: "Jesse Schewe"
     excerpt: "**Undergraduate Researcher**<br/>
