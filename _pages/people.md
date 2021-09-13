@@ -186,7 +186,7 @@ grads:
     #btn_class: "btn--inverse"
 
 undergrads:
-  - image_path: /assets/images/headshots/blank.jpg
+  - image_path: /assets/images/headshots/JosieWelsh.jpg
     alt: "Josie Welsh"
     title: "Josie Welsh"
     excerpt: "**Undergraduate Researcher**<br/>
@@ -201,6 +201,7 @@ undergrads:
     excerpt: "**Undergraduate Researcher**<br/>
               University of Minnesota<br/>
               *River-terrace mapping*<br/>
+              *Code development to characterize valleys and networks*<br/>
               mitc0560 [at] umn [dot] edu
               "
     #url: ""
@@ -211,8 +212,22 @@ undergrads:
     title: "Jesse Schewe"
     excerpt: "**Undergraduate Researcher**<br/>
               University of Minnesota<br/>
-              *DEM merging and analysis along the St. Croix River*<br/>
+              *St. Croix River elevation data*<br/>
+              *Field support*<br/>
               schew027 [at] umn [dot] edu
+              "
+    #url: ""
+    #btn_label: "Homepage"
+    #btn_class: "btn--inverse"
+  - image_path: /assets/images/headshots/blank.jpg
+    alt: "Campbell Dunn"
+    title: "Campbell Dunn"
+    excerpt: "**Undergraduate Researcher**<br/>
+              University of Wisconsin -- Madison<br/>
+              *Code development for drainage networks*<br/>
+              *Shallow seismic acquistion and analysis*<br/>
+              *Field support*<br/>
+              cndunn [at] wisc [dot] edu
               "
     #url: ""
     #btn_label: "Homepage"
