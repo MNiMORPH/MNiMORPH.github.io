@@ -139,17 +139,6 @@ grads:
     #url: ""
     #btn_label: "Homepage"
     #btn_class: "btn--inverse"
-  - image_path: /assets/images/headshots/nelson_square.jpg
-    alt: "Leah Nelson"
-    title: "Leah Nelson"
-    excerpt: "**M.S. Student** (co-advised with primary advisor G.-H. Crystal Ng)<br/>
-              B.A. 2015 Carleton College<br/>
-              *Tropical glacierized watersheds in Ecuador*<br/>
-              nel00954 [at] umn [dot] edu
-              "
-    #url: ""
-    #btn_label: "Homepage"
-    #btn_class: "btn--inverse"
   - image_path: /assets/images/headshots/iscen_square.jpg
     alt: "Nilay Iscen"
     title: "Nilay Iscen"
@@ -324,6 +313,11 @@ visitors:
 
 
 ### Graduate Students
+
+#### Leah Nelson (2018--2021)
+**MS, 2021**
+* Integrated Water Resources on two volcanoes in Ecuador
+* ***Now:*** [Staff Scientist, SS Papadopulos & Associates](https://www.sspa.com/staff-directory)
 
 #### Olivia Beaulieu (2016-2018)
 * **MS, 2018**
