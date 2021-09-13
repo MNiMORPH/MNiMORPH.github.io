@@ -81,19 +81,6 @@ researchers:
   btn_class: "btn--inverse"
 
 grads:
-  - image_path: /assets/images/headshots/callaghan_square.jpg
-    alt: "Kerry Callaghan"
-    title: "Kerry Callaghan"
-    excerpt: "**Now a postdoc with Jacky Austermann at Columbia/LDEO**<br/>
-              Ph.D. 2020 University of Minnesota<br/>
-              M.S. 2014 Stellenbosch University<br/>
-              B.S. 2011 University of Pretoria<br/>
-              *Glacial-stage hydrology, terrestrial water storage, surface-water computation*<br/>
-              calla350 [at] umn [dot] edu
-              "
-    #url: ""
-    #btn_label: "Homepage"
-    #btn_class: "btn--inverse"
   - image_path: /assets/images/headshots/bobby_square_320px.png
     alt: "Bobby Schulz"
     title: Bobby Schulz
@@ -313,6 +300,14 @@ visitors:
 
 
 ### Graduate Students
+
+### Kerry Callaghan (2015--2021)
+
+**PhD, 2021**
+* Coupled groundwater--surface-water modeling on a global scale
+* Efficient algorithms to analyze depressions in landscapes and move water through them
+* Paleoclimate
+* ***Now:*** [Postdoctoral Research Scientist, Columbia/LDEO, Advisor: Jacky Austermann](https://www.ldeo.columbia.edu/~jackya/Group.html)
 
 #### Leah Nelson (2018--2021)
 **MS, 2021**
