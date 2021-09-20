@@ -107,7 +107,8 @@ grads:
   - image_path: /assets/images/headshots/vanWykdeVries_square.jpg
     alt: "Max van Wyk de Vries"
     title: "Max van Wyk de Vries"
-    excerpt: "**Ph.D. Candidate** (co-advised with Emi Ito)<br/>
+    excerpt: "**Ph.D. Candidate**<br/>
+              ***Co-advised with [Emi Ito](https://cse.umn.edu/esci/emi-ito)<br/>
               B.Sc. 2018 University of Edinburgh<br/>
               *Deglaciation, isostatic adjustment, and paleolimnology; volcanic and glacial hazards; remote sensing*<br/>
               vanwy048 [at] umn [dot] edu
@@ -153,7 +154,7 @@ grads:
     alt: "Jimmy Wood"
     title: "Jimmy Wood"
     excerpt: "**M.S. Student**<br/>
-              ***Co-advised with Phil Larson***<br/>
+              ***Co-advised with [Phil Larson](https://sbs.mnsu.edu/academics/geography/faculty-and-staff/phillip-larson/)***<br/>
               B.S. 2021 (Geology) University of Nebraska Omaha<br/>
               B.A. 2021 (Physics) University of Nebraska Omaha<br/>
               *Fluvial geomorphology*
