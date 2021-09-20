@@ -49,7 +49,7 @@ researchers:
             Starting Fall 2021<br/>
             Ph.D. 2021 Rice University<br/>
             B.S. 2016 University of North Carolina at Chapel Hill<br/>
-            eric.barefoot [at] rice [dot] edu
+            barefoot [at] umn [dot] edu
             "
   url: "http://ericbarefoot.com/"
   btn_label: "Homepage"
@@ -61,7 +61,7 @@ researchers:
             Starting Fall 2021<br/>
             Ph.D. 2021 University of Texas at Austin<br/>
             B.S. 2014 California Institute of Technology<br/>
-            himahg [at] utexas [dot] edu
+            himahg [at] umn [dot] edu
             "
   url: "https://sites.google.com/utexas.edu/hima-hg/"
   btn_label: "Homepage"
@@ -146,7 +146,8 @@ grads:
     title: "Tyler Fulghum"
     excerpt: "**Ph.D. Student**<br/>
               B.S. 2021 Tennessee Technological University<br/>
-              *Instrumentation and geoscientific data*
+              *Instrumentation and geoscientific data*<br/>
+              fulgh019 [at] umn [dot] edu
               "
     #url: ""
     #btn_label: "Homepage"
@@ -158,7 +159,8 @@ grads:
               ***Co-advised with [Phil Larson](https://sbs.mnsu.edu/academics/geography/faculty-and-staff/phillip-larson/)***<br/>
               B.S. 2021 (Geology) University of Nebraska Omaha<br/>
               B.A. 2021 (Physics) University of Nebraska Omaha<br/>
-              *Fluvial geomorphology*
+              *Fluvial geomorphology*<br/>
+              wood1466 [at] umn [dot] edu
               "
     #url: ""
     #btn_label: "Homepage"
