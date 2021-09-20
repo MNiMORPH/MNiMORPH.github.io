@@ -84,7 +84,8 @@ grads:
   - image_path: /assets/images/headshots/bobby_square_320px.png
     alt: "Bobby Schulz"
     title: Bobby Schulz
-    excerpt: "**M.S. Student** (co-advised with Nikolaos Papanikolopoulos)<br/>
+    excerpt: "**M.S. Student**<br/>
+              ***[Co-advised with Nikolaos Papanikolopoulos](https://www-users.cse.umn.edu/~papan001/)***<br/>
               B.S. 2017 University of Minnesota<br/>
               *Environmental instrumentation*<br/>
               schu3119 [at] umn [dot] edu
@@ -108,7 +109,7 @@ grads:
     alt: "Max van Wyk de Vries"
     title: "Max van Wyk de Vries"
     excerpt: "**Ph.D. Candidate**<br/>
-              ***Co-advised with [Emi Ito](https://cse.umn.edu/esci/emi-ito)<br/>
+              ***Co-advised with [Emi Ito](https://cse.umn.edu/esci/emi-ito)***<br/>
               B.Sc. 2018 University of Edinburgh<br/>
               *Deglaciation, isostatic adjustment, and paleolimnology; volcanic and glacial hazards; remote sensing*<br/>
               vanwy048 [at] umn [dot] edu
