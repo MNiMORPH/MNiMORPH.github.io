@@ -46,7 +46,6 @@ researchers:
   alt: "Eric Barefoot"
   title: "Eric Barefoot"
   excerpt: "**Postdoctoral Research Scientist**<br/>
-            Starting Fall 2021<br/>
             Ph.D. 2021 Rice University<br/>
             B.S. 2016 University of North Carolina at Chapel Hill<br/>
             barefoot [at] umn [dot] edu
@@ -58,7 +57,6 @@ researchers:
   alt: "Hima Hassenruck-Gudipati"
   title: "Hima Hassenruck-Gudipati"
   excerpt: "**Postdoctoral Research Scientist**<br/>
-            Starting Fall 2021<br/>
             Ph.D. 2021 University of Texas at Austin<br/>
             B.S. 2014 California Institute of Technology<br/>
             himahg [at] umn [dot] edu
@@ -85,7 +83,7 @@ grads:
     alt: "Bobby Schulz"
     title: Bobby Schulz
     excerpt: "**M.S. Student**<br/>
-              ***[Co-advised with Nikolaos Papanikolopoulos](https://www-users.cse.umn.edu/~papan001/)***<br/>
+              ***Co-advised with [Nikolaos Papanikolopoulos](https://www-users.cse.umn.edu/~papan001/)***<br/>
               B.S. 2017 University of Minnesota<br/>
               *Environmental instrumentation*<br/>
               schu3119 [at] umn [dot] edu
