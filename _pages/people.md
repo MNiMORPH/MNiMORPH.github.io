@@ -149,12 +149,13 @@ grads:
     #url: ""
     #btn_label: "Homepage"
     #btn_class: "btn--inverse"
-  - image_path: /assets/images/headshots/blank.jpg
+  - image_path: /assets/images/headshots/JimmyWood.png
     alt: "Jimmy Wood"
     title: "Jimmy Wood"
     excerpt: "**M.S. Student**<br/>
+              ***Co-advised wtih Phil Larson***<br/>
               B.S. 2021 (Geology) University of Nebraska Omaha<br/>
-              B.S. 2021 (Physics) University of Nebraska Omaha<br/>
+              B.A. 2021 (Physics) University of Nebraska Omaha<br/>
               *Fluvial geomorphology*
               "
     #url: ""
