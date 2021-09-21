@@ -174,7 +174,7 @@ undergrads:
               *River-profile analysis along Lake Superior*<br/>
               welsh162 [at] umn [dot] edu
               "
-  - image_path: /assets/images/headshots/blank.jpg
+  - image_path: /assets/images/headshots/mitchell_peter_2021_512x512.jpg
     alt: "Peter Mitchell"
     title: "Peter Mitchell"
     excerpt: "**Undergraduate Researcher**<br/>
