@@ -263,12 +263,11 @@ visitors:
     #url: ""
     #btn_label: "Homepage"
     #btn_class: "btn--inverse"
-    
   - image_path: /assets/images/headshots/ZionDoggoLarson.jpg
     alt: "Zion D. Larson"
     title: "Zion Doggo Larson"
     excerpt: "**Anxiety-driven thrill-seeker**<br/>
-              Clean up management, Rodent control<br/>
+              Clean Up Specialist, Rodent Control<br/>
               B.A.C. 2013<br/>
               *Testing our anxiety levels*
               "
