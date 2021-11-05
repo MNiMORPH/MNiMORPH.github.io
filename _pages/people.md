@@ -33,7 +33,7 @@ faculty:
               Minnesota State University, Mankato**<br/>
               Ph.D. 2013 Arizona State University<br/>
               M.A. 2011 Arizona State University<br/>
-              B.S 2008 University of Wisconsin - Eau Claire<br/>
+              B.S. 2008 University of Wisconsin-Eau Claire<br/>
               phillip.larson [at] mnsu [dot] edu
               "
     url: "/people/phlarson/"
@@ -167,8 +167,8 @@ grads:
     alt: "Hunter Delikowski"
     title: "Hunter Delikowski"
     excerpt: "**M.S. Student (Mankato)**<br/>
-              B.S. 2021 (Geology) University of Wisconsin-Eau Claire<br/>
-              B.A. 2021 (Geography) University of Wisconsin-Eau Claire<br/>
+              B.A. 2021 (Geology) University of Wisconsin-Eau Claire<br/>
+              B.A. 2021 (Environmental Geography) University of Wisconsin-Eau Claire<br/>
               *Fluvial geomorphology, Quaternary geology*<br/>
                [at] mnsu [dot] edu
               "
