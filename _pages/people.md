@@ -264,7 +264,7 @@ visitors:
     #btn_label: "Homepage"
     #btn_class: "btn--inverse"
     
-  - image_path: /assets/images/headshots/
+  - image_path: /assets/images/headshots/ZionDoggoLarson.jpg
     alt: "Zion D. Larson"
     title: "Zion Doggo Larson"
     excerpt: "**Anxiety-driven thrill-seeker**<br/>
