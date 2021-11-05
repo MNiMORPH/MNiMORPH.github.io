@@ -163,6 +163,18 @@ grads:
     #url: ""
     #btn_label: "Homepage"
     #btn_class: "btn--inverse"
+  - image_path: /assets/images/headshots/blank.jpg
+    alt: "Hunter Delikowski"
+    title: "Hunter Delikowski"
+    excerpt: "**M.S. Student (Mankato)**<br/>
+              B.S. 2021 (Geology) University of Wisconsin-Eau Claire<br/>
+              B.A. 2021 (Geography) University of Wisconsin-Eau Claire<br/>
+              *Fluvial geomorphology, Quaternary geology*<br/>
+               [at] mnsu [dot] edu
+              "
+    #url: ""
+    #btn_label: "Homepage"
+    #btn_class: "btn--inverse"
 
 undergrads:
   - image_path: /assets/images/headshots/JosieWelsh.jpg
@@ -267,7 +279,7 @@ visitors:
     alt: "Zion D. Larson"
     title: "Zion Doggo Larson"
     excerpt: "**Anxiety-driven thrill-seeker**<br/>
-              Clean Up Specialist, Rodent Control<br/>
+              Clean Up Specialist, Scavanging Expert <br/>
               B.A.C. 2013<br/>
               *Testing our anxiety levels*
               "
