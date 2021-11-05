@@ -280,7 +280,7 @@ visitors:
     title: "Zion Doggo Larson"
     excerpt: "**Anxiety-driven thrill-seeker**<br/>
               Clean Up Specialist, Scavanging Expert <br/>
-              B.A.C. 2013<br/>
+              D.O.B. 2013<br/>
               *Testing our anxiety levels*
               "
     #url: ""
