@@ -28,8 +28,8 @@ faculty:
   - image_path: /assets/images/headshots/larson_square.jpg
     alt: "Phil Larson"
     title: "Phil Larson"
-    excerpt: "**Professor; Director of Earth Science Programs,
-              Co-Director of EARTH Systems Laboratory
+    excerpt: "**Professor <br/>
+    Director of Earth Science Programs <br/>
               Minnesota State University, Mankato**<br/>
               Ph.D. 2013 Arizona State University<br/>
               M.A. 2011 Arizona State University<br/>
@@ -259,6 +259,18 @@ visitors:
               Invasive Species Management<br/>
               B.A.C. 2019<br/>
               *Testing classical mechanics*
+              "
+    #url: ""
+    #btn_label: "Homepage"
+    #btn_class: "btn--inverse"
+    
+  - image_path: /assets/images/headshots/
+    alt: "Zion D. Larson"
+    title: "Zion Doggo Larson"
+    excerpt: "**Anxiety-driven thrill-seeker**<br/>
+              Clean up management, Rodent control<br/>
+              B.A.C. 2013<br/>
+              *Testing our anxiety levels*
               "
     #url: ""
     #btn_label: "Homepage"
