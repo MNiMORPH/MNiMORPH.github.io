@@ -289,6 +289,8 @@ visitors:
 ---
 
 
+![Wickert et Alia (Like Mumford and Sons, but more scientific.)](/assets/images/Haybale_Silly_Aug2021.jpg)
+
 
 ## Faculty
 
