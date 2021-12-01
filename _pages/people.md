@@ -163,7 +163,7 @@ grads:
     #url: ""
     #btn_label: "Homepage"
     #btn_class: "btn--inverse"
-  - image_path: /assets/images/headshots/blank.jpg
+  - image_path: /assets/images/headshots/hunter.jpg
     alt: "Hunter Delikowski"
     title: "Hunter Delikowski"
     excerpt: "**M.S. Student (Mankato)**<br/>
