@@ -79,18 +79,6 @@ researchers:
   btn_class: "btn--inverse"
 
 grads:
-  - image_path: /assets/images/headshots/bobby_square_320px.png
-    alt: "Bobby Schulz"
-    title: Bobby Schulz
-    excerpt: "**M.S. Student**<br/>
-              ***Co-advised with [Nikolaos Papanikolopoulos](https://www-users.cse.umn.edu/~papan001/)***<br/>
-              B.S. 2017 University of Minnesota<br/>
-              *Environmental instrumentation*<br/>
-              schu3119 [at] umn [dot] edu
-              "
-    #url: ""
-    #btn_label: "Homepage"
-    #btn_class: "btn--inverse"
   - image_path: /assets/images/headshots/jones_square.jpg
     alt: "Jabari Jones"
     title: "Jabari Jones"
@@ -225,6 +213,18 @@ undergrads:
     #btn_class: "btn--inverse"
 
 visitors:
+  - image_path: /assets/images/headshots/bobby_square_320px.png
+    alt: "Bobby Schulz"
+    title: Bobby Schulz
+    excerpt: "**Collaborating Research Engineer**<br/>
+              M.S. 2021, Electrical & Computer Engineering, University of Minnesota<br/>
+              B.S. 2017, Electrical & Computer Engineering, University of Minnesota<br/>
+              *Environmental instrumentation*<br/>
+              schu3119 [at] umn [dot] edu
+              "
+    #url: ""
+    #btn_label: "Homepage"
+    #btn_class: "btn--inverse"
   - image_path: /assets/images/headshots/barnes.jpg
     alt: "Richard Barnes"
     title: "Richard Barnes"
@@ -321,23 +321,31 @@ visitors:
 * *Research with our group:* River-terrace analysis in the upper Mississippi valley
 * ***Now:*** [Assistant Professor, Department of Geography, Durham University](https://www.dur.ac.uk/research/directory/staff/?mode=staff&id=18302)
 
+
+### Bobby Schulz (2016-2018)
+* Open-source instrumentation development
+* *For more information, see "Graduate Students"*
+
 #### Chad Sandell (2016-2018)
 * **Research specialist:** Lab engineer
 * Maker of many things
 * ***Now:*** [Design Engineer, Ironwood Electronics](https://www.researchgate.net/profile/Chad_Sandell)
 
-
 ### Graduate Students
 
-### Kerry Callaghan (2015--2021)
+### Bobby Schulz (2018--2021)
+**MS, 2021**
+* Development of a series of open-source data loggers
+* ***Since 2019:*** Hardware development lead for [GEMS IoT](https://agroinformatics.org/about-us/)
 
+### Kerry Callaghan (2015-2021)
 **PhD, 2021**
 * Coupled groundwater--surface-water modeling on a global scale
 * Efficient algorithms to analyze depressions in landscapes and move water through them
 * Paleoclimate
 * ***Now:*** [Postdoctoral Research Scientist, Columbia/LDEO, Advisor: Jacky Austermann](https://www.ldeo.columbia.edu/~jackya/Group.html)
 
-#### Leah Nelson (2018--2021)
+#### Leah Nelson (2018-2021)
 **MS, 2021**
 * Integrated Water Resources on two volcanoes in Ecuador
 * ***Now:*** [Staff Scientist, SS Papadopulos & Associates](https://www.sspa.com/staff-directory)
@@ -349,7 +357,6 @@ visitors:
 * ***Now:*** [U.S. Army Corps of Engineers, New England Division](https://www.linkedin.com/in/olivia-beaulieu-9abb25160)
 
 #### Shane Loeffler (2016-2018)
-
 * **MS, 2018** (co-advised with Amy Myrbo)
 * B.S. 2015 University of Minnesota Duluth
 * [Flyover Country](https://flyovercountry.io/)
