@@ -111,9 +111,10 @@ grads:
               *Glacier–river interactions; Quaternary geochronology*<br/>
               penpr001 [at] umn [dot] edu
               "
-    #url: ""
-    #btn_label: "Homepage"
-    #btn_class: "btn--inverse"
+    url: "https://spenprase.github.io"
+    btn_label: "Homepage"
+    btn_class: "btn--inverse"
+    
   - image_path: /assets/images/headshots/iscen_square.jpg
     alt: "Nilay Iscen"
     title: "Nilay Iscen"
