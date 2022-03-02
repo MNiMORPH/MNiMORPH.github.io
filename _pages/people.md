@@ -265,6 +265,8 @@ visitors:
     #url: ""
     #btn_label: "Homepage"
     #btn_class: "btn--inverse"
+    
+animals:
   - image_path: /assets/images/headshots/FjordCat.JPG
     alt: "Fjord C. Wickert"
     title: "Fjord Catters Wickert"
@@ -312,6 +314,11 @@ visitors:
 ## Visiting, Affiliated, and Key Collaborating Scientists
 
 {% include feature_row id="visitors" %}
+
+## The animals behind the scientists
+
+{% include feature_row id="animals" %}
+
 
 ## Former Group Members
 

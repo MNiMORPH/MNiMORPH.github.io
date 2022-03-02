@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "University of Minnesota Earth-Surface Processes"
+title: "MNiMORPH"
 permalink: /
 hidden: true
 header:
@@ -11,7 +11,7 @@ header:
   #  - label: "Get started"
   #    url: "/awtest/"
   caption: "Sediment, rock, and water combine to shape Earth's surface. Northwestern Argentina. *Photo: A. Wickert*"
-excerpt: Rivers, glaciers, sea level, and instrumentation design.<br />
+excerpt: Minnesotans Mulling over Rivers, Particles, & Hillslopes<br />
 #         <small>Environmental sensors and data loggers.</small>
 ---
 
