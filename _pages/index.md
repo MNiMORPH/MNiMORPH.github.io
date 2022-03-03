@@ -17,7 +17,7 @@ excerpt: Minnesotans Mulling over Rivers, Particles, & Hillslopes<br />
 
 ## Our Work and Goals
 
-**MNiMORPH** is a collaboration between the **University of Minnesota – Twin Cities** and **Minnesota State University, Mankato** thereby bridging the flagship campuses in the state and land grant university systems in the state of Minnesota to develop a regional collaboration focused on understanding landscape evolution, long- and short-term river-system change, deglacial and peri/paraglacial systems, and coupled human-enviornment interactions (e.g. land use practices, natural hazards, climate change, geoarcheology) in the upper Midwest and beyond.
+**MNiMORPH** is a collaboration between the **University of Minnesota – Twin Cities** and **Minnesota State University, Mankato**. This colloaboration bridges the flagship campuses in the state and land grant university systems in Minnesota to develop a regional collaboration focused on understanding landscape evolution, long- and short-term river-system change, deglacial and peri/paraglacial systems, and coupled human-enviornment interactions (e.g. land use practices, natural hazards, climate change, geoarcheology) in the upper Midwest and beyond.
 
 We approach geomorphology and, broadly, the science of Earth's surface as the essential link between climate, human activities, geodynamic processes, Earth history, and the environment in which we live. Our group approaches scientific inquiry:
 1. to encourage and foster equity, diversity, and inclusion in Earth Science,  
