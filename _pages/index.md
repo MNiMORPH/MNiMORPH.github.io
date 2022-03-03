@@ -17,22 +17,28 @@ excerpt: Minnesotans Mulling over Rivers, Particles, & Hillslopes<br />
 
 ## Our Work and Goals
 
-The surface-processes group at the University of Minnesota blends **field investigations**, **numerical modeling**, **geospatial analyses**, **laboratory experiments**, and **instrumentation design and fabrication** to address changes in past and present glaciers and ice sheets, river systems, sea level, and landscapes.
-
-## UMN–MNSU collaboration
-
-This website features intertwined and collaborative research groups and programs led by Andy Wickert in the Department of Earth & Environmental Sciences and the Saint Anthony Falls Laboratory at the University of Minnesota, and by Phillip Larson in the Earth Science Program, EARTH Systems Laboratory, and Department of Geography at Minnesota State University, Mankato.
-
-In addition to these core semi-merged research groups, we maintain active collaborations with scientists across the region and around the world.
-
-## Earth-surface science
+**MNiMORPH** is a collaboration between the **University of Minnesota – Twin Cities** and **Minnesota State University, Mankato** to develop a regional collaboration into landscape evolution, natural hazards, river-system change, and deglacial-systems evolution in the upper Midwest and beyond.
 
 We approach geomorphology and, broadly, the science of Earth's surface as the essential link between climate, land use, geodynamic processes, Earth history, and the environment in which we live. Our group approaches these problems:
 1. with broad eye towards interdisciplinary knowledge,
-2. through precise physical and mathematical approaches to build and operationalize theory, and
-3. in the spirit of open-minded inquiry into Earth-system science.
+2. through precise physical and mathematical approaches to build and operationalize theory,
+3. broading the spirit of and participation in the field tradition in geomorphology, and
+4. in the spirit of open-minded inquiry into Earth-system science.
+
+### University of Minnesota
+
+The surface-processes group at the University of Minnesota blends **field investigations**, **numerical modeling**, **geospatial analyses**, **laboratory experiments**, and **instrumentation design and fabrication** to address changes in past and present glaciers and ice sheets, river systems, sea level, and landscapes. Our major research directions are into:
+* River-network response to climate and land-use change
+* Interactions between glaciers and ice sheets, terrestrial hydrology, and global sea level
+* Development of open-source geoscientific instrumentation
+
+### Minnesota State University, Mankato
+
+**!PHIL/OTHERS ADD TEXT HERE**
 
 ## Everybody matters
+
+**ADW wrote this in a single sitting. I (ADW) think it's probably a fine placeholder, but if we want to get real about having an inclusive approach to our ... um, inclusivity statement, we should probably all decide on it together :).**
 
 Some of us are strong. Some of us are smart. Some of us make others laugh. Some have known Earth science since childhood, while others have recently discovered it. Some of us come up with problems, and some imagine solutions. Whether you haul a pack, write computer code, date samples, analyze remotely-sensed data, couple differential equations, inspire students, and/or build our community, you are welcome among us.
 
