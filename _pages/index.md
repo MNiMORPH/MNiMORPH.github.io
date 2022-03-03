@@ -17,13 +17,13 @@ excerpt: Minnesotans Mulling over Rivers, Particles, & Hillslopes<br />
 
 ## Our Work and Goals
 
-**MNiMORPH** is a collaboration between the **University of Minnesota – Twin Cities** and **Minnesota State University, Mankato** to develop a regional collaboration into landscape evolution, natural hazards, river-system change, and deglacial-systems evolution in the upper Midwest and beyond.
+**MNiMORPH** is a collaboration between the **University of Minnesota – Twin Cities** and **Minnesota State University, Mankato** thereby bridging the flagship campuses in the state and land grant university systems in the state of Minnesota to develop a regional collaboration focused on understanding landscape evolution, long- and short-term river-system change, deglacial and peri/paraglacial systems, and coupled human-enviornment interactions (e.g. land use practices, natural hazards, climate change, geoarcheology) in the upper Midwest and beyond.
 
-We approach geomorphology and, broadly, the science of Earth's surface as the essential link between climate, land use, geodynamic processes, Earth history, and the environment in which we live. Our group approaches these problems:
-1. with broad eye towards interdisciplinary knowledge,
-2. through precise physical and mathematical approaches to build and operationalize theory,
-3. broading the spirit of and participation in the field tradition in geomorphology, and
-4. in the spirit of open-minded inquiry into Earth-system science.
+We approach geomorphology and, broadly, the science of Earth's surface as the essential link between climate, human activities, geodynamic processes, Earth history, and the environment in which we live. Our group approaches scientific inquiry:
+1. to encourage and foster equity, diversity, and inclusion in Earth Science,  
+2. with a broad eye towards interdisciplinary knowledge and in the spirit of open-minded inquiry in Earth System Science,
+3. through precise physical and mathematical approaches to build and operationalize theory,
+4. and by connecting and refining theory through fostering the disciplinary tradition of field work via utilizing state-of-the-science field and laboratory-based methodologies.
 
 ### University of Minnesota
 
