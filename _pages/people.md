@@ -17,6 +17,7 @@ faculty:
     alt: "Andy Wickert"
     title: "Andy Wickert"
     excerpt: "**McKnight Land-Grant Associate Professor**<br/>
+              **University of Minnesota**<br>
               Ph.D. 2014 University of Colorado Boulder<br/>
               S.B. 2008 Massachusetts Institute of Technology<br/>
               awickert [at] umn [dot] edu
@@ -46,6 +47,7 @@ researchers:
   alt: "Eric Barefoot"
   title: "Eric Barefoot"
   excerpt: "**Postdoctoral Research Scientist**<br/>
+            **University of Minnesota**<br>
             Ph.D. 2021 Rice University<br/>
             B.S. 2016 University of North Carolina at Chapel Hill<br/>
             barefoot [at] umn [dot] edu
@@ -57,6 +59,7 @@ researchers:
   alt: "Hima Hassenruck-Gudipati"
   title: "Hima Hassenruck-Gudipati"
   excerpt: "**Postdoctoral Research Scientist**<br/>
+            **University of Minnesota**<br>
             Ph.D. 2021 University of Texas at Austin<br/>
             B.S. 2014 California Institute of Technology<br/>
             himahg [at] umn [dot] edu
@@ -68,7 +71,7 @@ researchers:
   alt: "Jeffrey Kwang"
   title: "Jeffrey Kwang"
   excerpt: "**Postdoctoral Research Scientist**<br/>
-            Starting Spring 2022<br/>
+            **University of Minnesota**<br>
             Ph.D. 2019 University of Illinois<br/>
             M.S. 2016 University of Illinois<br/>
             B.S. 2013 Johns Hopkins University<br/>
@@ -83,6 +86,7 @@ grads:
     alt: "Jabari Jones"
     title: "Jabari Jones"
     excerpt: "**Ph.D. Candidate**<br/>
+              **University of Minnesota**<br>
               M.S. 2018 Utah State University<br/>
               B.A. 2015 Carleton College<br/>
               *Geomorphic and hydrologic response to climate and land-use change; environmental justice; geoscience education*<br/>
@@ -95,6 +99,7 @@ grads:
     alt: "Max van Wyk de Vries"
     title: "Max van Wyk de Vries"
     excerpt: "**Ph.D. Candidate**<br/>
+              **University of Minnesota**<br>
               ***Co-advised with [Emi Ito](https://cse.umn.edu/esci/emi-ito)***<br/>
               B.Sc. 2018 University of Edinburgh<br/>
               *Deglaciation, isostatic adjustment, and paleolimnology; volcanic and glacial hazards; remote sensing*<br/>
@@ -114,11 +119,12 @@ grads:
     url: "https://spenprase.github.io"
     btn_label: "Homepage"
     btn_class: "btn--inverse"
-    
+
   - image_path: /assets/images/headshots/iscen_square.jpg
     alt: "Nilay Iscen"
     title: "Nilay Iscen"
     excerpt: "**Ph.D. Student**<br/>
+              **University of Minnesota**<br>
               M.S. 2018 Virginia Polytechnic Institute and State University<br/>
               M.S. 2015 Middle East Technical University<br/>
               B.S. 2011 Middle East Technical University<br/>
@@ -132,6 +138,7 @@ grads:
     alt: "Tyler Fulghum"
     title: "Tyler Fulghum"
     excerpt: "**Ph.D. Student**<br/>
+              **University of Minnesota**<br>
               B.S. 2021 Tennessee Technological University<br/>
               *Instrumentation and geoscientific data*<br/>
               fulgh019 [at] umn [dot] edu
@@ -143,6 +150,7 @@ grads:
     alt: "Jimmy Wood"
     title: "Jimmy Wood"
     excerpt: "**M.S. Student**<br/>
+              **University of Minnesota**<br>
               ***Co-advised with [Phil Larson](https://sbs.mnsu.edu/academics/geography/faculty-and-staff/phillip-larson/)***<br/>
               B.S. 2021 (Geology) University of Nebraska Omaha<br/>
               B.A. 2021 (Physics) University of Nebraska Omaha<br/>
@@ -155,7 +163,8 @@ grads:
   - image_path: /assets/images/headshots/hunter.jpg
     alt: "Hunter Delikowski"
     title: "Hunter Delikowski"
-    excerpt: "**M.S. Student (Mankato)**<br/>
+    excerpt: "**M.S. Student**<br/>
+              **Minnesota State University, Mankato**<br>
               B.A. 2021 (Geology) University of Wisconsin-Eau Claire<br/>
               B.A. 2021 (Environmental Geography) University of Wisconsin-Eau Claire<br/>
               *Fluvial geomorphology, Quaternary geology*<br/>
@@ -170,7 +179,7 @@ undergrads:
     alt: "Josie Welsh"
     title: "Josie Welsh"
     excerpt: "**Undergraduate Researcher**<br/>
-              University of Minnesota<br/>
+              **University of Minnesota**<br/>
               *Bed-load sediment sampler design*<br/>
               *River-profile analysis along Lake Superior*<br/>
               welsh162 [at] umn [dot] edu
@@ -179,7 +188,7 @@ undergrads:
     alt: "Peter Mitchell"
     title: "Peter Mitchell"
     excerpt: "**Undergraduate Researcher**<br/>
-              University of Minnesota<br/>
+              **University of Minnesota**<br/>
               *River-terrace mapping*<br/>
               *Code development to characterize valleys and networks*<br/>
               mitc0560 [at] umn [dot] edu
@@ -191,7 +200,7 @@ undergrads:
     alt: "Jesse Schewe"
     title: "Jesse Schewe"
     excerpt: "**Undergraduate Researcher**<br/>
-              University of Minnesota<br/>
+              **University of Minnesota**<br/>
               *St. Croix River elevation data*<br/>
               *Field support*<br/>
               schew027 [at] umn [dot] edu
@@ -203,7 +212,7 @@ undergrads:
     alt: "Campbell Dunn"
     title: "Campbell Dunn"
     excerpt: "**Undergraduate Researcher**<br/>
-              University of Wisconsin -- Madison<br/>
+              **University of Wisconsin -- Madison**<br/>
               *Code development for drainage networks*<br/>
               *Shallow seismic acquistion and analysis*<br/>
               *Field support*<br/>
@@ -243,7 +252,7 @@ visitors:
     alt: "Andrea Prichard"
     title: "Andrea Prichard"
     excerpt: "**Visiting Research Scientist**<br/>
-              2020-2021 Fulbright Scholar, Batipa Field Institute, Universidad Tecnológica Oteima, Panamá<br/>
+              2020-2022 Fulbright Scholar, Batipa Field Institute, Universidad Tecnológica Oteima, Panamá<br/>
               M.S. 2012 Universidad Mayor de San Simón<br/>
               M.A. 2011 University of Arizona<br/>
               B.A. 2004 Oberlin College<br/>
@@ -265,7 +274,7 @@ visitors:
     #url: ""
     #btn_label: "Homepage"
     #btn_class: "btn--inverse"
-    
+
 animals:
   - image_path: /assets/images/headshots/FjordCat.JPG
     alt: "Fjord C. Wickert"
@@ -325,29 +334,29 @@ animals:
 ### Researchers
 
 #### Dr. Fiona Clubb (2017)
-* **Predoctoral research scientist**
+* **Predoctoral research scientist** (UMN)
 * *Research with our group:* River-terrace analysis in the upper Mississippi valley
 * ***Now:*** [Assistant Professor, Department of Geography, Durham University](https://www.dur.ac.uk/research/directory/staff/?mode=staff&id=18302)
 
 
 ### Bobby Schulz (2016-2018)
-* Open-source instrumentation development
+* Open-source instrumentation development (UMN)
 * *For more information, see "Graduate Students"*
 
 #### Chad Sandell (2016-2018)
-* **Research specialist:** Lab engineer
+* **Research specialist:** Lab engineer (UMN)
 * Maker of many things
 * ***Now:*** [Design Engineer, Ironwood Electronics](https://www.researchgate.net/profile/Chad_Sandell)
 
 ### Graduate Students
 
 ### Bobby Schulz (2018--2021)
-**MS, 2021**
+**MS, 2021** (UMN)
 * Development of a series of open-source data loggers
 * ***Since 2019:*** Hardware development lead for [GEMS IoT](https://agroinformatics.org/about-us/)
 
 ### Kerry Callaghan (2015-2021)
-**PhD, 2021**
+**PhD, 2021** (UMN)
 * Coupled groundwater--surface-water modeling on a global scale
 * Efficient algorithms to analyze depressions in landscapes and move water through them
 * Paleoclimate
@@ -359,7 +368,7 @@ animals:
 * ***Now:*** []()
 
 #### Leah Nelson (2018-2021)
-**MS, 2021**
+**MS, 2021** (UMN; co-advised with primary advisor Crystal Ng)
 * Integrated Water Resources on two volcanoes in Ecuador
 * ***Now:*** [Staff Scientist, SS Papadopulos & Associates](https://www.sspa.com/staff-directory)
 
@@ -384,7 +393,7 @@ animals:
 * ***Now:*** [National Geospatial Intelligence Agency](https://www.nga.mil/)
 
 #### Olivia Beaulieu (2016-2018)
-* **MS, 2018**
+* **MS, 2018** (UMN)
 * Experimental fluvial geomorphology
 * Landslide mapping and analysis
 * ***Now:*** [U.S. Army Corps of Engineers, New England Division](https://www.linkedin.com/in/olivia-beaulieu-9abb25160)
@@ -417,36 +426,36 @@ animals:
 
 #### Carson Smith (2013-2016)
 * **MS, 2016** (Minnesota State)
-* Floodplain Inundation Mapping: An Evaluation of Geospatial Tools on the Minnesota River, MN. 
+* Floodplain Inundation Mapping: An Evaluation of Geospatial Tools on the Minnesota River, MN.
 * ***Now:*** John Wood Group PLC [Wood](https://www.woodplc.com/)
 
 ### Undergraduate Students
 
 #### Evan Grove (2018-2019)
-* Undergraduate student researcher
+* Undergraduate student researcher (UMN)
 * Design of "thermal stake" for heat-flow and water-flux measurements
 * ***Now:*** [Enginner at Turck USA](https://www.linkedin.com/in/epg)
 
 #### Suyash Handa (2018)
-* Visiting undergraduate researcher from Colgate College
+* Visiting undergraduate researcher (Colgate College)
 * MEMS accelerometers and geophones for low-cost seismometers
 * ***Now:*** Joint physics (Colgate) and electrical engineering (Columbia) undergraduate student
 
 #### Lauren Michael (2017)
-* Visiting undergraduate researcher from Carleton College (geology)
+* Visiting undergraduate researcher (Carleton College)
 * Mapping global paleolakes
 
 #### Keenen Francois-King (2017)
-* Undergraduate student researcher
+* Undergraduate student researcher (UMN)
 * GPS to measure snow-water equivalent
 
 #### Libby Witte (2016-2017)
-* Undergraduate student researcher
+* Undergraduate student researcher (UMN)
 * Experimental fluvial geomorphology
 * ***Now:*** Geologist with Corvis Gold (Nevada)
 
 #### Ethan Kurak (2016-2018)
-* Undergraduate student researcher
+* Undergraduate student researcher (UMN)
 * River terraces
 * ***Now:*** [M.S. Student, Lehigh University](https://ees.cas.lehigh.edu/content/ethan-kurak)
 
@@ -454,16 +463,16 @@ animals:
 ### Visiting, Affiliated, and Key Collaborating Scientists
 
 #### Dr. Beth Fisher (2017-2019)
-* Friendly Neighborhood Scientist
+* Friendly Neighborhood Scientist (UMN)
 * *Research with our group:* Environmental instrumentation
 * ***Now:*** [Assistant Professor, Department of Chemistry and Geology, Minnesota State University, Mankato](https://cset.mnsu.edu/departments/chemistry-and-geology/faculty-and-staff/beth-fisher/)
 
 #### Dr. Sara Savi (2015)
-* Visiting postdoctoral research scientist from the Universität Potsdam
+* Visiting postdoctoral research scientist from (Universität Potsdam)
 * *Research with our group:* Alluvial fans and tributary interactions at SAFL
 * ***Now:*** [Postdoctoral research scientist at the Universität Potsdam](http://www.geo.uni-potsdam.de/mitarbeiterdetails/show/482/Sara_Savi.html)
 
 #### Dr. Stefanie Tofelde (2015)
-* Visiting doctoral student from the Universität Potsdam
+* Visiting doctoral student (Universität Potsdam)
 * *Research with our group:* Fluvial terrace formation at SAFL
 * ***Now:*** [Lecturer at the Universität Potsdam](http://www.geo.uni-potsdam.de/mitarbeiterdetails/show/771/Stefanie_Tofelde.html)
