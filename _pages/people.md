@@ -354,7 +354,7 @@ animals:
 * ***Now:*** [Postdoctoral Research Scientist, Columbia/LDEO, Advisor: Jacky Austermann](https://www.ldeo.columbia.edu/~jackya/Group.html)
 
 ### Owen Lott (2019-2021)
-* **MS, 2021** (Minnesota State)
+* **MS, 2021** (Minnesota State; co-advised with Bryce Hoppie)
 * Comparative Analysis of Water Quality Monitoring Procedures in Small Minnesota Lake Systems, Bass Lake Watershed, South-Central Minnesota
 * ***Now:*** []()
 
