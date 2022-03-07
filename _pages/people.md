@@ -353,10 +353,35 @@ animals:
 * Paleoclimate
 * ***Now:*** [Postdoctoral Research Scientist, Columbia/LDEO, Advisor: Jacky Austermann](https://www.ldeo.columbia.edu/~jackya/Group.html)
 
+### Owen Lott (2019-2021)
+* **MS, 2021** (Minnesota State)
+* Comparative Analysis of Water Quality Monitoring Procedures in Small Minnesota Lake Systems, Bass Lake Watershed, South-Central Minnesota
+* ***Now:*** []()
+
 #### Leah Nelson (2018-2021)
 **MS, 2021**
 * Integrated Water Resources on two volcanoes in Ecuador
 * ***Now:*** [Staff Scientist, SS Papadopulos & Associates](https://www.sspa.com/staff-directory)
+
+### Ricky Mataitis (2018-2020)
+* **MS, 2020** (Minnesota State)
+* Distribution, Geomorphology and Significance of Sand Stringers in west-central Wisconsin and southern Minnesota, USA.
+* ***Now:*** [Jacobs Engineering](http://jacobs.com/)
+
+### Kira Kuehl (2017-2020)
+* **MS, 2020** (Minnesota State)
+* Single-Grain Optical Stimulated Luminescence Dating at Cambria Pit, Minnesota River Valley, Minnesota, USA
+* ***Now:*** []()
+
+### Melissa Swanson (2017-2019)
+* **MS, 2019** (Minnesota State)
+* Mass Wasting Investigation and Assessment in the Midwest: Case Study of the Minnesota River Valley, New Ulm to St. Peter, Minnesota, USA
+* ***Now:*** [Sentera](https://sentera.com/)
+
+### Jason Millett (2017-2019)
+* **MS, 2019** (Minnesota State)
+* Cliff-Top Dunes in the Lower Chippewa River Valley of West-Central Wisconsin
+* ***Now:*** [National Geospatial Intelligence Agency](https://www.nga.mil/)
 
 #### Olivia Beaulieu (2016-2018)
 * **MS, 2018**
@@ -370,11 +395,30 @@ animals:
 * [Flyover Country](https://flyovercountry.io/)
 * ***Now:*** [Cartographer and Web Developer, Polar Geospatial Center](https://www.pgc.umn.edu/about/people/shane-loeffler/)
 
+#### Zach Hilgendorf (2015-2018)
+* **MS, 2018** (Minnesota State; co-advised with Bryce Hoppie)
+* The Efficacy of Best Management Practices on Peak Discharge and Contaminant Loads in Agricultural Drainage Systems, Blue Earth River Watershed, South-Central Minnesota, USA.
+* ***Now:*** [PhD Student, Arizona State University](https://isearch.asu.edu/profile/3271300)
+
+#### Devon Libby (2014-2018)
+* **MS, 2018** (Minnesota State)
+* Assessing Historical Planform Channel Change in an Altered Watershed with Quantification of Error and Uncertinaty Present in a GIS/Aerial Photograph-based Analysis; Case Study: Minnesota River, Minnesota, USA.
+* ***Now:*** [Sentera](https://sentera.com/)
+
+#### Vinson Williams (2015-2017)
+* **MS, 2017** (Minnesota State)
+* A Geospatial Approach to Assessing I/I in Wastewater Infrastructure: Case Study of Minneapolis/St Paul, MN.
+* ***Now:*** [Barr Engineering](https://www.barr.com/)
+
 #### Rachel McLaughlin (2015-2017)
 * **MS, 2017** (co-advised with primary advisor Crystal Ng)
 * Hydrology and water resources on Chimborazo Volcano, Ecuador
 * ***Now:*** [Staff Hydrogeologist - PES Environmental, Inc.](https://www.linkedin.com/in/rachel-mclaughlin-50796a36)
 
+#### Carson Smith (2013-2016)
+* **MS, 2016** (Minnesota State)
+* Floodplain Inundation Mapping: An Evaluation of Geospatial Tools on the Minnesota River, MN. 
+* ***Now:*** John Wood Group PLC [Wood](https://www.woodplc.com/)
 
 ### Undergraduate Students
 
