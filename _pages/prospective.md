@@ -21,7 +21,7 @@ excerpt: "Facilities<br/>Broad goals<br/>Information if you are considering join
 
 We are based out of several facilities at the University of Minnesota (UMN) and Minnesota State, Mankato (MNSU).  First, at UMN the historic [**Saint Anthony Falls Laboratory**](https://www.safl.umn.edu/) [(Google Maps)](https://goo.gl/maps/Fn7Hxyugo2LJnnkq9), built into the side of the largest waterfall on the Mississippi, where we interact wtih fluid dynamicists from across science and engineering. We also run and maintain the **Surface Processes Instrumentation Lab** within the [Department of Earth & Environmental Sciences](https://www.esci.umn.edu/) in [John T. Tate Hall](https://www.google.com/maps/uv?hl=en&pb=!1s0x52b32d1661d0911f%3A0xb4bf99a8068a596f!3m1!7e115!4shttps%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNT5CBaqaF5K2RSo63dayZLeght6UBqYgTeFtJ2%3Dw262-h176-k-no!5sjohn%20t%20tate%20hall%20-%20Google%20Search!15sCgIgAQ&imagekey=!1e10!2sAF1QipNT5CBaqaF5K2RSo63dayZLeght6UBqYgTeFtJ2&sa=X&ved=2ahUKEwiy2uDSk4brAhXbVc0KHRAnDbAQoiowFHoECBAQBg); this department is MNiMORPH faculty Dr. Andy Wickert's tenure home and also the entity that grants students' degrees.  Second, at MNSU, the newly created [**EARTH Systems Laboratory**](https://sbs.mnsu.edu/organizations/earth-systems-research-laboratory/) was established in 2021. The EARTH Systems Laboratory is a student focused Quaternary science, archeology, and geomorphology/surface process laboratory in Carkowski Commons at MNSU. In addition, MNiMORPH faculty Dr. Phillip Larson's tenure home is within the Department of Geography and Earth Science Programs through which students earn their degrees.
 
-Our group is led by Dr. Andrew Wickert and Dr. Phillip Larson.  Wickert is also an Associate of the [**Institute on the Environment (IonE)**](http://environment.umn.edu/), which hosts educational and research programs and helps us to communicate our work and to produce impactful applications.  Dr. Phillip Larson, founded the EARTH Systems Lab, is a collaborator with the lab, and is the Director of Earth Science Programs at Minnesota State, Mankato.  Wickert is graduate faculty at Minnesota State, Mankato, allowing for him to work directly with Mankato Geography and Earth Science students. Larson is also graduate faculty in Earth and Environmental Sciences at the University of Minnesota and can work with UMN graduate students as well.
+Our group is led by Dr. Andrew Wickert and Dr. Phillip Larson.  Wickert is also an Associate of the [**Institute on the Environment (IonE)**](http://environment.umn.edu/), which hosts educational and research programs and helps us to communicate our work and to produce impactful applications.  Dr. Phillip Larson, founded the EARTH Systems Lab, is a collaborator with the lab, and is the [**Director of Earth Science Programs**](https://sbs.mnsu.edu/academics/earth-science/) at Minnesota State, Mankato.  Wickert is graduate faculty at Minnesota State, Mankato, allowing for him to work directly with mNSU Geography and Earth Science students. Larson is also graduate faculty in Earth and Environmental Sciences at the UMN and can work with UMN graduate students as well.
 
 Most importantly, though, we are the lab members.  We are a team. If you are inquisitive, open-minded, interested in connecting theory and observations, and someone who wants to be a member of a diverse and collaborative team, you could be a good fit. If you are excited about instrumentation design, numerical methods, physical computing, laboratory experiments, geomorphic history, field investigations, sea level, and/or the development of theory, your interests intersect with ours. We have limited positions, but we're always glad to hear form interested applicants.
 
@@ -88,21 +88,20 @@ Nilay filled this
 
 ***Graduate student To Be Determined***
 
-* Working with Phil Larson as primary advisor
+* Working with Larson as primary advisor, Wickert on committee
 * Linking Quaternary fluvial-system change and geochronology (OSL, 14C, cosmogenic radionuclides)
 * Interested in reconstructing the proglacial lake flood history of the Minnesota and St. Croix Rivers
+* Interested in reconstructing the evolution of rivers flowing into the Lake Superior basin.
 * Interested in understanding the impacts of these floods on tributary systems and the upper Mississippi drainage basin's evolution
 * Theoretical underpinning tied to base level adjustments and fluvial system response
 * Connections between geomorphology, sedimentology, and landscape evolution
 
-<!--
-Shanti is working on this; Andy intends to do much of this work with undergrads
 
 ### Deciphering the glacial and deglacial history of the upper Mississippi valley
 
 ***Ph.D. student (University of Minnesota)***
 
-* Working with both Phil Larson and Andy Wickert
+* Working with both Larson and Wickert
 * Dating the terrace record (CRN and/or OSL)
 * Modeling river long-profile evolution
 * Linking research to ice-sheet and proglacial-lake history
@@ -134,14 +133,17 @@ Shanti is working on this; Andy intends to do much of this work with undergrads
 * Scientific programming and software development (C++ and/or Python), with a focus on Arduino-style embedded C++
 * Field instrumentation assembly and data analysis
 
-### Permafrost degradation revealed by aeolian activity in the upper Mississippi valley
+### Post-glacial paleoenvironmental change/Holocene paleoenvironmental change in the upper Mississippi basin
 
-***M.S. student (Minnesota State University, Mankato)***
+***M.S. student (MNSU)***
 
-* Working with Phil Larson
-* Identifying (remotely and in the field) and dating (with OSL) ancient aeolian deposits
+* Working with Larson as primary advisor
+* Working with aeolian and periglacial landforms and deposits
+* Identifying (remotely and in the field) and dating (with OSL) ancient aeolian deposits and periglacial features
+* Potentially coring wetlands/lakes to recover proxy archives
 * Potentially utilizing Ground Penetrating Radar to understand stratigraphy and sedimentary structure
-* Bringing pulses of aeolian activity into a broad paleogeographic framework
+* geochronology (14C, OSL), particle size analysis, coring, possible isotopic analysis
+* Bringing pulses of aeolian activity, periglacial features, and proxy records into a broad paleogeographic framework
 
 ### Testing and documenting environmental instrumentation
 
