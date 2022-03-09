@@ -88,7 +88,7 @@ Nilay filled this
 
 ***Both PhD and M.S. students***
 
-* Working with Larson as primary advisor, Wickert on committee
+* Working with Larson and Wickert
 * Linking Quaternary fluvial-system change and geochronology (OSL, 14C, cosmogenic radionuclides)
 * Interested in reconstructing the proglacial lake flood history of the Minnesota and St. Croix Rivers
 * Interested in reconstructing the evolution of rivers flowing into the Lake Superior basin.
