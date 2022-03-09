@@ -23,9 +23,9 @@ We are based out of several facilities at the University of Minnesota (UMN) and 
 
 Our group is led by Dr. Andrew Wickert and Dr. Phillip Larson.  Wickert is also an Associate of the [**Institute on the Environment (IonE)**](http://environment.umn.edu/), which hosts educational and research programs and helps us to communicate our work and to produce impactful applications.  Dr. Phillip Larson, founded the EARTH Systems Lab, is a collaborator with the lab, and is the [**Director of Earth Science Programs**](https://sbs.mnsu.edu/academics/earth-science/) at Minnesota State, Mankato.  Wickert is graduate faculty at Minnesota State, Mankato, allowing for him to work directly with MNSU Geography and Earth Science students. Larson is also graduate faculty in Earth and Environmental Sciences at the Univeristy of Minnesota and can work with UMN graduate students as well.
 
-Most importantly, though, we are the lab members.  We are a team. If you are inquisitive, open-minded, interested in connecting theory and observations, and someone who wants to be a member of a diverse and collaborative team, you could be a good fit. If you are excited about instrumentation design, numerical methods, physical computing, laboratory experiments, geomorphic history, field investigations, sea level, and/or the development of theory, your interests intersect with ours. We have limited positions, but we're always glad to hear form interested applicants.
-
 <img align="left" src="/assets/images/IMG_20181029_124854698.jpg" alt="Group members and friends at Grand Canyon" width="480px">
+
+Most importantly, though, we are the lab members.  We are a team. If you are inquisitive, open-minded, interested in connecting theory and observations, and someone who wants to be a member of a diverse and collaborative team, you could be a good fit. If you are excited about instrumentation design, numerical methods, physical computing, laboratory experiments, geomorphic history, field investigations, sea level, and/or the development of theory, your interests intersect with ours. We have limited positions, but we're always glad to hear form interested applicants.
 
 ## What is a UROP, MS, PhD, or Postdoc all about?
 
