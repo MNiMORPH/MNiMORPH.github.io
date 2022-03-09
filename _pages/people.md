@@ -404,6 +404,10 @@ animals:
 * [Flyover Country](https://flyovercountry.io/)
 * ***Now:*** [Cartographer and Web Developer, Polar Geospatial Center](https://www.pgc.umn.edu/about/people/shane-loeffler/)
 
+#### Melissa Oubre (2015-2018) 
+* **MS, 2018** (Minnesota State; Biology)
+* Predicting Invasive Carp Habitat Suitability in the Minnesota River Basin, Minnesota.
+
 #### Zach Hilgendorf (2015-2018)
 * **MS, 2018** (Minnesota State; co-advised with Bryce Hoppie)
 * The Efficacy of Best Management Practices on Peak Discharge and Contaminant Loads in Agricultural Drainage Systems, Blue Earth River Watershed, South-Central Minnesota, USA.
