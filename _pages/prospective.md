@@ -147,16 +147,18 @@ Nilay filled this
 
 ## Important information for international students and visitors
 
-Prospective international students and visitors to the University of Minnesota should be in touch with Andy Wickert and [International Student and Scholar Services](https://isss.umn.edu/) at the University of Minnesota.
+Prospective international students and visitors to the University of Minnesota should be in touch with Andy Wickert and [International Student and Scholar Services](https://isss.umn.edu/) at the University of Minnesota.  
+
+Prospective international students and visitors to Minnesota State, Mankato should be in touch with Phillip Larson and [Global Education](https://mankato.mnsu.edu/academics/global-education/) at Minnesota State, Mankato.
 
 
 ## Important information for prospective students
 
 ### Key areas of expertise
 
-My hope is for all students in the group to gain skills and confidence in all three major areas of our work
+Our hope is for all students in the group to gain skills and confidence in all three major areas of our work
 * Developing theory / numerical modeling / data-analysis techniques
-* Laboratory research, whether in instrumentation design/development or at SAFL (hydraulics and sediments)
+* Laboratory research, whether in instrumentation design/development, geochronologic methods, or at SAFL (hydraulics and sediments)and the EARTH Systems Laboratory
 * Field work, which can range from local projects in river valleys to farther-flung work in remote locations and on glaciers
 
 ### Core course requirements and competencies
@@ -173,12 +175,12 @@ I expect that by the time they graduate, all of my students will exceed these le
 
 *We welcome field scientists of all levels of physical ability.*
 
-If you are interested in working in the field with us at a site that requires streuous backcountry travel, I expect that by the time of our departure, you will be able to carry a heavy load (35% of your body weight or greater) at a standard backpacker's pace (~1--2 miles per hour) over uneven terrain for multiple days. This is a requirement for both completion of the work and (most importantly) the safety of you and the group.
+If you are interested in working in the field with us at a site that requires strenuous backcountry travel, we expect that by the time of our departure, you will be able to carry a heavy load (35% of your body weight or greater) at a standard backpacker's pace (~1--2 miles per hour) over uneven terrain for multiple days. This is a requirement for both completion of the work and (most importantly) the safety of you and the group.
 
 If your physical conditioning and/or a disability preclude this kind of work, we'd still like to see everyone who is interested join us in the field! We have some amazing and accessible field sites in Minnesota and Wisconsin wtih scientifically valuable and under-studied geomorphic histories and ongoing change. It is most important that students are comfortable with their research and in a good place to succeed.
 
 ### Personal learning and development objectives
 
-**It is my goal that students in my group become confident, independent-minded, collaborative, and self-aware researchers.** This is a place to stretch your imagination and abilities. Sometimes there are funded projects with things that just need to be done, but as much as possible, I want to promote your ability to learn and explore.
+**It is our goal that students in my group become confident, independent-minded, collaborative, and self-aware researchers.** This is a place to stretch your imagination and abilities. Sometimes there are funded projects with things that just need to be done, but as much as possible, we want to promote your ability to learn and explore.
 
-Being supportive of you as a scientist means that I will also be (hopefully kindly) critical of your ideas and explanations. I want to make sure that you communicate clearly, ensure that your approaches are logically consistent, and verify that your work will be impactful. I typically help students early-on with some amount of coding, writing style and English-language usage (yes, even for native speakers), field skills, and geomorphic concepts. I expect that Ph.D. students will become much more independent and that our conversations become more high level later in your graduate career, and for you to be able to overcome appropriately greater challenges as your journey through your graduate career progresses. I expect similar independence and progress with M.S. students, but always have more rigidly defined projects in order to set students up for a 2-year path to graduation.
+Being supportive of you as a scientist means that we will also be (hopefully kindly) critical of your ideas and explanations. We want to make sure that you communicate clearly, ensure that your approaches are logically consistent, and verify that your work will be impactful. We typically help students early-on with some amount of coding, writing style and English-language usage (yes, even for native speakers), field skills, and geomorphic concepts. We expect that Ph.D. students will become much more independent and that our conversations become more high level later in your graduate career, and for you to be able to overcome appropriately greater challenges as your journey through your graduate career progresses. We expect similar independence and progress with M.S. students, but always have more rigidly defined projects in order to set students up for a 2-year path to graduation.
