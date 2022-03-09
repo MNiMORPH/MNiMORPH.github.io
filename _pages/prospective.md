@@ -86,7 +86,7 @@ Nilay filled this
 
 ### Field/Geochron/GIS-oriented fluvial geomorphology/landscape evolution
 
-***Graduate student To Be Determined***
+***Both PhD and M.S. students***
 
 * Working with Larson as primary advisor, Wickert on committee
 * Linking Quaternary fluvial-system change and geochronology (OSL, 14C, cosmogenic radionuclides)
