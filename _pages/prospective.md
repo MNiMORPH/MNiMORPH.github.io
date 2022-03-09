@@ -84,27 +84,19 @@ Nilay filled this
 * Geospatial computation and topographic analysis
 * Mathematics, physics, and fluid mechanics -->
 
-### Field/Geochron/GIS-oriented fluvial geomorphology/landscape evolution
+### Deciphering the glacial and deglacial history of the upper Mississippi valley
 
 ***Both PhD and M.S. students***
 
 * Working with Larson and Wickert
 * Linking Quaternary fluvial-system change and geochronology (OSL, 14C, cosmogenic radionuclides)
+* Modeling river long-profile evolution
+* Linking research to ice-sheet and proglacial-lake history
 * Interested in reconstructing the proglacial lake flood history of the Minnesota and St. Croix Rivers
 * Interested in reconstructing the evolution of rivers flowing into the Lake Superior basin.
 * Interested in understanding the impacts of these floods on tributary systems and the upper Mississippi drainage basin's evolution
 * Theoretical underpinning tied to base level adjustments and fluvial system response
 * Connections between geomorphology, sedimentology, and landscape evolution
-
-
-### Deciphering the glacial and deglacial history of the upper Mississippi valley
-
-***Ph.D. student (University of Minnesota)***
-
-* Working with both Larson and Wickert
-* Dating the terrace record (CRN and/or OSL)
-* Modeling river long-profile evolution
-* Linking research to ice-sheet and proglacial-lake history
 
 ***Desired skills***
 
