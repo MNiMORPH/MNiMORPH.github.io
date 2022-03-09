@@ -25,6 +25,8 @@ Our group is led by Dr. Andrew Wickert and Dr. Phillip Larson.  Wickert is also 
 
 Most importantly, though, we are the lab members.  We are a team. If you are inquisitive, open-minded, interested in connecting theory and observations, and someone who wants to be a member of a diverse and collaborative team, you could be a good fit. If you are excited about instrumentation design, numerical methods, physical computing, laboratory experiments, geomorphic history, field investigations, sea level, and/or the development of theory, your interests intersect with ours. We have limited positions, but we're always glad to hear form interested applicants.
 
+<img align="left" src="/assets/images/IMG_20181029_124854698.jpg" alt="Group members and friends at Grand Canyon" width="480px">
+
 ## What is a UROP, MS, PhD, or Postdoc all about?
 
 There are multiple ways to become involved in the lab group. Below is an overview of the goals for each type of experience and position within the group, as well as a brief description of the position itself.
