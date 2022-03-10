@@ -58,7 +58,7 @@ Prospective M.S. students with strong backgrounds in fluvial geomorphology, drai
 
 ### Field/Laboratory/Geospatial
 
-Larson is open to bringing in students interested in field and laboratory methods that can be utilized to build and improve theory.  Geospatial, geochronological, shallow geophysical, and soils/sedimentology methods are primarily used by Larson and his students.  If field work, field data collection, and laboratory work are of interest, then please inquire!
+Larson is open to bringing in students interested in field and laboratory methods that can be utilized to build, test, and improve theory.  Larson is also interested in Quaternary landscape evolution and paleoenvironmental change.  Geospatial, geochronological, shallow geophysical, and soils/sedimentology methods are primarily used by Larson and his students in this work.  If field work, field data collection, and laboratory work are of interest, then please inquire!
 
 ## Potential Projects
 
