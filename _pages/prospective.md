@@ -44,21 +44,21 @@ There are multiple ways to become involved in the lab group. Below is an overvie
 
 ## Prospective Students
 
-### **Andy Wickert:**  
+### Andy Wickert:
 Research broadly focuses on questions of river systems, sea level, glaciers, and paleoclimate. Our primary tools are continuum mechanics, computational analyses, instrumentation design, data synthesis, and field measurements. I am generally in search of students with strong mathematics/engineering/fluid mechanics backgrounds, though I do also bring in more traditional geologists/geographers.
 
 Wickert's group is currently quite large, but he would consider applicants for projects in the general topics below. When reaching out about projects, it would be helpful to indicate which of the following topics interest you (and why, and what you might like to do in that direction), and if none do, then to suggest a different project. Due to the size of the group, there is a current need to keep some amount of focus (so advising support isn't spread thin among too many topics), but creative ideas are always appreciated. *With deep apologies: I cannot guarantee a response to requests to join the group that do not indicate that you have done background research into our research and goals or to how your future aspirations may align with these.*
 
-### Theory/computation
+#### Theory/computation
 
 Wickert is always looking to hire curious, engaged, mathematically-minded individuals who want to help develop the underlying theory for how Earth's surface changes and evolves.
 
-### **Phillip Larson:** 
+### Phillip Larson:
 Larson's Website: https://mavdisk.mnsu.edu/dj1515bb/geomorph/
 
 Prospective M.S. students with strong backgrounds in fluvial geomorphology, drainage basin evolution and reorganization, Quaternary science, geomorphology/surface processes, and/or field geology, are welcome to inquire with Larson (phillip.larson@mnsu.edu). Much of Larson's research is field and geospatial data-focused so field work and GIS interests are necessary.  Larson has a number of research projects ongoing that potential graduate students focused on geomorphology/surface processes and interested in understanding drainage basin evolution and response tied to base level adjustment and drainage integration could fit in to.  Many of these projects are focused on landscapes in the upper Midwest, USA, where (de)glaciation and human impacts have produced a dynamic natural laboratory for rapid late Quaternary, post-Euro-American-settlement, and ongoing landscape change. Larson is also actively working in the Basin and Range and may have capacity for M.S. students interested in work there. Future work is being planned in Iceland and within the Lake Superior basin. Larson is also receptive to inquiries with creative ideas/research questions in mind.  Just reach out.  Please make sure to include your C.V. and unofficial transcripts if you contact him.
 
-### Field/Laboratory/Geospatial
+#### Field/Laboratory/Geospatial
 
 Larson is open to bringing in students interested in field and laboratory methods that can be utilized to build, test, and improve theory.  Larson is also interested in Quaternary landscape evolution and paleoenvironmental change.  Geospatial, geochronological, shallow geophysical, and soils/sedimentology methods are primarily used by Larson and his students in this work.  If field work, field data collection, and laboratory work are of interest, then please inquire!
 
