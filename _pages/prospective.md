@@ -173,7 +173,7 @@ If you have not completed them, you may still apply but will have to complete th
 
 I expect that by the time they graduate, all of my students will exceed these levels of core competencies in mathematics and computation. Strong skills in differential equations, linear algebra, and programming (Python, C/C++, and possibly Fortran) will open a range of options for your future scientific career.
 
-Core requirements and competencies for MNSU students are evaluated on a case by case basis depending on the research interests.  The M.S. program in Geography at MNSU is flexible given the variable nature of students enrolling in Geography programs.  Thus, it is highly reocmmended that you inquire with Phillip Larson, if interested, and he can guide you on this.
+Core requirements and competencies for MNSU students are evaluated on a case by case basis depending on the research interests.  The M.S. program in Geography at MNSU is flexible given the variable nature of students enrolling in Geography programs.  Thus, it is highly recommended that you inquire with Phillip Larson, if interested, and he can guide you on this.
 
 ### Field work
 
