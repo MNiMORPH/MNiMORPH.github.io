@@ -339,8 +339,8 @@ visitors:
 * Development of a series of open-source data loggers
 * ***Since 2019:*** Hardware development lead for [GEMS IoT](https://agroinformatics.org/about-us/)
 
-### Kerry Callaghan (2015-2021)
-**PhD, 2021**
+### Kerry Callaghan (2015-2020)
+**PhD, 2020**
 * Coupled groundwater--surface-water modeling on a global scale
 * Efficient algorithms to analyze depressions in landscapes and move water through them
 * Paleoclimate
