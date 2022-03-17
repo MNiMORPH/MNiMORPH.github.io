@@ -355,13 +355,6 @@ animals:
 * Development of a series of open-source data loggers
 * ***Since 2019:*** Hardware development lead for [GEMS IoT](https://agroinformatics.org/about-us/)
 
-### Kerry Callaghan (2015-2021)
-**PhD, 2021** (UMN)
-* Coupled groundwater--surface-water modeling on a global scale
-* Efficient algorithms to analyze depressions in landscapes and move water through them
-* Paleoclimate
-* ***Now:*** [Postdoctoral Research Scientist, Columbia/LDEO, Advisor: Jacky Austermann](https://www.ldeo.columbia.edu/~jackya/Group.html)
-
 ### Owen Lott (2019-2021)
 * **MS, 2021** (Minnesota State; co-advised with Bryce Hoppie)
 * Comparative Analysis of Water Quality Monitoring Procedures in Small Minnesota Lake Systems, Bass Lake Watershed, South-Central Minnesota
@@ -381,6 +374,13 @@ animals:
 * **MS, 2020** (Minnesota State)
 * Single-Grain Optical Stimulated Luminescence Dating at Cambria Pit, Minnesota River Valley, Minnesota, USA
 * ***Now:*** []()
+
+### Kerry Callaghan (2015-2020)
+**PhD, 2020** (UMN)
+* Coupled groundwater--surface-water modeling on a global scale
+* Efficient algorithms to analyze depressions in landscapes and move water through them
+* Paleoclimate
+* ***Now:*** [Postdoctoral Research Scientist, Columbia/LDEO, Advisor: Jacky Austermann](https://www.ldeo.columbia.edu/~jackya/Group.html)
 
 ### Melissa Swanson (2017-2019)
 * **MS, 2019** (Minnesota State)
