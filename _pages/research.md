@@ -7,7 +7,7 @@ classes: wide
 header:
   overlay_color: "#222222" #"#5e616c"
   overlay_filter: "0.5"
-  overlay_image: https://advances.sciencemag.org/content/advances/5/1/eaav2366/F2.large.jpg
+  overlay_image: https://www.science.org/cms/10.1126/sciadv.aav2366/asset/98a65e90-8273-4547-8f07-da49a8781311/assets/graphic/aav2366-f2.jpeg
   #actions:
   #  - label: "Get started"
   #    url: "/awtest/"

@@ -9,3 +9,4 @@ Gemfile.lock
 
 # Jekyll cache files
 .jekyll-cache/*
+.jekyll-cache
