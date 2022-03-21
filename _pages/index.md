@@ -43,9 +43,7 @@ Similary, the MNSU members of MNiMORPH blend **field investigations**, **laborat
 * piedmont geomorphology (alluvial fans and pediments)
 * natural hazards
 
-## Everybody matters
-
-**ADW wrote this in a single sitting. I (ADW) think it's probably a fine placeholder, but if we want to get real about having an inclusive approach to our ... um, inclusivity statement, we should probably all decide on it together :).**
+## Everybody matters - Welcome to the MNiMORPH Team!
 
 Some of us are strong. Some of us are smart. Some of us make others laugh. Some have known Earth science since childhood, while others have recently discovered it. Some of us come up with problems, and some imagine solutions. Whether you haul a pack, write computer code, date samples, analyze remotely-sensed data, couple differential equations, inspire students, and/or build our community, you are welcome among us.
 
