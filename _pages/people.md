@@ -121,8 +121,8 @@ grads:
     btn_class: "btn--inverse"
 
   - image_path: /assets/images/headshots/iscen_square.jpg
-    alt: "Nilay Iscen"
-    title: "Nilay Iscen"
+    alt: "Nilay İşcen"
+    title: "Nilay İşcen"
     excerpt: "**Ph.D. Student**<br/>
               **University of Minnesota**<br>
               M.S. 2018 Virginia Polytechnic Institute and State University<br/>
