@@ -82,6 +82,16 @@ researchers:
   btn_class: "btn--inverse"
 
 grads:
+  - image_path: /assets/images/headshots/vanWykdeVries_square.jpg
+    alt: "Max van Wyk de Vries"
+    title: "Max van Wyk de Vries"
+    excerpt: "**Ph.D. 2022, University of Minnesota**<br/>
+              ***Co-advised with [Emi Ito](https://cse.umn.edu/esci/emi-ito)***<br/>
+              *Final dissertation edits en route to the University of Liverpool (postdoc)*<br/>
+              B.Sc. 2018 University of Edinburgh<br/>
+              *Deglaciation, isostatic adjustment, and paleolimnology; volcanic and glacial hazards; remote sensing*<br/>
+              vanwy048 [at] umn [dot] edu
+              "
   - image_path: /assets/images/headshots/jones_square.jpg
     alt: "Jabari Jones"
     title: "Jabari Jones"
@@ -95,16 +105,6 @@ grads:
     #url: ""
     #btn_label: "Homepage"
     #btn_class: "btn--inverse"
-  - image_path: /assets/images/headshots/vanWykdeVries_square.jpg
-    alt: "Max van Wyk de Vries"
-    title: "Max van Wyk de Vries"
-    excerpt: "**Ph.D. Candidate**<br/>
-              **University of Minnesota**<br>
-              ***Co-advised with [Emi Ito](https://cse.umn.edu/esci/emi-ito)***<br/>
-              B.Sc. 2018 University of Edinburgh<br/>
-              *Deglaciation, isostatic adjustment, and paleolimnology; volcanic and glacial hazards; remote sensing*<br/>
-              vanwy048 [at] umn [dot] edu
-              "
     #url: ""
     #btn_label: "Homepage"
     #btn_class: "btn--inverse"
