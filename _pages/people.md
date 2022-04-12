@@ -151,7 +151,6 @@ grads:
     title: "Jimmy Wood"
     excerpt: "**M.S. Student**<br/>
               **University of Minnesota**<br>
-              ***Co-advised with [Phil Larson](https://sbs.mnsu.edu/academics/geography/faculty-and-staff/phillip-larson/)***<br/>
               B.S. 2021 (Geology) University of Nebraska Omaha<br/>
               B.A. 2021 (Physics) University of Nebraska Omaha<br/>
               *Fluvial geomorphology*<br/>
