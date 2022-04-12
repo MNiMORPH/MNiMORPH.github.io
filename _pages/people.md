@@ -220,7 +220,7 @@ undergrads:
     #url: ""
     #btn_label: "Homepage"
     #btn_class: "btn--inverse"
-  - image_path: /assets/images/headshots/blank.jpg
+  - image_path: /assets/images/headshots/CampbellDunn.jpg
     alt: "Campbell Dunn"
     title: "Campbell Dunn"
     excerpt: "**Undergraduate Researcher**<br/>
@@ -492,3 +492,10 @@ animals:
 * Visiting doctoral student (Universität Potsdam)
 * *Research with our group:* Fluvial terrace formation at SAFL
 * ***Now:*** [Lecturer at the Universität Potsdam](http://www.geo.uni-potsdam.de/mitarbeiterdetails/show/771/Stefanie_Tofelde.html)
+
+
+<!--
+For no headshot:
+/assets/images/headshots/blank.jpg
+-->
+
