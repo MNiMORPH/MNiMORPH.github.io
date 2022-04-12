@@ -169,7 +169,33 @@ grads:
               B.A. 2021 (Environmental Geography) University of Wisconsin-Eau Claire<br/>
               *Fluvial geomorphology, Quaternary geology*<br/>
                [at] mnsu [dot] edu
+    "
+    #url: ""
+    #btn_label: "Homepage"
+    #btn_class: "btn--inverse"
+  - image_path: /assets/images/headshots/hunter.jpg
+    alt: "Hunter Delikowski"
+    title: "Hunter Delikowski"
+    excerpt: "**M.S. Student**<br/>
+              **Minnesota State University, Mankato**<br>
+              B.A. 2021 (Geology) University of Wisconsin-Eau Claire<br/>
+              B.A. 2021 (Environmental Geography) University of Wisconsin-Eau Claire<br/>
+              *Fluvial geomorphology, Quaternary geology*<br/>
+               [at] mnsu [dot] edu
+    "
+    #url: ""
+    #btn_label: "Homepage"
+    #btn_class: "btn--inverse"
+  - image_path: /assets/images/headshots/abi.jpg
+    alt: "Abi Fischer"
+    title: "Abi Fischer"
+    excerpt: "**M.S. Student**<br/>
+              **Minnesota State University, Mankato**<br>
+              B.A. 2022 (Environmental Geography) University of Wisconsin-Eau Claire<br/>
+              *Climatic Geomorphology, Ground Penetrating Radar*<br/>
+               [at] mnsu [dot] edu
               "
+  
     #url: ""
     #btn_label: "Homepage"
     #btn_class: "btn--inverse"
