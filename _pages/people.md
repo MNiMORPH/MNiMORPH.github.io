@@ -128,7 +128,7 @@ grads:
               ***History of Science, Technology, and Medicine***<br/>
               ***Advisor: Susan Jones***<br/>
               B.S. 2017 University of Wisconsin -- Madison<br/>
-              *History of the river ecology and irrigation networks*<br/>
+              *History of river ecology and irrigation networks*<br/>
               *Colonial--postcolonial science & technology*<br/>
               *Agricultural development*<br/>
               cerva016 [at] umn [dot] edu
@@ -168,6 +168,7 @@ grads:
     title: "Jimmy Wood"
     excerpt: "**M.S. Student**<br/>
               **University of Minnesota**<br>
+              ***Co-advised by Wickert and Larson***<br/>
               B.S. 2021 (Geology) University of Nebraska Omaha<br/>
               B.A. 2021 (Physics) University of Nebraska Omaha<br/>
               *Fluvial geomorphology*<br/>
@@ -231,7 +232,7 @@ undergrads:
     excerpt: "**Undergraduate Researcher**<br/>
               **University of Minnesota**<br/>
               *St. Croix River elevation data*<br/>
-              *Field support*<br/>
+              *Field small-engine specialist*<br/>
               schew027 [at] umn [dot] edu
               "
     #url: ""
@@ -242,9 +243,9 @@ undergrads:
     title: "Campbell Dunn"
     excerpt: "**Undergraduate Researcher**<br/>
               **University of Wisconsin -- Madison**<br/>
-              *Code development for drainage networks*<br/>
+              *Code development for drainage and depression networks*<br/>
               *Shallow seismic acquistion and analysis*<br/>
-              *Field support*<br/>
+              *Field augering, hammering, muscle-ing*<br/>
               cndunn [at] wisc [dot] edu
               "
     #url: ""
@@ -256,6 +257,7 @@ visitors:
     alt: "Bobby Schulz"
     title: Bobby Schulz
     excerpt: "**Collaborating Research Engineer**<br/>
+              ***G.E.M.S. Agroinformatics***<br/>
               M.S. 2021, Electrical & Computer Engineering, University of Minnesota<br/>
               B.S. 2017, Electrical & Computer Engineering, University of Minnesota<br/>
               *Environmental instrumentation*<br/>
@@ -267,7 +269,8 @@ visitors:
   - image_path: /assets/images/headshots/barnes.jpg
     alt: "Richard Barnes"
     title: "Richard Barnes"
-    excerpt: "**Collaborating Ph.D. Student**<br/>
+    excerpt: "**Collaborating Research Scientist**<br/>
+              ***Meta***<br/>
               Ph.D. candidate, Energy Research Group, University of California, Berkeley<br/>
               M.S. 2019, Computer Science, University of California Berkeley<br/>
               M.S. 2015, Ecology, University of Minnesota<br/>
@@ -281,7 +284,7 @@ visitors:
     alt: "Andrea Prichard"
     title: "Andrea Prichard"
     excerpt: "**Visiting Research Scientist**<br/>
-              2020-2022 Fulbright Scholar, Batipa Field Institute, Universidad Tecnológica Oteima, Panamá<br/>
+              ***2020-2022 Fulbright Scholar***, Batipa Field Institute, Universidad Tecnológica Oteima, Panamá<br/>
               M.S. 2012 Universidad Mayor de San Simón<br/>
               M.A. 2011 University of Arizona<br/>
               B.A. 2004 Oberlin College<br/>
@@ -294,7 +297,7 @@ visitors:
     alt: "Matías Romero"
     title: "Matías Romero"
     excerpt: "**Collaborating Ph.D. Student**<br/>
-              Doctoral student, CICTERRA-CONICET and Argentine Antarctic Program, Universidad Nacional de Córdoba<br/>
+              ***CICTERRA-CONICET and Argentine Antarctic Program, Universidad Nacional de Córdoba***<br/>
               Advisor: Jorge A. Strelin<br/>
               Geologist, 2019, Universidad Nacional de Córdoba<br/>
               *Glacial geology, ice sheets, and sea level*<br/>
