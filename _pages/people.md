@@ -173,7 +173,7 @@ grads:
     #url: ""
     #btn_label: "Homepage"
     #btn_class: "btn--inverse"
-  - image_path: /assets/images/headshots/abi.jpg
+  - image_path: /assets/images/headshots/Abi.jpg
     alt: "Abi Fischer"
     title: "Abi Fischer"
     excerpt: "**M.S. Student**<br/>
