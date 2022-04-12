@@ -179,7 +179,7 @@ grads:
     excerpt: "**M.S. Student**<br/>
               **Minnesota State University, Mankato**<br>
               B.A. 2022 (Environmental Geography) University of Wisconsin-Eau Claire<br/>
-              *Climatic Geomorphology, Ground Penetrating Radar*<br/>
+              *Climatic Geomorphology, GPR*<br/>
               [at] mnsu [dot] edu
               "
   
