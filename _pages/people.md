@@ -270,8 +270,8 @@ visitors:
     alt: "Richard Barnes"
     title: "Richard Barnes"
     excerpt: "**Collaborating Research Scientist**<br/>
-              ***Meta***<br/>
-              Ph.D. candidate, Energy Research Group, University of California, Berkeley<br/>
+              ***Lawrence Berkeley National Laboratory***<br/>
+              Ph.D. 2020, Energy Research Group, University of California, Berkeley<br/>
               M.S. 2019, Computer Science, University of California Berkeley<br/>
               M.S. 2015, Ecology, University of Minnesota<br/>
               B.S. 2011, Physics, University of Minnesota<br/>
