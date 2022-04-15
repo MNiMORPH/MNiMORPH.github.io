@@ -168,7 +168,6 @@ grads:
     title: "Jimmy Wood"
     excerpt: "**M.S. Student**<br/>
               **University of Minnesota**<br>
-              ***Co-advised by Wickert and Larson***<br/>
               B.S. 2021 (Geology) University of Nebraska Omaha<br/>
               B.A. 2021 (Physics) University of Nebraska Omaha<br/>
               *Fluvial geomorphology*<br/>
