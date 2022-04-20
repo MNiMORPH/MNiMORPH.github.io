@@ -176,6 +176,20 @@ grads:
     #url: ""
     #btn_label: "Homepage"
     #btn_class: "btn--inverse"
+  - image_path: /assets/images/headshots/Ruby.jpg
+    alt: "Andreas Ruby"
+    title: "Andreas Ruby"
+    excerpt: "**Ph.D. Student**<br/>
+              **GFZ Potsdam**<br/>
+              Co-advised with primary advisor Taylor Schildgen (GyroSCoPe project)<br/>
+              M.Sc. 2021: Universität Trier<br/>
+              Teaching Degree 2019: Universität Tübingen<br/>
+              *Fluvial geomorphology, digital terrain analysis, cosmogenic nuclides*<br/>
+              andreas [dot] ruby [at] gfz-potsdam [dot] de
+              "
+    #url: ""
+    #btn_label: "Homepage"
+    #btn_class: "btn--inverse"
   - image_path: /assets/images/headshots/hunter.jpg
     alt: "Hunter Delikowski"
     title: "Hunter Delikowski"
