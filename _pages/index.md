@@ -34,14 +34,15 @@ The surface-processes group at the University of Minnesota blends **field invest
 
 ### Minnesota State University, Mankato (MNSU)
 
-Similary, the MNSU members of MNiMORPH blend **field investigations**, **laboratory methods and analysis**, **geospatial data collection, modeling, and analysis**, **shallow geophysics (GPR)**, and **soils/sediment analysis** to investigate past and present processes operating in glacial, fluvial, aeolian, hillslope, periglacial, and human-environmental (primarily Native American geoarcheology) systems. Much of this work is done in collaboration with MNSU's EARTH Systems Laboratory. (https://sbs.mnsu.edu/organizations/earth-systems-research-laboratory/).  Our primary research foci are:
-* drainage basin evolution and reorganization; transverse drainage development
+Similary, the MNSU members of MNiMORPH blend **field investigations**, **laboratory methods and analysis**, **geospatial data collection, modeling, and analysis**, **shallow geophysics (GPR)**, and **soils/sediment analysis** to investigate past and present processes operating in glacial, fluvial, aeolian, hillslope, periglacial, and human-environmental systems (e.g. Native America geoarcheology, environmental hazards/issues, natural disasters). Much of this work is done in collaboration with MNSU's EARTH Systems Laboratory. (https://sbs.mnsu.edu/organizations/earth-systems-research-laboratory/).  Our primary research foci are:
+* drainage basin evolution and reorganization; transverse drainage development; establishment of water resources
 * fluvial system response to extrinsic perturbation (climate, tectonics, land-use, base level)
-* outburst flood spillway evolution 
+* outburst flood spillway evolution and associated natural and environmental hazards
 * geoarcheology and human-environment interactions in the Holocene in the upper Mississippi River basin
-* post-glacial paleoenvironmental change (periglacial and aeolian systems)
+* post-glacial paleoenvironmental and paleoclimatic change (periglacial and aeolian systems)
 * piedmont geomorphology (alluvial fans and pediments)
-* natural hazards
+* natural hazards (primary landslides)
+* environmental issues (erosional and land-use impacts on water quality, soil degradation) and natural resources
 
 ## Everybody matters - Welcome to the MNiMORPH Team!
 
