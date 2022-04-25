@@ -264,7 +264,6 @@ undergrads:
     #url: ""
     #btn_label: "Homepage"
     #btn_class: "btn--inverse"
-
 - image_path: /assets/images/headshots/Kostermann.jpg
     alt: "Katia Ostermann"
     title: "Katia Ostermann"
