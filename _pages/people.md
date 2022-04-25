@@ -273,6 +273,7 @@ undergrads:
               *Fluvial geomorphology research*<br/>
               *Minnesota River valley*<br/>
               katia [dot] ostermann [at] mnsu [dot] edu
+              
 visitors:
   - image_path: /assets/images/headshots/bobby_square_320px.png
     alt: "Bobby Schulz"
