@@ -261,19 +261,7 @@ undergrads:
               *Field augering, hammering, muscle-ing*<br/>
               cndunn [at] wisc [dot] edu
               "
-    #url: ""
-    #btn_label: "Homepage"
-    #btn_class: "btn--inverse"
-- image_path: /assets/images/headshots/Kostermann.jpg
-    alt: "Katia Ostermann"
-    title: "Katia Ostermann"
-    excerpt: "**Undergraduate Researcher**<br/>
-              **Minnesota State University, Mankato**<br/>
-              *Fluvial geomorphology research*<br/>
-              *Minnesota River valley*<br/>
-              katia [dot] ostermann [at] mnsu [dot] edu
-              "
-              
+
 visitors:
   - image_path: /assets/images/headshots/bobby_square_320px.png
     alt: "Bobby Schulz"
