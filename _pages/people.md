@@ -477,6 +477,11 @@ animals:
 
 ### Undergraduate Students
 
+#### Ivy Glade (2021)
+* Undergraduate student research (MNSU)
+* Climate and fluvial system response post-LGM
+* ***Now:*** PhD student in Atmospheric Sciences (Colorado State)
+
 #### Evan Grove (2018-2019)
 * Undergraduate student researcher (UMN)
 * Design of "thermal stake" for heat-flow and water-flux measurements
