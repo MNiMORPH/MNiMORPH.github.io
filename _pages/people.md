@@ -210,7 +210,7 @@ grads:
               **Minnesota State University, Mankato**<br>
               B.A. 2022 (Environmental Geography) University of Wisconsin-Eau Claire<br/>
               *Climatic Geomorphology, GPR*<br/>
-              [at] mnsu [dot] edu
+              TBD [at] mnsu [dot] edu
               "
   
     #url: ""
@@ -265,6 +265,14 @@ undergrads:
     #btn_label: "Homepage"
     #btn_class: "btn--inverse"
 
+- image_path: /assets/images/headshots/Kostermann.jpg
+    alt: "Katia Ostermann"
+    title: "Katia Ostermann"
+    excerpt: "**Undergraduate Researcher**<br/>
+              **Minnesota State University, Mankato**<br/>
+              *Fluvial geomorphology research*<br/>
+              *Minnesota River valley*<br/>
+              katia [dot] ostermann [at] mnsu [dot] edu
 visitors:
   - image_path: /assets/images/headshots/bobby_square_320px.png
     alt: "Bobby Schulz"
