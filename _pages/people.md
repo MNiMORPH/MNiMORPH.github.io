@@ -261,6 +261,18 @@ undergrads:
               *Field augering, hammering, muscle-ing*<br/>
               cndunn [at] wisc [dot] edu
               "
+  - image_path: /assets/images/headshots/Kostermann.jpg
+    alt: "Katia Ostermann"
+    title: "Katia Ostermann"
+    excerpt: "**Undergraduate Researcher**<br/>
+              **Minnesota State University, Mankato**<br/>
+              *Drainage-basin evolution<br/>
+              Minnesota River valley*<br/>
+              Katia.Ostermann [at] mnsu [dot] edu
+              "
+    #url: ""
+    #btn_label: "Homepage"
+    #btn_class: "btn--inverse"
 
 visitors:
   - image_path: /assets/images/headshots/bobby_square_320px.png
