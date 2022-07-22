@@ -29,8 +29,8 @@ faculty:
   - image_path: /assets/images/headshots/larson_square.jpg
     alt: "Phil Larson"
     title: "Phil Larson"
-    excerpt: "**Professor <br/>
-    Director of Earth Science Programs <br/>
+    excerpt: "**Professor<br/>
+              Director of Earth Science Programs <br/>
               Minnesota State University, Mankato**<br/>
               Ph.D. 2013 Arizona State University<br/>
               M.A. 2011 Arizona State University<br/>
@@ -82,16 +82,6 @@ researchers:
   btn_class: "btn--inverse"
 
 grads:
-  - image_path: /assets/images/headshots/vanWykdeVries_square.jpg
-    alt: "Max van Wyk de Vries"
-    title: "Max van Wyk de Vries"
-    excerpt: "**Ph.D. 2022, University of Minnesota**<br/>
-              ***Co-advised with [Emi Ito](https://cse.umn.edu/esci/emi-ito)***<br/>
-              *Final dissertation edits en route to the University of Liverpool (postdoc)*<br/>
-              B.Sc. 2018 University of Edinburgh<br/>
-              *Deglaciation, isostatic adjustment, and paleolimnology; volcanic and glacial hazards; remote sensing*<br/>
-              vanwy048 [at] umn [dot] edu
-              "
   - image_path: /assets/images/headshots/jones_square.jpg
     alt: "Jabari Jones"
     title: "Jabari Jones"
@@ -212,7 +202,7 @@ grads:
               *Climatic Geomorphology, GPR*<br/>
               TBD [at] mnsu [dot] edu
               "
-  
+
     #url: ""
     #btn_label: "Homepage"
     #btn_class: "btn--inverse"
@@ -392,7 +382,6 @@ animals:
 * *Research with our group:* River-terrace analysis in the upper Mississippi valley
 * ***Now:*** [Assistant Professor, Department of Geography, Durham University](https://www.dur.ac.uk/research/directory/staff/?mode=staff&id=18302)
 
-
 ### Bobby Schulz (2016-2018)
 * Open-source instrumentation development (UMN)
 * *For more information, see "Graduate Students"*
@@ -404,6 +393,14 @@ animals:
 
 ### Graduate Students
 
+### Max van Wyk de Vries (2018--2022)
+**PhD, 2022** (UMN; co-advised with Emi Ito)
+* Remote sensing for change detection
+* Paleolimnology and ice-contact lakes
+* Natural hazards
+* Glaciology
+* ***Now:*** [Postdoctoral Research Scientist, University of Liverpool](https://www.maxgeohub.com)
+
 ### Bobby Schulz (2018--2021)
 **MS, 2021** (UMN)
 * Development of a series of open-source data loggers
@@ -412,7 +409,7 @@ animals:
 ### Owen Lott (2019-2021)
 * **MS, 2021** (Minnesota State; co-advised with Bryce Hoppie)
 * Comparative Analysis of Water Quality Monitoring Procedures in Small Minnesota Lake Systems, Bass Lake Watershed, South-Central Minnesota
-* ***Now:*** []()
+<!-- * ***Now:*** []() -->
 
 #### Leah Nelson (2018-2021)
 **MS, 2021** (UMN; co-advised with primary advisor Crystal Ng)
@@ -427,7 +424,7 @@ animals:
 ### Kira Kuehl (2017-2020)
 * **MS, 2020** (Minnesota State)
 * Single-Grain Optical Stimulated Luminescence Dating at Cambria Pit, Minnesota River Valley, Minnesota, USA
-* ***Now:*** []()
+* ***Now:*** [Project Manager at SunShare](https://www.linkedin.com/in/kuehl-kira)
 
 ### Kerry Callaghan (2015-2020)
 **PhD, 2020** (UMN)
@@ -453,12 +450,12 @@ animals:
 * ***Now:*** [U.S. Army Corps of Engineers, New England Division](https://www.linkedin.com/in/olivia-beaulieu-9abb25160)
 
 #### Shane Loeffler (2016-2018)
-* **MS, 2018** (co-advised with Amy Myrbo)
+* **MS, 2018** (UMN; co-advised with Amy Myrbo)
 * B.S. 2015 University of Minnesota Duluth
 * [Flyover Country](https://flyovercountry.io/)
 * ***Now:*** [Cartographer and Web Developer, Polar Geospatial Center](https://www.pgc.umn.edu/about/people/shane-loeffler/)
 
-#### Melissa Oubre (2015-2018) 
+#### Melissa Oubre (2015-2018)
 * **MS, 2018** (Minnesota State; Biology)
 * Predicting Invasive Carp Habitat Suitability in the Minnesota River Basin, Minnesota.
 
@@ -485,14 +482,14 @@ animals:
 #### Carson Smith (2013-2016)
 * **MS, 2016** (Minnesota State)
 * Floodplain Inundation Mapping: An Evaluation of Geospatial Tools on the Minnesota River, MN.
-* ***Now:*** John Wood Group PLC [Wood](https://www.woodplc.com/)
+* ***Now:*** [John Wood Group PLC](https://www.woodplc.com/)
 
 ### Undergraduate Students
 
 #### Ivy Glade (2021)
-* Undergraduate student research (MNSU)
+* Undergraduate student research (Minnesota State)
 * Climate and fluvial system response post-LGM
-* ***Now:*** PhD student in Atmospheric Sciences (Colorado State)
+* ***Now:*** [Graduate student in Atmospheric Sciences (Colorado State)](https://www.linkedin.com/in/ivy-glade)
 
 #### Evan Grove (2018-2019)
 * Undergraduate student researcher (UMN)
@@ -545,4 +542,3 @@ animals:
 For no headshot:
 /assets/images/headshots/blank.jpg
 -->
-
