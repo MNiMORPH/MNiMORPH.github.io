@@ -219,18 +219,6 @@ undergrads:
     #url: ""
     #btn_label: "Homepage"
     #btn_class: "btn--inverse"
-  - image_path: /assets/images/headshots/JesseSchewe_headshot.jpg
-    alt: "Jesse Schewe"
-    title: "Jesse Schewe"
-    excerpt: "**Undergraduate Researcher**<br/>
-              **University of Minnesota**<br/>
-              *St. Croix River elevation data*<br/>
-              *Field small-engine specialist*<br/>
-              schew027 [at] umn [dot] edu
-              "
-    #url: ""
-    #btn_label: "Homepage"
-    #btn_class: "btn--inverse"
   - image_path: /assets/images/headshots/CampbellDunn.jpg
     alt: "Campbell Dunn"
     title: "Campbell Dunn"
@@ -489,8 +477,15 @@ animals:
 
 ### Undergraduate Students
 
+#### Jesse Schewe (2020-2022)
+* Undergraduate student researcher (UMN, work with both Wickert and Larson)
+* Geomorphic evolution and LiDAR topography of the St. Croix River valley
+* Field small-engine specialist and all-around scientist
+* ***Now:*** [Staff Professional at Antea Group USA](https://www.linkedin.com/in/jesse-schewe-87a23319a/)
+
+
 #### Ivy Glade (2021)
-* Undergraduate student research (Minnesota State)
+* Undergraduate student researcher (Minnesota State)
 * Climate and fluvial system response post-LGM
 * ***Now:*** [Graduate student in Atmospheric Sciences (Colorado State)](https://www.linkedin.com/in/ivy-glade)
 
