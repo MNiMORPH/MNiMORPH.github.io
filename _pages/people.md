@@ -17,7 +17,8 @@ faculty:
     alt: "Andy Wickert"
     title: "Andy Wickert"
     excerpt: "**Associate Professor**<br/>
-              **University of Minnesota**<br>
+              **University of Minnesota**<br/>
+              Postdoc 2014-2015 Universität Potsdam<br/>
               Ph.D. 2014 University of Colorado Boulder<br/>
               S.B. 2008 Massachusetts Institute of Technology<br/>
               awickert [at] umn [dot] edu
@@ -43,22 +44,10 @@ faculty:
     btn_class: "btn--inverse"
 
 researchers:
-- image_path: /assets/images/headshots/EricBarefoot_480p.png
-  alt: "Eric Barefoot"
-  title: "Eric Barefoot"
-  excerpt: "**Postdoctoral Research Scientist**<br/>
-            **University of Minnesota**<br>
-            Ph.D. 2021 Rice University<br/>
-            B.S. 2016 University of North Carolina at Chapel Hill<br/>
-            barefoot [at] umn [dot] edu
-            "
-  url: "http://ericbarefoot.com/"
-  btn_label: "Homepage"
-  btn_class: "btn--inverse"
 - image_path: /assets/images/headshots/HimaHG_480p.png
   alt: "Hima Hassenruck-Gudipati"
   title: "Hima Hassenruck-Gudipati"
-  excerpt: "**Postdoctoral Research Scientist**<br/>
+  excerpt: "**President's Postdoctoral Research Fellow**<br/>
             **University of Minnesota**<br>
             Ph.D. 2021 University of Texas at Austin<br/>
             B.S. 2014 California Institute of Technology<br/>
@@ -70,8 +59,9 @@ researchers:
 - image_path: /assets/images/headshots/kwang_headshot.jpg
   alt: "Jeffrey Kwang"
   title: "Jeffrey Kwang"
-  excerpt: "**Postdoctoral Research Scientist**<br/>
+  excerpt: "**NSF Postdoctoral Research Scientist**<br/>
             **University of Minnesota**<br>
+            Postdoc 2019-2022 University of Massachusetts<br/>
             Ph.D. 2019 University of Illinois<br/>
             M.S. 2016 University of Illinois<br/>
             B.S. 2013 Johns Hopkins University<br/>
@@ -171,7 +161,7 @@ grads:
     title: "Andreas Ruby"
     excerpt: "**Ph.D. Student**<br/>
               **GFZ Potsdam**<br/>
-              Co-advised with primary advisor Taylor Schildgen (GyroSCoPe project)<br/>
+              Co-advised by Wickert with primary advisor Taylor Schildgen (GyroSCoPe project)<br/>
               M.Sc. 2021: Universität Trier<br/>
               Teaching Degree 2019: Universität Tübingen<br/>
               *Fluvial geomorphology, digital terrain analysis, cosmogenic nuclides*<br/>
@@ -265,6 +255,19 @@ undergrads:
     #btn_class: "btn--inverse"
 
 visitors:
+  - image_path: /assets/images/headshots/EricBarefoot_480p.png
+    alt: "Eric Barefoot"
+    title: "Eric Barefoot"
+    excerpt: "**NSF Postdoctoral Research Scientist**<br/>
+              **University of Indiana**<br>
+              Postdoc 2021-2022 University of Minnesota<br>
+              Ph.D. 2021 Rice University<br/>
+              B.S. 2016 University of North Carolina at Chapel Hill<br/>
+              barefoot [at] umn [dot] edu
+              "
+    url: "http://ericbarefoot.com/"
+    btn_label: "Homepage"
+    btn_class: "btn--inverse"
   - image_path: /assets/images/headshots/bobby_square_320px.png
     alt: "Bobby Schulz"
     title: Bobby Schulz
