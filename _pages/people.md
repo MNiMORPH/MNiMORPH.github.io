@@ -234,9 +234,21 @@ undergrads:
     title: "Katia Ostermann"
     excerpt: "**Undergraduate Researcher**<br/>
               **Minnesota State University, Mankato**<br/>
-              *Drainage-basin evolution<br/>
-              Minnesota River valley*<br/>
+              *Drainage-basin evolution*<br/>
+              *Minnesota River valley*<br/>
               Katia.Ostermann [at] mnsu [dot] edu
+              "
+    #url: ""
+    #btn_label: "Homepage"
+    #btn_class: "btn--inverse"
+  - image_path: /assets/images/headshots/KacieMalone_hiking_resized.jpg
+    alt: "Kacie Malone"
+    title: "Kacie Malone"
+    excerpt: "**Undergraduate Researcher**<br/>
+              **University of Minnesota**<br/>
+              *Solar-radiation sensor characterization*<br/>
+              *GIS*<br/>
+              malon629 [at] umn [dot] edu
               "
     #url: ""
     #btn_label: "Homepage"
@@ -482,7 +494,6 @@ animals:
 * Geomorphic evolution and LiDAR topography of the St. Croix River valley
 * Field small-engine specialist and all-around scientist
 * ***Now:*** [Staff Professional at Antea Group USA](https://www.linkedin.com/in/jesse-schewe-87a23319a/)
-
 
 #### Ivy Glade (2021)
 * Undergraduate student researcher (Minnesota State)
