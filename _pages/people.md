@@ -254,8 +254,8 @@ undergrads:
     #btn_label: "Homepage"
     #btn_class: "btn--inverse"
   - image_path: /assets/images/headshots/AbbyWilwerding.jpg
-    alt: "Kacie Malone"
-    title: "Kacie Malone"
+    alt: "Abby Wilwerding"
+    title: "Abby Wilwerding"
     excerpt: "**Undergraduate Researcher**<br/>
               **University of Minnesota**<br/>
               *Sediment core description*<br/>
