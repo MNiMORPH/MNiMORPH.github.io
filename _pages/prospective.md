@@ -15,6 +15,11 @@ header:
 excerpt: "Facilities<br/>Broad goals<br/>Information if you are considering joining us<br/>"
 ---
 
+# Current searches
+
+* Mechanistic bedrock-river evolution: Ph.D. student por postdoc; Wickert
+* Bedrock river evolution through collaborators: M.S. students; contact Wickert and/or Larson
+
 # The lab & our group
 
 <img align="right" src="/assets/images/DSC_0728_OnABoat.JPG" alt="Group members and friends on the ferry to Perito Moreno Glacier" width="480px">
@@ -42,12 +47,16 @@ There are multiple ways to become involved in the lab group. Below is an overvie
   * You may or may not join a predefined project, but are expected either way to take the lead in shaping your role and work.
 * A postdoctoral research scientist ("**postdoc**") uses their time with the research group to advance their studies and make new scientific discoveries. They may help to advise students, run the lab, and take early steps towards building independent research directions and programs. Upon completion, a postdoc should have gained both depth and breadth in the geosciences and be well positioned to become a leading researcher, skilled scientist, and effective mentor.
 
-## Prospective Students
+## Prospective Group Members
 
 ### Andy Wickert:
 Research broadly focuses on questions of river systems, sea level, glaciers, and paleoclimate. Our primary tools are continuum mechanics, computational analyses, instrumentation design, data synthesis, and field measurements. I am generally in search of students with strong mathematics/engineering/fluid mechanics backgrounds, though I do also bring in more traditional geologists/geographers.
 
 Wickert's group is currently quite large, but he would consider applicants for projects in the general topics below. When reaching out about projects, it would be helpful to indicate which of the following topics interest you (and why, and what you might like to do in that direction), and if none do, then to suggest a different project. Due to the size of the group, there is a current need to keep some amount of focus (so advising support isn't spread thin among too many topics), but creative ideas are always appreciated. *With deep apologies: I cannot guarantee a response to requests to join the group that do not indicate that you have done background research into our research and goals or to how your future aspirations may align with these.*
+
+#### Bedrock-river evolution
+
+Wickert seeks a Ph.D. student or postdoc to study how rock mechanical properties affect the rate of bedrock incision and knickpoint retreat. The student will develop a physics-based model of long-profile evolution, collect field data from rivers of the Lake Superior basin to test this model, and compare results against the heuristic stream-power modeling approach. The end goal is to have a mechanistic model of bedrock-river evolution that incorporates physical realism while remaining applicable to common field environments by incorporating commonly available data and straightforward measurements.
 
 #### Theory/computation
 
@@ -159,7 +168,7 @@ Nilay filled this
 
 ## Important information for international students and visitors
 
-Prospective international students and visitors to the University of Minnesota should be in touch with Andy Wickert and [International Student and Scholar Services](https://isss.umn.edu/) at the University of Minnesota.  
+Prospective international students and visitors to the University of Minnesota should be in touch with Andy Wickert and [International Student and Scholar Services](https://isss.umn.edu/) at the University of Minnesota.
 
 Prospective international students and visitors to Minnesota State, Mankato should be in touch with Phillip Larson and [Global Education](https://mankato.mnsu.edu/academics/global-education/) at Minnesota State, Mankato.
 
