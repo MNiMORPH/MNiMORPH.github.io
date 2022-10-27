@@ -17,8 +17,8 @@ excerpt: "Facilities<br/>Broad goals<br/>Information if you are considering join
 
 # Current searches
 
-* Mechanistic bedrock-river evolution: Ph.D. student por postdoc; Wickert
-* Bedrock river evolution through collaborators: M.S. students; contact Wickert and/or Larson
+* **Ph.D. student or postdoc:** Mechanistic bedrock-river evolution: Theory/model development and field investigations. *Contact Wickert.*
+* **M.S. students:** Bedrock-river evolution: Field work, landscape analysis, and geochronology. *Contact Wickert and/or Larson.*
 
 # The lab & our group
 
