@@ -47,14 +47,13 @@ There are multiple ways to become involved in the lab group. Below is an overvie
   * You may or may not join a predefined project, but are expected either way to take the lead in shaping your role and work.
 * A postdoctoral research scientist ("**postdoc**") uses their time with the research group to advance their studies and make new scientific discoveries. They may help to advise students, run the lab, and take early steps towards building independent research directions and programs. Upon completion, a postdoc should have gained both depth and breadth in the geosciences and be well positioned to become a leading researcher, skilled scientist, and effective mentor.
 
-## Prospective Group Members
+## Prospective Group Members (Wickert)
 
-### Andy Wickert:
 Research broadly focuses on questions of river systems, sea level, glaciers, and paleoclimate. Our primary tools are continuum mechanics, computational analyses, instrumentation design, data synthesis, and field measurements. I am generally in search of students with strong mathematics/engineering/fluid mechanics backgrounds, though I do also bring in more traditional geologists/geographers.
 
 Wickert's group is currently quite large, but he would consider applicants for projects in the general topics below. When reaching out about projects, it would be helpful to indicate which of the following topics interest you (and why, and what you might like to do in that direction), and if none do, then to suggest a different project. Due to the size of the group, there is a current need to keep some amount of focus (so advising support isn't spread thin among too many topics), but creative ideas are always appreciated. *With deep apologies: I cannot guarantee a response to requests to join the group that do not indicate that you have done background research into our research and goals or to how your future aspirations may align with these.*
 
-#### Bedrock-river evolution
+### Bedrock-river evolution
 
 Wickert seeks a Ph.D. student or postdoc to study how rock mechanical properties affect the rate of bedrock incision and knickpoint retreat. The student will develop a physics-based model of long-profile evolution, collect field data from rivers of the Lake Superior basin to test this model, and compare results against the heuristic stream-power modeling approach. The end goal is to have a mechanistic model of bedrock-river evolution that incorporates physical realism while remaining applicable to common field environments by incorporating commonly available data and straightforward measurements.
 
@@ -66,16 +65,16 @@ Ideally, the candidate would:
 
 Strong candidates lacking these skills would have the opportunity to gain them while at the University of Minnesota.
 
-#### Theory/computation
+### Theory/computation
 
 Wickert is always looking to hire curious, engaged, mathematically-minded individuals who want to help develop the underlying theory for how Earth's surface changes and evolves.
 
-### Phillip Larson:
+## Prospective Group Members (Larson):
 Larson's Website: https://mavdisk.mnsu.edu/dj1515bb/geomorph/
 
 Prospective M.S. students with strong backgrounds in field-based geoscience and/or environmental science are encouraged to contact Dr. Larson (phillip.larson@mnsu.edu). Much of Larson's research is field and geospatial data-focused, so field work and GIS interests are necessary.  Larson has a number of research projects ongoing that potential graduate students focused on geomorphology/surface processes, geoarcheology, environmental issues impacted by land-use and climate change, and natural hazards could be suitable for. Many of these projects are focused on landscapes in the upper Midwest, USA, where (de)glaciation, climate change, and human interaction with the environment have produced a dynamic natural laboratory for rapid late Quaternary, post-Euro-American-settlement, and ongoing landscape change.  This ongoing change is also tied to environmental problems and natural hazards (e.g. landslides, water quality issues, soil degradation, etc.).  These landscapes also host an impressive, but poorly understood history of Native American people's who interacted with the environment through the late Pleistocene and Holocene.  If any of this sounds interesting, please contact Dr. Larson. Larson is also actively working in the Basin and Range and Colorado Plateau and may have capacity for students interested in work there. Future work is being planned in Colorado Plateau region, Iceland, and within the Lake Superior basin. Larson is also receptive to inquiries with creative ideas/research questions in mind.  Just reach out.  Please make sure to include your C.V. and unofficial transcripts if you contact him.
 
-#### Field/Laboratory/Geospatial
+### Field/Laboratory/Geospatial
 
 Larson is open to bringing in students interested in field and laboratory methods that can be utilized to build, test, and improve theory.  Geospatial, geochronological, shallow geophysical (GPR), soils/sediment methods are primarily used by Larson and his students in this work.  If field work, field data collection, and laboratory work are of interest, then please inquire!
 
