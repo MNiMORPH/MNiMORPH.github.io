@@ -17,8 +17,8 @@ excerpt: "Facilities<br/>Broad goals<br/>Information if you are considering join
 
 # Current searches
 
-* **Ph.D. student or postdoc:** Mechanistic bedrock-river evolution: Theory/model development and field investigations. *Contact Wickert.*
-* **M.S. students:** Bedrock-river evolution: Field work, landscape analysis, and geochronology. *Contact Wickert and/or Larson.*
+* **Ph.D. student or postdoc:** Mechanistic bedrock-river evolution: Theory/model development and field investigations in the Lake Superior Basin. *See below for more details; contact Wickert with interest and for further information.*
+* **M.S. students:** Bedrock-river evolution: Field work, landscape analysis, and geochronology. *On the same project as the Ph.D. student or postdoc, above. Contact Karen Gran at the University of Minnesota &ndash; Duluth: kgran [at] d [dot] umn [dot] edu.*
 
 # The lab & our group
 
