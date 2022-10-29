@@ -58,6 +58,14 @@ Wickert's group is currently quite large, but he would consider applicants for p
 
 Wickert seeks a Ph.D. student or postdoc to study how rock mechanical properties affect the rate of bedrock incision and knickpoint retreat. The student will develop a physics-based model of long-profile evolution, collect field data from rivers of the Lake Superior basin to test this model, and compare results against the heuristic stream-power modeling approach. The end goal is to have a mechanistic model of bedrock-river evolution that incorporates physical realism while remaining applicable to common field environments by incorporating commonly available data and straightforward measurements.
 
+Ideally, the candidate would:
+* Have a strong background in classical mechanics, ideally including continuum mechanics (solid and/or fluid)
+* Be proficient in mathematics through ordinary differential equations and linear algebra
+* Be proficient in computer programming
+* Have experience with GIS
+
+Strong candidates lacking these skills would have the opportunity to gain them while at the University of Minnesota.
+
 #### Theory/computation
 
 Wickert is always looking to hire curious, engaged, mathematically-minded individuals who want to help develop the underlying theory for how Earth's surface changes and evolves.
