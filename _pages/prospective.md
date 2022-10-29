@@ -78,7 +78,7 @@ Prospective M.S. students with strong backgrounds in field-based geoscience and/
 
 Larson is open to bringing in students interested in field and laboratory methods that can be utilized to build, test, and improve theory.  Geospatial, geochronological, shallow geophysical (GPR), soils/sediment methods are primarily used by Larson and his students in this work.  If field work, field data collection, and laboratory work are of interest, then please inquire!
 
-## Potential Projects
+## Potential Projects (Standing Interest)
 
 ***Ph.D. student or Postdoc (University of Minnesota)***
 
