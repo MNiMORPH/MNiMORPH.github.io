@@ -10,3 +10,6 @@ Gemfile.lock
 # Jekyll cache files
 .jekyll-cache/*
 .jekyll-cache
+
+# Reports from using BFG
+*.bfg-report*
