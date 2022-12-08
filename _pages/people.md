@@ -134,10 +134,10 @@ grads:
   - image_path: /assets/images/headshots/TylerFulghum_headshot_320x320.jpg
     alt: "Tyler Fulghum"
     title: "Tyler Fulghum"
-    excerpt: "**Ph.D. Student**<br/>
+    excerpt: "**M.S. Student**<br/>
               **University of Minnesota**<br>
               B.S. 2021 Tennessee Technological University<br/>
-              *Instrumentation and geoscientific data*<br/>
+              *Open-source multispectral pyranometer characterization*<br/>
               fulgh019 [at] umn [dot] edu
               "
     #url: ""
