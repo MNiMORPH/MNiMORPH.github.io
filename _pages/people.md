@@ -120,12 +120,12 @@ grads:
   - image_path: /assets/images/headshots/iscen_square.jpg
     alt: "Nilay İşcen"
     title: "Nilay İşcen"
-    excerpt: "**Ph.D. Student**<br/>
+    excerpt: "**Ph.D. Candidate**<br/>
               **University of Minnesota**<br>
               M.S. 2018 Virginia Polytechnic Institute and State University<br/>
               M.S. 2015 Middle East Technical University<br/>
               B.S. 2011 Middle East Technical University<br/>
-              *Fluvial geomorphology*<br/>
+              *Alluvial rivers and the gravel–sand transition*<br/>
               iscen001 [at] umn [dot] edu
               "
     #url: ""
