@@ -47,6 +47,10 @@ There are multiple ways to become involved in the lab group. Below is an overvie
   * You may or may not join a predefined project, but are expected either way to take the lead in shaping your role and work.
 * A postdoctoral research scientist ("**postdoc**") uses their time with the research group to advance their studies and make new scientific discoveries. They may help to advise students, run the lab, and take early steps towards building independent research directions and programs. Upon completion, a postdoc should have gained both depth and breadth in the geosciences and be well positioned to become a leading researcher, skilled scientist, and effective mentor.
 
+## Application fees
+
+The University of Minnesota assesses application fees to help fund its graduate school. We realize that these may be quite high, depending on your savings and salary, which may be a function of your home region. Please be in touch with Wickert about an intent to apply; if it seems that there is good alignment, we may be able to cover this fee.
+
 ## Prospective Group Members (Wickert)
 
 Research broadly focuses on questions of river systems, sea level, glaciers, and paleoclimate. Our primary tools are continuum mechanics, computational analyses, instrumentation design, data synthesis, and field measurements. I am generally in search of students with strong mathematics/engineering/fluid mechanics backgrounds, though I do also bring in more traditional geologists/geographers.
