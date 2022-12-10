@@ -117,7 +117,7 @@ grads:
     #btn_label: "Homepage"
     #btn_class: "btn--inverse"
 
-  - image_path: /assets/images/headshots/iscen_square.jpg
+  - image_path: /assets/images/headshots/iscen2022.jpg
     alt: "Nilay İşcen"
     title: "Nilay İşcen"
     excerpt: "**Ph.D. Candidate**<br/>
