@@ -264,6 +264,17 @@ undergrads:
     #url: ""
     #btn_label: "Homepage"
     #btn_class: "btn--inverse"
+  - image_path: /assets/images/headshots/AnnaGonzalezSquare.jpg
+    alt: "Anna Gonzalez"
+    title: "Anna Gonzalez"
+    excerpt: "**Undergraduate Researcher**<br/>
+              **University of Minnesota**<br/>
+              *Watershed geomorphology*<br/>
+              gonz0443 [at] umn [dot] edu
+              "
+    #url: ""
+    #btn_label: "Homepage"
+    #btn_class: "btn--inverse"
 
 visitors:
   - image_path: /assets/images/headshots/EricBarefoot_480p.png
