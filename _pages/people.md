@@ -264,6 +264,28 @@ undergrads:
     #url: ""
     #btn_label: "Homepage"
     #btn_class: "btn--inverse"
+  - image_path: /assets/images/headshots/blank.jpg
+    alt: "Lauren Claas"
+    title: "Lauren Claas"
+    excerpt: "**Undergraduate Researcher**<br/>
+              **University of Wisconsin–Eau Claire**<br/>
+              *Historic sedimentation surveys*<br/>
+              claasle1407 [at] uwec [dot] edu
+              "
+    #url: ""
+    #btn_label: "Homepage"
+    #btn_class: "btn--inverse"
+  - image_path: /assets/images/headshots/blank.jpg
+    alt: "Taylor Jewell"
+    title: "Taylor Jewell"
+    excerpt: "**Undergraduate Researcher**<br/>
+              **University of Minnesota**<br/>
+              *Historic sedimentation surveys*<br/>
+              jewel091 [at] umn [dot] edu
+              "
+    #url: ""
+    #btn_label: "Homepage"
+    #btn_class: "btn--inverse"
   - image_path: /assets/images/headshots/AnnaGonzalezSquare.jpg
     alt: "Anna Gonzalez"
     title: "Anna Gonzalez"
