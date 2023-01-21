@@ -74,6 +74,7 @@ researchers:
     alt: "Josie Welsh"
     title: "Josie Welsh"
     excerpt: "**Research Scientist**<br/>
+              **University of Minnesota**<br/>
               **B.S. 2022 University of Minnesota**<br/>
               *Bed-load sediment sampler design*<br/>
               *River-profile analysis along Lake Superior*<br/>
