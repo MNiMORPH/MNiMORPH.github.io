@@ -70,6 +70,15 @@ researchers:
   url: "https://jeffskwang.github.io/"
   btn_label: "Homepage"
   btn_class: "btn--inverse"
+  - image_path: /assets/images/headshots/JosieWelsh.jpg
+    alt: "Josie Welsh"
+    title: "Josie Welsh"
+    excerpt: "**Research Scientist**<br/>
+              **B.S. 2022 University of Minnesota**<br/>
+              *Bed-load sediment sampler design*<br/>
+              *River-profile analysis along Lake Superior*<br/>
+              welsh162 [at] umn [dot] edu
+              "
 
 grads:
   - image_path: /assets/images/headshots/jones_square.jpg
@@ -198,15 +207,6 @@ grads:
     #btn_class: "btn--inverse"
 
 undergrads:
-  - image_path: /assets/images/headshots/JosieWelsh.jpg
-    alt: "Josie Welsh"
-    title: "Josie Welsh"
-    excerpt: "**Undergraduate Researcher**<br/>
-              **University of Minnesota**<br/>
-              *Bed-load sediment sampler design*<br/>
-              *River-profile analysis along Lake Superior*<br/>
-              welsh162 [at] umn [dot] edu
-              "
   - image_path: /assets/images/headshots/mitchell_peter_2021_512x512.jpg
     alt: "Peter Mitchell"
     title: "Peter Mitchell"
