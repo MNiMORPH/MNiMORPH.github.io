@@ -166,6 +166,21 @@ grads:
     #url: ""
     #btn_label: "Homepage"
     #btn_class: "btn--inverse"
+  - image_path: /assets/images/headshots/ChenXiating_square.jpeg
+    alt: "Xiating Chen"
+    title: "Xiating Chen"
+    excerpt: "**Ph.D. Candidate**<br/>
+              **University of Minnesota**<br/>
+              ***Civil, Environmental, and Geo-engineering***<br/>
+              ***Advisor: Xue Feng***<br/>
+              B.S.E. 2017 Duke University<br/>
+              *Ecohydrology of urban green infrastructure*<br/>
+              *Open-source environmental sensing system for urban trees*<br/>
+              chen7090 [at] umn [dot] edu
+              "
+    #url: ""
+    #btn_label: "Homepage"
+    #btn_class: "btn--inverse"
   - image_path: /assets/images/headshots/Ruby.jpg
     alt: "Andreas Ruby"
     title: "Andreas Ruby"
