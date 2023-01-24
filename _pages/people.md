@@ -415,7 +415,7 @@ animals:
 
 {% include feature_row id="faculty" %}
 
-## Researchers and Postdocs
+## Postdocs and Researchers
 
 {% include feature_row id="researchers" %}
 
@@ -438,7 +438,7 @@ animals:
 
 ## Former Group Members
 
-### Researchers
+### Postdocs and Researchers
 
 #### Dr. Eric Barefoot (2021–2022)
 * **Postdoctoral research scientist** (UMN)
