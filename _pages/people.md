@@ -70,6 +70,19 @@ researchers:
     url: "https://jeffskwang.github.io/"
     btn_label: "Homepage"
     btn_class: "btn--inverse"
+  - image_path: /assets/images/headshots/bobby_square_320px.png
+    alt: "Bobby Schulz"
+    title: Bobby Schulz
+    excerpt: "**Research Engineer**<br/>
+              ***G.E.M.S. Agroinformatics***<br/>
+              M.S. 2021 University of Minnesota<br/>
+              B.S. 2017 University of Minnesota<br/>
+              *Environmental instrumentation*<br/>
+              schu3119 [at] umn [dot] edu
+              "
+    #url: ""
+    #btn_label: "Homepage"
+    #btn_class: "btn--inverse"
   - image_path: /assets/images/headshots/JosieWelsh.jpg
     alt: "Josie Welsh"
     title: "Josie Welsh"
@@ -328,19 +341,6 @@ visitors:
     url: "http://ericbarefoot.com/"
     btn_label: "Homepage"
     btn_class: "btn--inverse"
-  - image_path: /assets/images/headshots/bobby_square_320px.png
-    alt: "Bobby Schulz"
-    title: Bobby Schulz
-    excerpt: "**Collaborating Research Engineer**<br/>
-              ***G.E.M.S. Agroinformatics***<br/>
-              M.S. 2021, Electrical & Computer Engineering, University of Minnesota<br/>
-              B.S. 2017, Electrical & Computer Engineering, University of Minnesota<br/>
-              *Environmental instrumentation*<br/>
-              schu3119 [at] umn [dot] edu
-              "
-    #url: ""
-    #btn_label: "Homepage"
-    #btn_class: "btn--inverse"
   - image_path: /assets/images/headshots/barnes.jpg
     alt: "Richard Barnes"
     title: "Richard Barnes"
