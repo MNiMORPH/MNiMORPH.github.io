@@ -258,6 +258,18 @@ undergrads:
               *Field augering, hammering, muscle-ing*<br/>
               cndunn [at] wisc [dot] edu
               "
+  - image_path: /assets/images/headshots/Claas_Lauren.jpg
+    alt: "Lauren Claas"
+    title: "Lauren Claas"
+    excerpt: "**Undergraduate Researcher**<br/>
+              **University of Wisconsin–Eau Claire**<br/>
+              *Soils geomorphology*<br/>
+              *Ground-penetrating radar (GPR)*<br/>
+              claasle1407 [at] uwec [dot] edu
+              "
+    #url: ""
+    #btn_label: "Homepage"
+    #btn_class: "btn--inverse"
   - image_path: /assets/images/headshots/Kostermann.jpg
     alt: "Katia Ostermann"
     title: "Katia Ostermann"
@@ -289,18 +301,6 @@ undergrads:
               **University of Minnesota**<br/>
               *Sediment core description*<br/>
               wilwe020 [at] umn [dot] edu
-              "
-    #url: ""
-    #btn_label: "Homepage"
-    #btn_class: "btn--inverse"
-  - image_path: /assets/images/headshots/Claas_Lauren.jpg
-    alt: "Lauren Claas"
-    title: "Lauren Claas"
-    excerpt: "**Undergraduate Researcher**<br/>
-              **University of Wisconsin–Eau Claire**<br/>
-              *Soils geomorphology*<br/>
-              *Ground-penetrating radar (GPR)*<br/>
-              claasle1407 [at] uwec [dot] edu
               "
     #url: ""
     #btn_label: "Homepage"
