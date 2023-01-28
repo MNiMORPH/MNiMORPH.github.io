@@ -293,12 +293,13 @@ undergrads:
     #url: ""
     #btn_label: "Homepage"
     #btn_class: "btn--inverse"
-  - image_path: /assets/images/headshots/blank.jpg
+  - image_path: /assets/images/headshots/Claas_Lauren.jpg
     alt: "Lauren Claas"
     title: "Lauren Claas"
     excerpt: "**Undergraduate Researcher**<br/>
               **University of Wisconsin–Eau Claire**<br/>
-              *Historic sedimentation surveys*<br/>
+              *Soils geomorphology*<br/>
+              *Ground-penetrating radar (GPR)*<br/>
               claasle1407 [at] uwec [dot] edu
               "
     #url: ""
