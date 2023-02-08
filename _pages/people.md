@@ -306,7 +306,7 @@ undergrads:
     #url: ""
     #btn_label: "Homepage"
     #btn_class: "btn--inverse"
-  - image_path: /assets/images/headshots/blank.jpg
+  - image_path: /assets/images/headshots/Jewell_Taylor.jpg
     alt: "Taylor Jewell"
     title: "Taylor Jewell"
     excerpt: "**Undergraduate Researcher**<br/>
