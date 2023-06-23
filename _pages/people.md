@@ -100,7 +100,7 @@ grads:
     alt: "Jabari Jones"
     title: "Jabari Jones"
     excerpt: "**Assistant Professor**<br/>
-              **Bowdoin University (starting July 2023)**<br>
+              **Bowdoin College (starting July 2023)**<br>
               Ph.D. 2023 University of Minnesota<br>
               M.S. 2018 Utah State University<br/>
               B.A. 2015 Carleton College<br/>
