@@ -125,25 +125,6 @@ grads:
     btn_label: "Homepage"
     btn_class: "btn--inverse"
 
-<!--
-  - image_path: /assets/images/headshots/CarlieCdB.jpg
-    alt: "Carlie Cervantes de Blois"
-    title: "Carlie Cervantes de Blois"
-    excerpt: "**Ph.D. Candidate**<br/>
-              **University of Minnesota**<br/>
-              ***History of Science, Technology, and Medicine***<br/>
-              ***Advisor: Susan Jones***<br/>
-              B.S. 2017 University of Wisconsin -- Madison<br/>
-              *History of river ecology and irrigation networks*<br/>
-              *Colonial--postcolonial science & technology*<br/>
-              *Agricultural development*<br/>
-              cerva016 [at] umn [dot] edu
-              "
-    #url: ""
-    #btn_label: "Homepage"
-    #btn_class: "btn--inverse"
--->
-
   - image_path: /assets/images/headshots/iscen2022.jpg
     alt: "Nilay İşcen"
     title: "Nilay İşcen"
