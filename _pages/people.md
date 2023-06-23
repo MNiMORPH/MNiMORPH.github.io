@@ -124,6 +124,7 @@ grads:
     btn_label: "Homepage"
     btn_class: "btn--inverse"
 
+<!--
   - image_path: /assets/images/headshots/CarlieCdB.jpg
     alt: "Carlie Cervantes de Blois"
     title: "Carlie Cervantes de Blois"
@@ -140,6 +141,7 @@ grads:
     #url: ""
     #btn_label: "Homepage"
     #btn_class: "btn--inverse"
+-->
 
   - image_path: /assets/images/headshots/iscen2022.jpg
     alt: "Nilay İşcen"
@@ -462,6 +464,11 @@ animals:
 * ***Now:*** [Design Engineer, Ironwood Electronics](https://www.researchgate.net/profile/Chad_Sandell)
 
 ### Graduate Students
+
+### Carlie Cervantes de Blois (2022)
+* **Collaborating Ph.D. candidate**
+* [Ph.D. Candidate, History of Science, Technology, and Medicine](https://cse.umn.edu/hstm/graduate-students)
+* Environmental history and human impact on rivers
 
 ### Max van Wyk de Vries (2018–2022)
 **PhD, 2022** (UMN; co-advised with Emi Ito)
