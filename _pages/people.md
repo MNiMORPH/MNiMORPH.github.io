@@ -99,8 +99,9 @@ grads:
   - image_path: /assets/images/headshots/jones_square.jpg
     alt: "Jabari Jones"
     title: "Jabari Jones"
-    excerpt: "**Ph.D. Candidate**<br/>
-              **University of Minnesota**<br>
+    excerpt: "**Assistant Professor**<br/>
+              **Bowdoin University (starting July 2023)**<br>
+              Ph.D. 2023 University of Minnesota<br>
               M.S. 2018 Utah State University<br/>
               B.A. 2015 Carleton College<br/>
               *Geomorphic and hydrologic response to climate and land-use change; environmental justice; geoscience education*<br/>
