@@ -436,7 +436,7 @@ animals:
 * River-terrace analysis in the upper Mississippi valley
 * ***Now:*** [Assistant Professor, Department of Geography, Durham University](https://www.dur.ac.uk/research/directory/staff/?mode=staff&id=18302)
 
-### Bobby Schulz (2016–2018)
+#### Bobby Schulz (2016–2018)
 * Open-source instrumentation development (UMN)
 * *For more information, see "Graduate Students"*
 
@@ -447,12 +447,12 @@ animals:
 
 ### Graduate Students
 
-### Carlie Cervantes de Blois (2022)
+#### Carlie Cervantes de Blois (2022)
 * **Collaborating Ph.D. candidate**
 * [Ph.D. Candidate, History of Science, Technology, and Medicine](https://cse.umn.edu/hstm/graduate-students)
 * Environmental history and human impact on rivers
 
-### Max van Wyk de Vries (2018–2022)
+#### Max van Wyk de Vries (2018–2022)
 **PhD, 2022** (UMN; co-advised with Emi Ito)
 * Remote sensing for change detection
 * Paleolimnology and ice-contact lakes
@@ -460,12 +460,12 @@ animals:
 * Glaciology
 * ***Now:*** [Postdoctoral Research Scientist, University of Liverpool](https://www.maxgeohub.com)
 
-### Bobby Schulz (2018–2021)
+#### Bobby Schulz (2018–2021)
 **MS, 2021** (UMN)
 * Development of a series of open-source data loggers
 * ***Since 2019:*** Hardware development lead for [GEMS IoT](https://agroinformatics.org/about-us/)
 
-### Owen Lott (2019–2021)
+#### Owen Lott (2019–2021)
 * **MS, 2021** (Minnesota State; co-advised with Bryce Hoppie)
 * Comparative Analysis of Water Quality Monitoring Procedures in Small Minnesota Lake Systems, Bass Lake Watershed, South-Central Minnesota
 <!-- * ***Now:*** []() -->
@@ -475,29 +475,29 @@ animals:
 * Integrated Water Resources on two volcanoes in Ecuador
 * ***Now:*** [Staff Scientist, SS Papadopulos & Associates](https://www.sspa.com/staff-directory)
 
-### Ricky Mataitis (2018–2020)
+#### Ricky Mataitis (2018–2020)
 * **MS, 2020** (Minnesota State)
 * Distribution, Geomorphology and Significance of Sand Stringers in west-central Wisconsin and southern Minnesota, USA.
 * ***Now:*** [Jacobs Engineering](http://jacobs.com/)
 
-### Kira Kuehl (2017–2020)
+#### Kira Kuehl (2017–2020)
 * **MS, 2020** (Minnesota State)
 * Single-Grain Optical Stimulated Luminescence Dating at Cambria Pit, Minnesota River Valley, Minnesota, USA
 * ***Now:*** [Project Manager at SunShare](https://www.linkedin.com/in/kuehl-kira)
 
-### Kerry Callaghan (2015–2020)
+#### Kerry Callaghan (2015–2020)
 **PhD, 2020** (UMN)
 * Coupled groundwater--surface-water modeling on a global scale
 * Efficient algorithms to analyze depressions in landscapes and move water through them
 * Paleoclimate
 * ***Now:*** [Postdoctoral Research Scientist, Columbia/LDEO, Advisor: Jacky Austermann](https://www.ldeo.columbia.edu/~jackya/Group.html)
 
-### Melissa Swanson (2017–2019)
+#### Melissa Swanson (2017–2019)
 * **MS, 2019** (Minnesota State)
 * Mass Wasting Investigation and Assessment in the Midwest: Case Study of the Minnesota River Valley, New Ulm to St. Peter, Minnesota, USA
 * ***Now:*** [Sentera](https://sentera.com/)
 
-### Jason Millett (2017–2019)
+#### Jason Millett (2017–2019)
 * **MS, 2019** (Minnesota State)
 * Cliff-Top Dunes in the Lower Chippewa River Valley of West-Central Wisconsin
 * ***Now:*** [National Geospatial Intelligence Agency](https://www.nga.mil/)
