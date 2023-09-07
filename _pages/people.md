@@ -96,28 +96,11 @@ researchers:
               "
 
 grads:
-  - image_path: /assets/images/headshots/jones_square.jpg
-    alt: "Jabari Jones"
-    title: "Jabari Jones"
-    excerpt: "**Assistant Professor**<br/>
-              **Bowdoin College (starting July 2023)**<br>
-              Ph.D. 2023 University of Minnesota<br>
-              M.S. 2018 Utah State University<br/>
-              B.A. 2015 Carleton College<br/>
-              *Geomorphic and hydrologic response to climate and land-use change; environmental justice; geoscience education*<br/>
-              jone2176 [at] umn [dot] edu
-              "
-    #url: ""
-    #btn_label: "Homepage"
-    #btn_class: "btn--inverse"
-    #url: ""
-    #btn_label: "Homepage"
-    #btn_class: "btn--inverse"
   - image_path: /assets/images/headshots/JimmyWood.png
     alt: "Jimmy Wood"
     title: "Jimmy Wood"
     excerpt: "**SIP Researcher**<br/>
-              **Yosemite National Park (Starting October 2023)**<br>
+              **Yosemite National Park** (Starting Oct. 2023)<br>
               M.S. 2023 University of Minnesota<br/>
               B.S. 2021 (Geology) University of Nebraska Omaha<br/>
               B.A. 2021 (Physics) University of Nebraska Omaha<br/>
@@ -447,6 +430,13 @@ animals:
 * ***Now:*** [Design Engineer, Ironwood Electronics](https://www.researchgate.net/profile/Chad_Sandell)
 
 ### Graduate Students
+
+#### Jabari Jones (2018-2023)
+**PhD, 2023** (UMN)
+* Geomorphic and hydrologic response to climate and land-use change
+* Environmental justice
+* Geoscience education
+* ***Now:*** [Assistant Professor, Bowdoin College](https://www.bowdoin.edu/profiles/faculty/j.jones/index.html)
 
 #### Carlie Cervantes de Blois (2022)
 * **Collaborating Ph.D. candidate**
