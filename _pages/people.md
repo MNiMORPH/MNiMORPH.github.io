@@ -113,6 +113,17 @@ grads:
     #url: ""
     #btn_label: "Homepage"
     #btn_class: "btn--inverse"
+  - image_path: /assets/images/headshots/JimmyWood.png
+    alt: "Jimmy Wood"
+    title: "Jimmy Wood"
+    excerpt: "**SIP Researcher**<br/>
+              **Yosemite National Park (Starting October 2023)**<br>
+              M.S. 2023 University of Minnesota<br/>
+              B.S. 2021 (Geology) University of Nebraska Omaha<br/>
+              B.A. 2021 (Physics) University of Nebraska Omaha<br/>
+              *Fluvial geomorphology*<br/>
+              wood1466 [at] umn [dot] edu
+              "
   - image_path: /assets/images/headshots/penprase_2020_square_480px.jpg
     alt: "Shanti Penprase"
     title: "Shanti Penprase"
@@ -151,16 +162,6 @@ grads:
     #url: ""
     #btn_label: "Homepage"
     #btn_class: "btn--inverse"
-  - image_path: /assets/images/headshots/JimmyWood.png
-    alt: "Jimmy Wood"
-    title: "Jimmy Wood"
-    excerpt: "**M.S. Student**<br/>
-              **University of Minnesota**<br>
-              B.S. 2021 (Geology) University of Nebraska Omaha<br/>
-              B.A. 2021 (Physics) University of Nebraska Omaha<br/>
-              *Fluvial geomorphology*<br/>
-              wood1466 [at] umn [dot] edu
-              "
     #url: ""
     #btn_label: "Homepage"
     #btn_class: "btn--inverse"
