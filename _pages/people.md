@@ -197,7 +197,7 @@ grads:
               **Minnesota State University, Mankato**<br>
               B.A. 2022 (Environmental Geography) University of Wisconsin-Eau Claire<br/>
               *Climatic Geomorphology, GPR*<br/>
-              TBD [at] mnsu [dot] edu
+              abigail.fischer [at] mnsu [dot] edu
               "
 
     #url: ""
