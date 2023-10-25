@@ -342,12 +342,14 @@ visitors:
     alt: "Matías Romero"
     title: "Matías Romero"
     excerpt: "**Collaborating Ph.D. Student**<br/>
-              ***CICTERRA-CONICET and Argentine Antarctic Program, Universidad Nacional de Córdoba***<br/>
-              Advisor: Jorge A. Strelin<br/>
+              ***University of Wisconsin -- Madison***<br/>
+              Advisor: Shaun Marcott<br/>
               Geologist, 2019, Universidad Nacional de Córdoba<br/>
               *Glacial geology, ice sheets, and sea level*<br/>
               matias.romero [at] unc [dot] edu [dot] ar
               "
+              #***CICTERRA-CONICET and Argentine Antarctic Program, Universidad Nacional de Córdoba***<br/>
+              #Advisor: Jorge A. Strelin<br/>
     #url: ""
     #btn_label: "Homepage"
     #btn_class: "btn--inverse"
