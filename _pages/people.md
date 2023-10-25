@@ -203,6 +203,19 @@ grads:
     #url: ""
     #btn_label: "Homepage"
     #btn_class: "btn--inverse"
+  - image_path: /assets/images/headshots/LaaksonenMadeline.jpeg
+    alt: " Madie Laaksonen"
+    title: " Madie Laaksonen"
+    excerpt: "**M.S. Student**<br/>
+              **Minnesota State University, Mankato**<br>
+              B.S. 2022 (Geology) St. Norbert College<br/>
+              *Fluvial Geomorphology, Quaternary Geology*<br/>
+              madeline.laaksonen [at] mnsu [dot] edu
+              "
+
+    #url: ""
+    #btn_label: "Homepage"
+    #btn_class: "btn--inverse"
 
 undergrads:
   - image_path: /assets/images/headshots/mitchell_peter_2021_512x512.jpg
