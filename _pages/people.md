@@ -351,6 +351,21 @@ visitors:
     #url: ""
     #btn_label: "Homepage"
     #btn_class: "btn--inverse"
+  - image_path: /assets/images/headshots/ZachPic.png
+    alt: "Zach Hilgendorf"
+    title: "Zach Hilgendorf"
+    excerpt: "**Visiting Assistant Professor**<br/>
+              ***University of Wisconsin-Eau Claire***<br/>
+              **Post-Doctoral Researcher**<br/>
+              ***University of California, Santa Barbara***<br/>
+              Ph.D. 2022 Arizona State University<br/>
+              M.S. 2018 Minnesota State University-Mankato<br/>
+              B.S. 2015 University of Wisconsin-Eau Claire<br/>
+              hilgenzt [at] uwec [dot] edu
+              "
+    #url: ""
+    #btn_label: "Homepage"
+    #btn_class: "btn--inverse"
 
 animals:
   - image_path: /assets/images/headshots/FjordCat.JPG
