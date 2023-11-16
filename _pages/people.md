@@ -479,7 +479,7 @@ animals:
 * Paleolimnology and ice-contact lakes
 * Natural hazards
 * Glaciology
-* ***Now:*** [Postdoctoral Research Scientist, University of Liverpool](https://www.maxgeohub.com)
+* ***Now:*** [Assistant Professor, University of Cambridge](https://www.maxgeohub.com)
 
 #### Bobby Schulz (2018–2021)
 **MS, 2021** (UMN)
