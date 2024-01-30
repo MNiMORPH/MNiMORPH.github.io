@@ -65,7 +65,8 @@ grads:
     title: "Shanti Penprase"
     excerpt: "**Ph.D. Candidate**<br/>
               B.A. 2016 Carleton College<br/>
-              *Glacier–river interactions; Quaternary geochronology*<br/>
+              *Glacier–river interactions<br/>
+              *Quaternary geochronology*<br/>
               penpr001 [at] umn [dot] edu
               "
     url: "https://spenprase.github.io"
@@ -89,10 +90,10 @@ grads:
   - image_path: /assets/images/headshots/ChenXiating_square.jpeg
     alt: "Xiating Chen"
     title: "Xiating Chen"
-    excerpt: "**Ph.D. Candidate**<br/>
+    excerpt: "**Collaborating Ph.D. Candidate**<br/>
               **University of Minnesota**<br/>
               ***Civil, Environmental, and Geo-engineering***<br/>
-              ***Advisor: Xue Feng***<br/>
+              Advisor: Xue Feng<br/>
               B.S.E. 2017 Duke University<br/>
               *Ecohydrology of urban green infrastructure*<br/>
               *Open-source environmental sensing system for urban trees*<br/>
