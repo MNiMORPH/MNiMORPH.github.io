@@ -58,16 +58,6 @@ researchers:
     #url: ""
     #btn_label: "Homepage"
     #btn_class: "btn--inverse"
-  - image_path: /assets/images/headshots/JosieWelsh.jpg
-    alt: "Josie Welsh"
-    title: "Josie Welsh"
-    excerpt: "**Research Scientist**<br/>
-              **University of Minnesota**<br/>
-              **B.S. 2022 University of Minnesota**<br/>
-              *Bed-load sediment sampler design*<br/>
-              *River-profile analysis along Lake Superior*<br/>
-              welsh162 [at] umn [dot] edu
-              "
 
 grads:
   - image_path: /assets/images/headshots/penprase_2020_square_480px.jpg
@@ -562,6 +552,11 @@ animals:
 * Undergraduate student researcher (Minnesota State)
 * Climate and fluvial system response post-LGM
 * ***Now:*** [Graduate student in Atmospheric Sciences (Colorado State)](https://www.linkedin.com/in/ivy-glade)
+
+#### Josie Welsh (2019-2023)
+* Bed-load sediment sampler design
+* River-profile analysis along Lake Superior
+* ***Now:*** [Graduate student in Geography (University of Colorado Boulder)](https://www.colorado.edu/geography/josie-welsh)
 
 #### Evan Grove (2018–2019)
 * Undergraduate student researcher (UMN)
