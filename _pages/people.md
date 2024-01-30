@@ -19,7 +19,7 @@ faculty:
     excerpt: "**Associate Professor**<br/>
               **University of Minnesota**<br/>
               *Alexander von Humboldt Fellow, GFZ Potsdam*<br/>
-              Postdoc 2014-2015 Universität Potsdam<br/>
+              Postdoc 2014–2015 Universität Potsdam<br/>
               Ph.D. 2014 University of Colorado Boulder<br/>
               S.B. 2008 Massachusetts Institute of Technology<br/>
               awickert [at] umn [dot] edu
@@ -156,41 +156,6 @@ grads:
     #btn_label: "Homepage"
     #btn_class: "btn--inverse"
 
-undergrads:
-  - image_path: /assets/images/headshots/mitchell_peter_2021_512x512.jpg
-    alt: "Peter Mitchell"
-    title: "Peter Mitchell"
-    excerpt: "**Undergraduate Researcher**<br/>
-              **University of Minnesota**<br/>
-              *River-terrace mapping*<br/>
-              *Code development to characterize valleys and networks*<br/>
-              mitc0560 [at] umn [dot] edu
-              "
-    #url: ""
-    #btn_label: "Homepage"
-    #btn_class: "btn--inverse"
-  - image_path: /assets/images/headshots/CampbellDunn.jpg
-    alt: "Campbell Dunn"
-    title: "Campbell Dunn"
-    excerpt: "**Undergraduate Researcher**<br/>
-              **University of Wisconsin -- Madison**<br/>
-              *Code development for drainage and depression networks*<br/>
-              *Shallow seismic acquistion and analysis*<br/>
-              *Field augering, hammering, muscle-ing*<br/>
-              cndunn [at] wisc [dot] edu
-              "
-  - image_path: /assets/images/headshots/Claas_Lauren.jpg
-    alt: "Lauren Claas"
-    title: "Lauren Claas"
-    excerpt: "**Undergraduate Researcher**<br/>
-              **University of Wisconsin–Eau Claire**<br/>
-              *Soils geomorphology*<br/>
-              *Ground-penetrating radar (GPR)*<br/>
-              claasle1407 [at] uwec [dot] edu
-              "
-    #url: ""
-    #btn_label: "Homepage"
-    #btn_class: "btn--inverse"
   - image_path: /assets/images/headshots/Kostermann.jpg
     alt: "Katia Ostermann"
     title: "Katia Ostermann"
@@ -200,21 +165,6 @@ undergrads:
               *Minnesota River valley*<br/>
               Katia.Ostermann [at] mnsu [dot] edu
               "
-    #url: ""
-    #btn_label: "Homepage"
-    #btn_class: "btn--inverse"
-  - image_path: /assets/images/headshots/KacieMalone_hiking_resized.jpg
-    alt: "Kacie Malone"
-    title: "Kacie Malone"
-    excerpt: "**Undergraduate Researcher**<br/>
-              **University of Minnesota**<br/>
-              *Solar-radiation sensor characterization*<br/>
-              *GIS*<br/>
-              malon629 [at] umn [dot] edu
-              "
-    #url: ""
-    #btn_label: "Homepage"
-    #btn_class: "btn--inverse"
   - image_path: /assets/images/headshots/AbbyWilwerding.jpg
     alt: "Abby Wilwerding"
     title: "Abby Wilwerding"
@@ -223,31 +173,6 @@ undergrads:
               *Sediment core description*<br/>
               wilwe020 [at] umn [dot] edu
               "
-    #url: ""
-    #btn_label: "Homepage"
-    #btn_class: "btn--inverse"
-  - image_path: /assets/images/headshots/Jewell_Taylor.jpg
-    alt: "Taylor Jewell"
-    title: "Taylor Jewell"
-    excerpt: "**Undergraduate Researcher**<br/>
-              **University of Minnesota**<br/>
-              *Historic sedimentation surveys*<br/>
-              jewel091 [at] umn [dot] edu
-              "
-    #url: ""
-    #btn_label: "Homepage"
-    #btn_class: "btn--inverse"
-  - image_path: /assets/images/headshots/AnnaGonzalezSquare.jpg
-    alt: "Anna Gonzalez"
-    title: "Anna Gonzalez"
-    excerpt: "**Undergraduate Researcher**<br/>
-              **University of Minnesota**<br/>
-              *Watershed geomorphology*<br/>
-              gonz0443 [at] umn [dot] edu
-              "
-    #url: ""
-    #btn_label: "Homepage"
-    #btn_class: "btn--inverse"
 
 visitors:
   - image_path: /assets/images/headshots/EricBarefoot_480p.png
@@ -255,7 +180,7 @@ visitors:
     title: "Eric Barefoot"
     excerpt: "**NSF Postdoctoral Research Scientist**<br/>
               **University of Indiana**<br>
-              Postdoc 2021-2022 University of Minnesota<br>
+              Postdoc 2021–2022 University of Minnesota<br>
               Ph.D. 2021 Rice University<br/>
               B.S. 2016 University of North Carolina at Chapel Hill<br/>
               barefoot [at] umn [dot] edu
@@ -281,7 +206,7 @@ visitors:
     alt: "Andrea Prichard"
     title: "Andrea Prichard"
     excerpt: "**Visiting Research Scientist**<br/>
-              ***2020-2022 Fulbright Scholar***, Batipa Field Institute, Universidad Tecnológica Oteima, Panamá<br/>
+              ***2020–2022 Fulbright Scholar***, Batipa Field Institute, Universidad Tecnológica Oteima, Panamá<br/>
               M.S. 2012 Universidad Mayor de San Simón<br/>
               M.A. 2011 University of Arizona<br/>
               B.A. 2004 Oberlin College<br/>
@@ -325,7 +250,7 @@ visitors:
       title: "Hima Hassenruck-Gudipati"
       excerpt: "**Postdoctoral Research Scientist**<br/>
                 **University of Minnesota**<br/>
-                President's Postdoc, University of Minnesota, 2021-2023<br/>
+                President's Postdoc, University of Minnesota, 2021–2023<br/>
                 Ph.D. 2021 University of Texas at Austin<br/>
                 B.S. 2014 California Institute of Technology<br/>
                 himahg [at] umn [dot] edu
@@ -337,8 +262,8 @@ visitors:
       alt: "Jeffrey Kwang"
       title: "Jeffrey Kwang"
       excerpt: "**Research Scientist, U.S. Geological Survey**<br/>
-                NSF Postdoc 2022-2024 University of Minnesota<br/>
-                Postdoc 2019-2022 University of Massachusetts<br/>
+                NSF Postdoc 2022–2024 University of Minnesota<br/>
+                Postdoc 2019–2022 University of Massachusetts<br/>
                 Ph.D. 2019 University of Illinois<br/>
                 M.S. 2016 University of Illinois<br/>
                 B.S. 2013 Johns Hopkins University<br/>
@@ -427,18 +352,18 @@ animals:
 
 ### Graduate Students
 
-#### Jimmy Wood (2021-2023)
+#### Jimmy Wood (2021–2023)
 **MS 2023**
 * Historical geomorphic change of the Whitewater River valley
 * Human&ndash;landscape interactions
 * ***Now*** SIP Researcher at Yosemite National Park
 
-#### Tyler Fulghum (2021-2023)
+#### Tyler Fulghum (2021–2023)
 **MS Student**
 * Image analysis for flow velocities
 * Solar-radiation measurement and sensor characterization
 
-#### Jabari Jones (2018-2023)
+#### Jabari Jones (2018–2023)
 **PhD, 2023** (UMN)
 * Geomorphic and hydrologic response to climate and land-use change
 * Environmental justice
@@ -543,46 +468,72 @@ animals:
 
 ### Undergraduate Students
 
-#### Jesse Schewe (2020–2022)
+#### Campbell Dunn (2021–2023, UW–Madison)
+* Code development for drainage and depression networks
+* Shallow seismic acquistion and analysis
+* Field augering, hammering, muscle-ing
+* ***Now:*** MS Student in Glaciology, University of Wisconsin–Madison
+
+#### Peter Mitchell (2020–2023, UMN)
+* River-terrace mapping
+* Code development to characterize valleys and networks
+* Evolution of the Zumbro River valley
+
+#### Anna Gonzalez (2022–2023, UMN)
+* GIS and grain-size data
+
+#### Taylor Jewell (2022–2023, UMN)
+* Historic sedimentation surveys
+
+#### Lauren Claas (2022–2023, UWEC)
+* Soils geomorphology
+* Ground-penetrating radar (GPR)
+* Historic sedimentation surveys
+
+#### Kacie Malone (2022, UMN)
+* Solar-radiation sensor characterization
+
+#### Ivy Glade (2021, MNSU Mankato)
+* Undergraduate student researcher (Minnesota State)
+* Climate and fluvial system response post-LGM
+* ***Now:*** [Graduate student in Atmospheric Sciences (Colorado State)](https://www.linkedin.com/in/ivy-glade)
+
+#### Jesse Schewe (2020–2022, UMN)
 * Undergraduate student researcher (UMN, work with both Wickert and Larson)
 * Geomorphic evolution and LiDAR topography of the St. Croix River valley
 * Field small-engine specialist and all-around scientist
 * ***Now:*** [Staff Professional at Antea Group USA](https://www.linkedin.com/in/jesse-schewe-87a23319a/)
 
-#### Ivy Glade (2021)
-* Undergraduate student researcher (Minnesota State)
-* Climate and fluvial system response post-LGM
-* ***Now:*** [Graduate student in Atmospheric Sciences (Colorado State)](https://www.linkedin.com/in/ivy-glade)
-
-#### Josie Welsh (2019-2023)
+#### Josie Welsh (2019–2023, UMN)
 * Bed-load sediment sampler design
 * River-profile analysis along Lake Superior
+* GIS programming for river-network analysis
 * ***Now:*** [Graduate student in Geography (University of Colorado Boulder)](https://www.colorado.edu/geography/josie-welsh)
 
-#### Evan Grove (2018–2019)
+#### Evan Grove (2018–2019, UMN)
 * Undergraduate student researcher (UMN)
 * Design of "thermal stake" for heat-flow and water-flux measurements
 * ***Now:*** [Enginner at Turck USA](https://www.linkedin.com/in/epg)
 
-#### Suyash Handa (2018)
+#### Suyash Handa (2018, Colgate/Columbia)
 * Visiting undergraduate researcher (Colgate College)
 * MEMS accelerometers and geophones for low-cost seismometers
 * ***Now:*** Joint physics (Colgate) and electrical engineering (Columbia) undergraduate student
 
-#### Lauren Michael (2017)
+#### Lauren Michael (2017, Carleton)
 * Visiting undergraduate researcher (Carleton College)
 * Mapping global paleolakes
 
-#### Keenen Francois-King (2017)
+#### Keenen Francois-King (2017, UMN)
 * Undergraduate student researcher (UMN)
 * GPS to measure snow-water equivalent
 
-#### Libby Witte (2016–2017)
+#### Libby Witte (2016–2017, UMN)
 * Undergraduate student researcher (UMN)
 * Experimental fluvial geomorphology
 * ***Now:*** Geologist with Corvis Gold (Nevada)
 
-#### Ethan Kurak (2016–2018)
+#### Ethan Kurak (2016–2018, UMN)
 * [M.S., 2021, Lehigh University](https://ees.cas.lehigh.edu/content/ethan-kurak)
 * Undergraduate student researcher (UMN)
 * River terraces
