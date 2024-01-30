@@ -96,17 +96,6 @@ researchers:
               "
 
 grads:
-  - image_path: /assets/images/headshots/JimmyWood.png
-    alt: "Jimmy Wood"
-    title: "Jimmy Wood"
-    excerpt: "**SIP Researcher**<br/>
-              **Yosemite National Park** (Starting Oct. 2023)<br>
-              M.S. 2023 University of Minnesota<br/>
-              B.S. 2021 (Geology) University of Nebraska Omaha<br/>
-              B.A. 2021 (Physics) University of Nebraska Omaha<br/>
-              *Fluvial geomorphology*<br/>
-              wood1466 [at] umn [dot] edu
-              "
   - image_path: /assets/images/headshots/penprase_2020_square_480px.jpg
     alt: "Shanti Penprase"
     title: "Shanti Penprase"
@@ -130,21 +119,6 @@ grads:
               *Alluvial rivers and the gravel–sand transition*<br/>
               iscen001 [at] umn [dot] edu
               "
-    #url: ""
-    #btn_label: "Homepage"
-    #btn_class: "btn--inverse"
-  - image_path: /assets/images/headshots/TylerFulghum_headshot_320x320.jpg
-    alt: "Tyler Fulghum"
-    title: "Tyler Fulghum"
-    excerpt: "**M.S. Student**<br/>
-              **University of Minnesota**<br>
-              B.S. 2021 Tennessee Technological University<br/>
-              *Open-source multispectral pyranometer characterization*<br/>
-              fulgh019 [at] umn [dot] edu
-              "
-    #url: ""
-    #btn_label: "Homepage"
-    #btn_class: "btn--inverse"
     #url: ""
     #btn_label: "Homepage"
     #btn_class: "btn--inverse"
@@ -460,6 +434,17 @@ animals:
 * ***Now:*** [Design Engineer, Ironwood Electronics](https://www.researchgate.net/profile/Chad_Sandell)
 
 ### Graduate Students
+
+#### Jimmy Wood (2021-2023)
+**MS 2023**
+* Historical geomorphic change of the Whitewater River valley
+* Human&ndash;landscape interactions
+* ***Now*** SIP Researcher at Yosemite National Park
+
+#### Tyler Fulghum (2021-2023)
+**MS Student**
+* Image analysis for flow velocities
+* Solar-radiation measurement and sensor characterization
 
 #### Jabari Jones (2018-2023)
 **PhD, 2023** (UMN)
