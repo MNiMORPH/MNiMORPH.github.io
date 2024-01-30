@@ -45,32 +45,6 @@ faculty:
     btn_class: "btn--inverse"
 
 researchers:
-  - image_path: /assets/images/headshots/HimaHG_480p.png
-    alt: "Hima Hassenruck-Gudipati"
-    title: "Hima Hassenruck-Gudipati"
-    excerpt: "**President's Postdoctoral Research Fellow**<br/>
-              **University of Minnesota**<br>
-              Ph.D. 2021 University of Texas at Austin<br/>
-              B.S. 2014 California Institute of Technology<br/>
-              himahg [at] umn [dot] edu
-              "
-    url: "https://sites.google.com/utexas.edu/hima-hg/"
-    btn_label: "Homepage"
-    btn_class: "btn--inverse"
-  - image_path: /assets/images/headshots/kwang_headshot.jpg
-    alt: "Jeffrey Kwang"
-    title: "Jeffrey Kwang"
-    excerpt: "**NSF Postdoctoral Research Scientist**<br/>
-              **University of Minnesota**<br>
-              Postdoc 2019-2022 University of Massachusetts<br/>
-              Ph.D. 2019 University of Illinois<br/>
-              M.S. 2016 University of Illinois<br/>
-              B.S. 2013 Johns Hopkins University<br/>
-              jeffskwang [at] gmail [dot] com
-              "
-    url: "https://jeffskwang.github.io/"
-    btn_label: "Homepage"
-    btn_class: "btn--inverse"
   - image_path: /assets/images/headshots/bobby_square_320px.png
     alt: "Bobby Schulz"
     title: Bobby Schulz
@@ -355,6 +329,33 @@ visitors:
     #url: ""
     #btn_label: "Homepage"
     #btn_class: "btn--inverse"
+    - image_path: /assets/images/headshots/HimaHG_480p.png
+      alt: "Hima Hassenruck-Gudipati"
+      title: "Hima Hassenruck-Gudipati"
+      excerpt: "**Postdoctoral Research Scientist**<br/>
+                **University of Minnesota**<br/>
+                President's Postdoc, University of Minnesota, 2021-2023<br/>
+                Ph.D. 2021 University of Texas at Austin<br/>
+                B.S. 2014 California Institute of Technology<br/>
+                himahg [at] umn [dot] edu
+                "
+      url: "https://sites.google.com/utexas.edu/hima-hg/"
+      btn_label: "Homepage"
+      btn_class: "btn--inverse"
+    - image_path: /assets/images/headshots/kwang_headshot.jpg
+      alt: "Jeffrey Kwang"
+      title: "Jeffrey Kwang"
+      excerpt: "**Research Scientist, U.S. Geological Survey**<br/>
+                NSF Postdoc 2022-2024 University of Minnesota<br/>
+                Postdoc 2019-2022 University of Massachusetts<br/>
+                Ph.D. 2019 University of Illinois<br/>
+                M.S. 2016 University of Illinois<br/>
+                B.S. 2013 Johns Hopkins University<br/>
+                jeffskwang [at] gmail [dot] com
+                "
+      url: "https://jeffskwang.github.io/"
+      btn_label: "Homepage"
+      btn_class: "btn--inverse"
 
 animals:
   - image_path: /assets/images/headshots/FjordCat.JPG
