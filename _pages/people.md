@@ -134,7 +134,7 @@ grads:
     title: "Abi Fischer"
     excerpt: "**M.S. Student**<br/>
               **Minnesota State University, Mankato**<br>
-              B.A. 2022 (Environmental Geography) University of Wisconsin-Eau Claire<br/>
+              B.A. 2022 University of Wisconsin-Eau Claire<br/>
               *Climatic Geomorphology, GPR*<br/>
               abigail.fischer [at] mnsu [dot] edu
               "
@@ -143,18 +143,31 @@ grads:
     #btn_label: "Homepage"
     #btn_class: "btn--inverse"
   - image_path: /assets/images/headshots/LaaksonenMadeline.jpeg
-    alt: " Madie Laaksonen"
-    title: " Madie Laaksonen"
+    alt: "Madie Laaksonen"
+    title: "Madie Laaksonen"
     excerpt: "**M.S. Student**<br/>
               **Minnesota State University, Mankato**<br>
-              B.S. 2022 (Geology) St. Norbert College<br/>
+              B.S. 2022 St. Norbert College<br/>
               *Fluvial Geomorphology, Quaternary Geology*<br/>
               madeline.laaksonen [at] mnsu [dot] edu
               "
-
-    #url: ""
-    #btn_label: "Homepage"
-    #btn_class: "btn--inverse"
+  - image_path: /assets/images/headshots/SchulbergNaomi.jpeg
+    alt: "Naomi Schulberg"
+    title: "Naomi Schulberg"
+    excerpt: "**Ph.D. Student**<br/>
+              **University of Minnesota**<br>
+              Co-advised by Wickert with primary advisor Dan Griffin<br/>
+              B.S. 2023 Cornell University<br/>
+              *Dendroclimatology*<br/>
+              schu4841 [at] umn [dot] edu
+              "
+  - image_path: /assets/images/headshots/blank.jpg
+    alt: "Jayda Rowen"
+    title: "Jayda Rowen"
+    excerpt: "**M.S. Student**<br/>
+              **Minnesota State University, Mankato**<br>
+              jayda.rowen [at] mnsu [dot] edu
+              "
 
 undergrads:
   - image_path: /assets/images/headshots/Kostermann.jpg
