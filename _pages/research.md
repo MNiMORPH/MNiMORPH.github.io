@@ -65,7 +65,7 @@ Current focal points include:
 * Wickert, A. D., and T. F. Schildgen (2019), [Long-Profile Evolution of Transport-Limited Gravel-Bed Rivers](https://esurf.copernicus.org/articles/7/17/2019/), Earth Surface Dynamics, 7, 17–43, doi:10.5194/esurf-7-17-2019.
 * Donovan, M., Belmont, P., Notebaert, B., Coombs, T., Larson, P.H., Souffront, M. (2019). Accounting for uncertainty in measurements of river channel migration. Earth Science Reviews. https://doi.org/10.1016/j.earscirev.2019.04.009
 * Larson, P.H., Meek, N., Dorn, R.I., Douglass, J., Seong, Y.B., (2016). How Rivers Cross Mountains. Annals of the American Association of Geographers. DOI:  10.1080/24694452.2016.1203283
-* Larson, P.H., Kelley, S., Dorn, R.I., Seong Y.B. (2016). Pace of Landscape Change in the northeastern Sonoran Desert, United States. Annals of the American Association of Geographers. DOI: 10.1080/24694452.2016.1201420 
+* Larson, P.H., Kelley, S., Dorn, R.I., Seong Y.B. (2016). Pace of Landscape Change in the northeastern Sonoran Desert, United States. Annals of the American Association of Geographers. DOI: 10.1080/24694452.2016.1201420
 * Faulkner, D., Larson, P.H., Jol, H.M., Running, G.L., Loope, H.M., and Goble, R.J. (2016). Episodic Incision and Terrace Formation Resulting from Abrupt Late-Glacial Base-Level Fall, Lower Chippewa River, Wisconsin, USA. Geomorphology. 266: 75-95.  DOI:10.1016/j.geomorph.2016.04.016
 * Larson, P.H., Dorn, R.I., Faulkner, D.J, Friend, D.A. (2015). Toe-Cut Terraces: A Review and Criteria to Differentiate from Traditional Fluvial Terraces. Progress in Physical Geography. DOI: 10.1177/0309133315582045.
 * Larson, P.H. and Dorn, R.I. (2014). Strath Development in Small Arid Watersheds: Case Study of South Mountain, Sonoran Desert, Arizona. American Journal of Science. 314: 1202-1223.    
@@ -117,7 +117,7 @@ We use these approaches together to reconstruct past landscapes and environments
 * Tofelde, S., T. F. Schildgen, S. Savi, H. Pingel, A. D. Wickert, B. Bookhagen, H. Wittmann, R. N. Alonso, J. Cottle, and M. R. Strecker (2017), [100 kyr fluvial cut-and-fill terrace cycles since the Middle Pleistocene in the southern Central Andes, NW Argentina](https://www.sciencedirect.com/science/article/pii/S0012821X17303102), Earth Planet. Sci. Lett., 473, 141–153, doi:10.1016/j.epsl.2017.06.001.
 * Wickert, A. D., R. S. Anderson, J. X. Mitrovica, S. Naylor and E. C. Carson (2019a), [The Mississippi River records glacial-isostatic deformation of North America](https://advances.sciencemag.org/content/5/1/eaav2366), Science Advances, 5(1), eaav2366, doi:10.1126/sciadv.aav2366.
 * Wickert, A. D. (2016b), [Reconstruction of North American drainage basins and river discharge since the Last Glacial Maximum](https://esurf.copernicus.org/articles/4/831/2016/), Earth Surface Dynamics, 4(4), 831–869, doi:10.5194/esurf-4-831-2016.
-* Faulkner, D., Larson, P.H., Jol, H.M., Running, G.L., Loope, H.M., and Goble, R.J. (2016). Episodic Incision and Terrace Formation Resulting from Abrupt Late-Glacial Base-Level Fall, Lower Chippewa River, Wisconsin, USA. Geomorphology. 266: 75-95.  DOI:10.1016/j.geomorph.2016.04.016 
+* Faulkner, D., Larson, P.H., Jol, H.M., Running, G.L., Loope, H.M., and Goble, R.J. (2016). Episodic Incision and Terrace Formation Resulting from Abrupt Late-Glacial Base-Level Fall, Lower Chippewa River, Wisconsin, USA. Geomorphology. 266: 75-95.  DOI:10.1016/j.geomorph.2016.04.016
 * Wickert, A. D., J. X. Mitrovica, C. Williams, and R. S. Anderson (2013), [Gradual demise of a thin southern Laurentide ice sheet recorded by Mississippi drainage](https://www.nature.com/articles/nature12609), Nature, 502(7473), pp. 668–671, doi:10.1038/nature12609.
 
 ### Additional Relevant Publications
@@ -189,7 +189,7 @@ We design and build open-source sensors and data loggers to monitor the environm
 * [Northern Widget GitHub](https://github.com/NorthernWidget)
 * [Northern Widget Skunkworks GitHub](https://github.com/NorthernWidget-Skunkworks)
 
-<img align="right" src="https://raw.githubusercontent.com/NorthernWidget-Skunkworks/Project-Margay/master/Documentation/images/MargayAndyHand_cropped_2020-02-16_19.22.39.png" alt="Margay v2.2 data logger" width="480px">
+<img align="right" src="https://media.githubusercontent.com/media/NorthernWidget/Project-Margay/master/Documentation/images/MargayAndyHand_cropped_2020-02-16_19.22.39.png" alt="Margay v2.2 data logger" width="480px">
 
 ### Key Personnel
 
