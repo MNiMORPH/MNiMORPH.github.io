@@ -179,6 +179,15 @@ undergrads:
               *Sediment core description*<br/>
               wilwe020 [at] umn [dot] edu
               "
+  - image_path: /assets/images/headshots/blank.jpg
+    alt: "Jayva Jordan"
+    title: "Jayva Jordan"
+    excerpt: "**Undergraduate Researcher**<br/>
+              **University of Minnesota**<br>
+              *Bedrock erosion*<br/>
+              *Paleolakes*<br/>
+              jorda900 [at] umn [dot] edu
+              "
 
 visitors:
   - image_path: /assets/images/headshots/EricBarefoot_480p.png
