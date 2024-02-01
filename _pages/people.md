@@ -7,7 +7,8 @@ header:
   overlay_filter: "0.5"
   overlay_image: assets/images/banners/2018-06-20 15.38.58_modified_Terrace_Diamond.jpg
   caption: "Pleistocene braided-river bars cross farmfields on the Last Glacial Maximum terrace of the Mississippi River, looking towards Diamond Bluff, Wisconsin. The modern Mississippi lies hidden, tucked 30-40 meters below the terrace at the edge of the dolostone cliff. *Photo: A. Wickert*"
-excerpt: "Research group members"
+excerpt: "Research group members<br/>
+          & friend-colleagues"
 
 #intro:
 #  - excerpt: "On June 6, 2012, a group of friends on St. Paul's east side gathered with a mission to build build hardware, firmware, and software to help anyone, anywhere, measure the environment around them. We are passionate about water resources, international development, scientific advances, and technology. Since that time, we have spent nights, weekends, and scattered pockets of time to build a suite of quality data loggers, sensors, and tools. All of our designs are open source, and our philosophy is first and foremost to improve global access to foundational environmental data."
