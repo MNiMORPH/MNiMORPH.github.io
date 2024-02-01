@@ -171,15 +171,6 @@ grads:
               "
 
 undergrads:
-  - image_path: /assets/images/headshots/Kostermann.jpg
-    alt: "Katia Ostermann"
-    title: "Katia Ostermann"
-    excerpt: "**Undergraduate Researcher**<br/>
-              **Minnesota State University, Mankato**<br/>
-              *Drainage-basin evolution*<br/>
-              *Minnesota River valley*<br/>
-              Katia.Ostermann [at] mnsu [dot] edu
-              "
   - image_path: /assets/images/headshots/AbbyWilwerding.jpg
     alt: "Abby Wilwerding"
     title: "Abby Wilwerding"
@@ -479,16 +470,9 @@ animals:
 
 ### Undergraduate Students
 
-#### Campbell Dunn (2021–2023, UW–Madison)
-* Code development for drainage and depression networks
-* Shallow seismic acquistion and analysis
-* Field augering, hammering, muscle-ing
-* ***Now:*** MS Student in Glaciology, University of Wisconsin–Madison
-
-#### Peter Mitchell (2020–2023, UMN)
-* River-terrace mapping
-* Code development to characterize valleys and networks
-* Evolution of the Zumbro River valley
+#### Katia Ostermann (2022–2023, MNSU Mankato)
+* Drainage-basin evolution
+* Minnesota River valley
 
 #### Anna Gonzalez (2022–2023, UMN)
 * GIS and grain-size data
@@ -503,6 +487,17 @@ animals:
 
 #### Kacie Malone (2022, UMN)
 * Solar-radiation sensor characterization
+
+#### Campbell Dunn (2021–2023, UW–Madison)
+* Code development for drainage and depression networks
+* Shallow seismic acquistion and analysis
+* Field augering, hammering, muscle-ing
+* ***Now:*** MS Student in Glaciology, University of Wisconsin–Madison
+
+#### Peter Mitchell (2020–2023, UMN)
+* River-terrace mapping
+* Code development to characterize valleys and networks
+* Evolution of the Zumbro River valley
 
 #### Ivy Glade (2021, MNSU Mankato)
 * Undergraduate student researcher (Minnesota State)
