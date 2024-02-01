@@ -12,7 +12,7 @@ header:
   #  - label: "Get started"
   #    url: "/awtest/"
   caption: "Experiments help us to understand and predict the complex interactions between water, sediment, and the surrounding landscape that shape tributary junctions. [Interested? Read Savi et al., 2020](https://esurf.copernicus.org/articles/8/303/2020/). *Photo: A. Wickert*"
-excerpt: "Facilities<br/>Broad goals<br/>Information if you are considering joining us<br/>"
+excerpt: "Facilities<br/>Broad goals<br/>Information if you are considering joining us"
 ---
 
 # Current searches

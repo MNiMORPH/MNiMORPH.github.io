@@ -11,7 +11,7 @@ header:
   #  - label: "Get started"
   #    url: "/awtest/"
   caption: "Sediment, rock, and water combine to shape Earth's surface. Northwestern Argentina. *Photo: A. Wickert*"
-excerpt: Minnesotans Mulling over Rivers, Particles, & Hillslopes<br />
+excerpt: Minnesotans Mulling over Rivers, Particles, & Hillslopes
 ---
 
 ## Our Work and Goals

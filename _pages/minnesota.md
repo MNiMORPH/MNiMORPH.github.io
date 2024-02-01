@@ -11,10 +11,10 @@ header:
   #  - label: "Get started"
   #    url: "/awtest/"
   caption: "Northeastern Minnesota in early October; view from Eagle Mountain. *Photo: A. Wickert*"
-excerpt: Archean to Proterozoic craton<br />
-         Sculpted by glaciers<br />
-         Experiencing human-induced environmental change<br />
-         Covered in lakes, forests, streams, hills, prairies, & mosquitoes<br />
+excerpt: Archean to Proterozoic craton<br/>
+         Sculpted by glaciers<br/>
+         Experiencing human-induced environmental change<br/>
+         Covered in lakes, forests, streams, hills, prairies, & mosquitoes
 #         <small>Environmental sensors and data loggers.</small>
 ---
 

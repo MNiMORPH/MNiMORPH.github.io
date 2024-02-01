@@ -15,7 +15,7 @@ header:
 excerpt: "Fluvial geomorphology<br/>
           Glaciers and sea level<br/>
           Water in the environment<br/>
-          Open-source environmental sensing<br/>"
+          Open-source environmental sensing"
 ---
 
 # Research
