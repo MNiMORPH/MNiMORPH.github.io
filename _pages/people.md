@@ -282,7 +282,7 @@ visitors:
     title: "Dan Griffin"
     excerpt: "**Associate Professor**<br/>
               **University of Minnesota**<br/>
-              Postdoc 2019–2022 University of Massachusetts<br/>
+              Postdoc 2013–2014 University of Arizona<br/>
               Ph.D. 2013 University of Arizona<br/>
               M.A. University of Arkansas<br/>
               B.S. University of Arkansas<br/>
