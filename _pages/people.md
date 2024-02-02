@@ -179,7 +179,7 @@ undergrads:
               *Sediment core description*<br/>
               wilwe020 [at] umn [dot] edu
               "
-  - image_path: /assets/images/headshots/blank.jpg
+  - image_path: /assets/images/headshots/Jayva480px.jpg
     alt: "Jayva Jordan"
     title: "Jayva Jordan"
     excerpt: "**Undergraduate Researcher**<br/>
