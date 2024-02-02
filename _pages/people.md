@@ -265,7 +265,8 @@ visitors:
   - image_path: /assets/images/headshots/kwang_headshot.jpg
     alt: "Jeffrey Kwang"
     title: "Jeffrey Kwang"
-    excerpt: "**Research Scientist, U.S. Geological Survey**<br/>
+    excerpt: "**Research Scientist<br/>**
+              **U.S. Geological Survey**<br/>
               NSF Postdoc 2022–2024 University of Minnesota<br/>
               Postdoc 2019–2022 University of Massachusetts<br/>
               Ph.D. 2019 University of Illinois<br/>
@@ -274,6 +275,20 @@ visitors:
               jeffskwang [at] gmail [dot] com
               "
     url: "https://jeffskwang.github.io/"
+    btn_label: "Homepage"
+    btn_class: "btn--inverse"
+  - image_path: /assets/images/headshots/griffin9.jpg
+    alt: "Dan Griffin"
+    title: "Dan Griffin"
+    excerpt: "**Associate Professor**<br/>
+              **University of Minnesota**<br/>
+              Postdoc 2019–2022 University of Massachusetts<br/>
+              Ph.D. 2013 University of Arizona<br/>
+              M.A. University of Arkansas<br/>
+              B.S. University of Arkansas<br/>
+              griffin9 [at] umn [dot] edu
+              "
+    url: "https://cla.umn.edu/about/directory/profile/griffin9/"
     btn_label: "Homepage"
     btn_class: "btn--inverse"
 
