@@ -59,6 +59,14 @@ researchers:
     #url: ""
     #btn_label: "Homepage"
     #btn_class: "btn--inverse"
+  - image_path: /assets/images/headshots/blank.jpg
+    alt: "Jesse Schewe"
+    title: Jesse Schewe
+    excerpt: "**Research Professional & Lab Manager**<br/>
+              B.S. 2021 University of Minnesota<br/>
+              *Environmental instrumentation*<br/>
+              schewe [at] umn [dot] edu
+              "
 
 grads:
   - image_path: /assets/images/headshots/penprase_2020_square_480px.jpg
@@ -282,7 +290,7 @@ visitors:
     title: "Dan Griffin"
     excerpt: "**Associate Professor**<br/>
               **University of Minnesota**<br/>
-              Postdoc 2013–2014 University of Arizona<br/>
+              NOAA CGC Postdoc 2013–2014 Woods Hole Oceanographic Institution<br/>
               Ph.D. 2013 University of Arizona<br/>
               M.A. University of Arkansas<br/>
               B.S. University of Arkansas<br/>
@@ -319,7 +327,7 @@ animals:
 
 {% include feature_row id="faculty" %}
 
-## Postdocs and Researchers
+## Postdocs, Researchers, and Staff
 
 {% include feature_row id="researchers" %}
 
