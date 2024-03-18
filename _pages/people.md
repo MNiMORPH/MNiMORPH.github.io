@@ -156,7 +156,7 @@ grads:
     title: "Madie Laaksonen"
     excerpt: "**M.S. Student**<br/>
               **Minnesota State University, Mankato**<br>
-              B.S. 2022 St. Norbert College<br/>
+              B.S. 2022 (Geology) St. Norbert College<br/>
               *Fluvial Geomorphology, Quaternary Geology*<br/>
               madeline.laaksonen [at] mnsu [dot] edu
               "
@@ -170,11 +170,13 @@ grads:
               *Dendroclimatology*<br/>
               schu4841 [at] umn [dot] edu
               "
-  - image_path: /assets/images/headshots/blank.jpg
+  - image_path: /assets/images/headshots/Jayda.jpg
     alt: "Jayda Rowen"
     title: "Jayda Rowen"
     excerpt: "**M.S. Student**<br/>
               **Minnesota State University, Mankato**<br>
+              B.S. 2023 (Earth Science) Minnesota State University, Mankato<br>
+              *Geomorphology/Landscape Evolution, Quaternary Geology*<br>
               jayda.rowen [at] mnsu [dot] edu
               "
 
@@ -196,7 +198,15 @@ undergrads:
               *Paleolakes*<br/>
               jorda900 [at] umn [dot] edu
               "
-
+  - image_path: /assets/images/headshots/Gabe.jpg
+    alt: "Gabe Senf"
+    title: "Gabe Senf"
+    excerpt: "**Undergraduate Researcher**<br/>
+              **Minnesota State University, Mankato**<br>
+              *Aeolian processes/Paleoenvironmental Change*<br/>
+              *Surface water/Fluvial geomorphology*<br/>
+              gabriel [dot] senf [at] mnsu [dot] edu
+              "
 visitors:
   - image_path: /assets/images/headshots/EricBarefoot_480p.png
     alt: "Eric Barefoot"
@@ -478,7 +488,7 @@ animals:
 #### Dr. Zach Hilgendorf (2015–2018, MNSU Mankato)
 * **MS, 2018** (Minnesota State; co-advised with Bryce Hoppie)
 * The Efficacy of Best Management Practices on Peak Discharge and Contaminant Loads in Agricultural Drainage Systems, Blue Earth River Watershed, South-Central Minnesota, USA.
-* ***Now:*** [PhD Student, Arizona State University](https://isearch.asu.edu/profile/3271300)
+* ***Now:*** [Assistant Professor, University of Wisconsin-Eau Claire)
 
 #### Devon Libby (2014–2018, MNSU Mankato)
 * **MS, 2018** (Minnesota State)
