@@ -177,7 +177,7 @@ grads:
     excerpt: "**Ph.D. Student**<br/>
               **University of Minnesota**<br>
               B.A. 2024 Boston University<br/>
-              *River discharge, flooding, wetlands<br/>
+              *River discharge, flooding, wetlands*<br/>
               ashra061 [at] umn [dot] edu
               "
 
