@@ -179,6 +179,15 @@ grads:
               *Geomorphology/Landscape Evolution, Quaternary Geology*<br>
               jayda.rowen [at] mnsu [dot] edu
               "
+  - image_path: /assets/images/headshots/AshraniUma.jpeg
+    alt: "Uma Ashrani"
+    title: "Uma Ashrani"
+    excerpt: "**Ph.D. Student**<br/>
+              **University of Minnesota**<br>
+              B.A. 2024 Boston University<br/>
+              *River discharge, flooding, wetlands<br/>
+              ashra061 [at] umn [dot] edu
+              "
 
 undergrads:
   - image_path: /assets/images/headshots/AbbyWilwerding.jpg
