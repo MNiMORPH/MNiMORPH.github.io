@@ -59,14 +59,6 @@ researchers:
     #url: ""
     #btn_label: "Homepage"
     #btn_class: "btn--inverse"
-  - image_path: /assets/images/headshots/blank.jpg
-    alt: "Jesse Schewe"
-    title: Jesse Schewe
-    excerpt: "**Research Professional & Lab Manager**<br/>
-              B.S. 2021 University of Minnesota<br/>
-              *Environmental instrumentation*<br/>
-              schewe [at] umn [dot] edu
-              "
 
 grads:
   - image_path: /assets/images/headshots/penprase_2020_square_480px.jpg
@@ -555,11 +547,11 @@ animals:
 * Climate and fluvial system response post-LGM
 * ***Now:*** [Graduate student in Atmospheric Sciences (Colorado State)](https://www.linkedin.com/in/ivy-glade)
 
-#### Jesse Schewe (2020–2022, UMN)
+#### Jesse Schewe (2020–2022, 2023–2024 UMN)
 * Undergraduate student researcher (UMN, work with both Wickert and Larson)
 * Geomorphic evolution and LiDAR topography of the St. Croix River valley
 * Field small-engine specialist and all-around scientist
-* ***Now:*** [Staff Professional at Antea Group USA](https://www.linkedin.com/in/jesse-schewe-87a23319a/)
+* Lab manager and coordinator (2024)
 
 #### Josie Welsh (2019–2023, UMN)
 * Bed-load sediment sampler design
