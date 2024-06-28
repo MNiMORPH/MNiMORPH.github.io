@@ -46,6 +46,20 @@ faculty:
     btn_class: "btn--inverse"
 
 researchers:
+  - image_path: /assets/images/headshots/MarggrafJessica.jpg
+    alt: "Jessica Marggraf"
+    title: Jessica Marggraf
+    excerpt: "**Postdoctoral Research Scientist**<br/>
+              Doctorate 2024 Université Claude-Bernard-Lyon-I<br/>
+              M.S. 2020 Université de Strasbourg<br/>
+              B.S. 2018 Albert-Ludwigs-Universität Freiburg im Breisgau<br/>
+              *Bedrock-river evolution*<br/>
+              jmarggra [at] umn [dot] edu
+              "
+    #url: ""
+    #btn_label: "Homepage"
+    #btn_class: "btn--inverse"
+
   - image_path: /assets/images/headshots/bobby_square_320px.png
     alt: "Bobby Schulz"
     title: Bobby Schulz
