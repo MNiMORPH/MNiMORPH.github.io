@@ -402,7 +402,7 @@ animals:
 
 #### Bobby Schulz (2016–2018, UMN)
 * Open-source instrumentation development
-* *For more information, see "Graduate Students"*
+* *For more information, see "Postdocs, Researchers, and Staff"*
 
 #### Chad Sandell (2016–2018, UMN)
 * **Research specialist:** Lab engineer
