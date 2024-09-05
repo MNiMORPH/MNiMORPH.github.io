@@ -74,20 +74,22 @@ researchers:
     #btn_label: "Homepage"
     #btn_class: "btn--inverse"
 
-grads:
   - image_path: /assets/images/headshots/penprase_2020_square_480px.jpg
     alt: "Shanti Penprase"
     title: "Shanti Penprase"
-    excerpt: "**Ph.D. Candidate**<br/>
+    excerpt: "**Postdoctoral Research Scientist**<br/>
+              ***Dartmouth College***<br/>
+              *Through Oct. 2024: Research Scientist, UMN*<br/>
+              Ph.D. 2024 University of Minnesota<br/>
               B.A. 2016 Carleton College<br/>
-              *Glacier–river interactions<br/>
-              *Quaternary geochronology*<br/>
+              *Quaternary environments & landscape change*<br/>
               penpr001 [at] umn [dot] edu
               "
     url: "https://spenprase.github.io"
     btn_label: "Homepage"
     btn_class: "btn--inverse"
 
+grads:
   - image_path: /assets/images/headshots/iscen2022.jpg
     alt: "Nilay İşcen"
     title: "Nilay İşcen"
