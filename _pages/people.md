@@ -607,7 +607,7 @@ animals:
 #### Dr. Beth Fisher (2017–2019, UMN)
 * Friendly Neighborhood Scientist (UMN)
 * *Research with our group:* Environmental instrumentation
-* ***Now:*** [Assistant Professor, Department of Chemistry and Geology, Minnesota State University, Mankato](https://cset.mnsu.edu/departments/chemistry-and-geology/faculty-and-staff/beth-fisher/)
+* ***Now:*** [Associate Professor, Department of Chemistry and Geology, Minnesota State University, Mankato](https://cset.mnsu.edu/departments/chemistry-and-geology/faculty-and-staff/beth-fisher/)
 
 #### Dr. Sara Savi (2015, UMN)
 * Visiting postdoctoral research scientist from (Universität Potsdam)
