@@ -118,32 +118,6 @@ grads:
     #url: ""
     #btn_label: "Homepage"
     #btn_class: "btn--inverse"
-  - image_path: /assets/images/headshots/hunter.jpg
-    alt: "Hunter Delikowski"
-    title: "Hunter Delikowski"
-    excerpt: "**M.S. Student**<br/>
-              **Minnesota State University, Mankato**<br>
-              B.A. 2021 (Geology) University of Wisconsin-Eau Claire<br/>
-              B.A. 2021 (Environmental Geography) University of Wisconsin-Eau Claire<br/>
-              *Fluvial geomorphology, Quaternary geology*<br/>
-              hunter.delikowski [at] mnsu [dot] edu
-    "
-    #url: ""
-    #btn_label: "Homepage"
-    #btn_class: "btn--inverse"
-  - image_path: /assets/images/headshots/Abi.jpg
-    alt: "Abi Fischer"
-    title: "Abi Fischer"
-    excerpt: "**M.S. Student**<br/>
-              **Minnesota State University, Mankato**<br>
-              B.A. 2022 University of Wisconsin-Eau Claire<br/>
-              *Climatic Geomorphology, GPR*<br/>
-              abigail.fischer [at] mnsu [dot] edu
-              "
-
-    #url: ""
-    #btn_label: "Homepage"
-    #btn_class: "btn--inverse"
   - image_path: /assets/images/headshots/LaaksonenMadeline.jpeg
     alt: "Madie Laaksonen"
     title: "Madie Laaksonen"
@@ -403,6 +377,16 @@ animals:
 * ***Now:*** [Design Engineer, Ironwood Electronics](https://www.researchgate.net/profile/Chad_Sandell)
 
 ### Graduate Students
+
+#### Hunter Delikowski (2022--2025, MNSU Mankato)
+**MS 2025**
+* Geomorphic evolution of the St. Croix River valley
+* Quaternary geochronology
+
+#### Abi Fischer (2022--2024, MNSU Mankato)
+**MS 2024**
+* Geomorphology of glacial outburst floods
+* Quaternary geochronology
 
 #### Shanti Penprase (2018--2024, UMN)
 **PhD 2024**
