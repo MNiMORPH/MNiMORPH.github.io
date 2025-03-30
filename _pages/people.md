@@ -234,19 +234,6 @@ visitors:
               B.S. 2015 University of Wisconsin-Eau Claire<br/>
               hilgenzt [at] uwec [dot] edu
               "
-  - image_path: /assets/images/headshots/HimaHG_480p.png
-    alt: "Hima Hassenruck-Gudipati"
-    title: "Hima Hassenruck-Gudipati"
-    excerpt: "**Postdoctoral Research Scientist**<br/>
-              **University of Minnesota**<br/>
-              President's Postdoc, University of Minnesota, 2021–2023<br/>
-              Ph.D. 2021 University of Texas at Austin<br/>
-              B.S. 2014 California Institute of Technology<br/>
-              himahg [at] umn [dot] edu
-              "
-    url: "https://sites.google.com/utexas.edu/hima-hg/"
-    btn_label: "Homepage"
-    btn_class: "btn--inverse"
   - image_path: /assets/images/headshots/kwang_headshot.jpg
     alt: "Jeffrey Kwang"
     title: "Jeffrey Kwang"
@@ -344,7 +331,7 @@ animals:
 #### Dr. Hima Hassenruck-Gudipati (2021–2023, UMN)
 **President's Postdoctoral research scientist**
 * Sedimentation in wild-rice lakes
-* ***Now:*** Postdoctoral Research Scientist, Ng Group, University of Minnesota
+* ***Now:*** Assistant Professor, Southern Oregon University
 
 #### Dr. Eric Barefoot (2021–2022, UMN)
 **Postdoctoral research scientist**
