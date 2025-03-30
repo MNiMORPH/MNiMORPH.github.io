@@ -157,23 +157,6 @@ grads:
               "
 
 undergrads:
-  - image_path: /assets/images/headshots/AbbyWilwerding.jpg
-    alt: "Abby Wilwerding"
-    title: "Abby Wilwerding"
-    excerpt: "**Undergraduate Researcher**<br/>
-              **University of Minnesota**<br/>
-              *Sediment core description*<br/>
-              wilwe020 [at] umn [dot] edu
-              "
-  - image_path: /assets/images/headshots/Jayva480px.jpg
-    alt: "Jayva Jordan"
-    title: "Jayva Jordan"
-    excerpt: "**Undergraduate Researcher**<br/>
-              **University of Minnesota**<br>
-              *Bedrock erosion*<br/>
-              *Paleolakes*<br/>
-              jorda900 [at] umn [dot] edu
-              "
   - image_path: /assets/images/headshots/Gabe.jpg
     alt: "Gabe Senf"
     title: "Gabe Senf"
@@ -182,6 +165,14 @@ undergrads:
               *Aeolian processes/Paleoenvironmental Change*<br/>
               *Surface water/Fluvial geomorphology*<br/>
               gabriel [dot] senf [at] mnsu [dot] edu
+              "
+  - image_path: /assets/images/headshots/blank.jpg
+    alt: "Mei Abraham"
+    title: "Mei Abraham"
+    excerpt: "**Undergraduate Researcher**<br/>
+              **University of Minnesota**<br/>
+              *Channel and floodplain geomorphology*<br/>
+              abrah760 [at] umn [dot] edu
               "
 visitors:
   - image_path: /assets/images/headshots/EricBarefoot_480p.png
@@ -509,6 +500,14 @@ animals:
 * ***Now:*** [John Wood Group PLC](https://www.woodplc.com/)
 
 ### Undergraduate Students
+
+#### Abby Wilwerding (2023–2024, UMN)
+* Deglacial slackwater deposits
+* Sediment-core description
+
+#### Jayva Jordan (2023–2024, UMN)
+* Bedrock erosion
+* Paleolakes
 
 #### Katia Ostermann (2022–2023, MNSU Mankato)
 * Drainage-basin evolution
