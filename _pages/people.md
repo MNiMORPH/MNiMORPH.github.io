@@ -172,6 +172,7 @@ undergrads:
     excerpt: "**Undergraduate Researcher**<br/>
               **University of Minnesota**<br/>
               *Channel and floodplain geomorphology*<br/>
+              *Soil and carbon dynamics*<br/>
               abrah760 [at] umn [dot] edu
               "
 visitors:
