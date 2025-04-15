@@ -166,7 +166,7 @@ undergrads:
               *Surface water/Fluvial geomorphology*<br/>
               gabriel [dot] senf [at] mnsu [dot] edu
               "
-  - image_path: /assets/images/headshots/blank.jpg
+  - image_path: /assets/images/headshots/MeiAbraham_IMG_3177.jpg
     alt: "Mei Abraham"
     title: "Mei Abraham"
     excerpt: "**Undergraduate Researcher**<br/>
