@@ -175,6 +175,17 @@ undergrads:
               *Soil and carbon dynamics*<br/>
               abrah760 [at] umn [dot] edu
               "
+  - image_path: /assets/images/headshots/AlidaJohnson.png
+    alt: "Alida Johnson"
+    title: "Alida Johnson"
+    excerpt: "**Undergraduate Researcher**<br/>
+              **University of Minnesota**<br/>
+              *Bedrock-river erosion*<br/>
+              joh21774 [at] umn [dot] edu
+              "
+visitors:
+
+
 visitors:
   - image_path: /assets/images/headshots/EricBarefoot_480p.png
     alt: "Eric Barefoot"
