@@ -183,6 +183,15 @@ undergrads:
               *Bedrock-river erosion*<br/>
               joh21774 [at] umn [dot] edu
               "
+  - image_path: /assets/images/headshots/HenryEngland.jpg
+    alt: "Henry England"
+    title: "Henry England"
+    excerpt: "**Undergraduate Researcher**<br/>
+              **Minnesota State University, Mankato**<br/>
+              *Geoarcheology, Anthropogenic Geomorphology, Soil Science/Soil Magnetism*<br/>
+              Hendrick.England [at] mnsu [dot] edu
+              "
+
 visitors:
 
 
