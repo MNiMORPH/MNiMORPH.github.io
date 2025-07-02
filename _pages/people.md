@@ -123,7 +123,7 @@ grads:
     title: "Madie Laaksonen"
     excerpt: "**M.S. Student**<br/>
               **Minnesota State University, Mankato**<br>
-              B.S. 2022 (Geology) St. Norbert College<br/>
+              B.S. 2022 St. Norbert College<br/>
               *Fluvial Geomorphology, Quaternary Geology*<br/>
               madeline.laaksonen [at] mnsu [dot] edu
               "
@@ -142,7 +142,7 @@ grads:
     title: "Jayda Rowen"
     excerpt: "**M.S. Student**<br/>
               **Minnesota State University, Mankato**<br>
-              B.S. 2023 (Earth Science) Minnesota State University, Mankato<br>
+              B.S. 2023 Minnesota State University, Mankato<br>
               *Geomorphology/Landscape Evolution, Quaternary Geology*<br>
               jayda.rowen [at] mnsu [dot] edu
               "
@@ -154,6 +154,15 @@ grads:
               B.A. 2024 Boston University<br/>
               *River discharge, flooding, wetlands*<br/>
               ashra061 [at] umn [dot] edu
+              "
+  - image_path: /assets/images/headshots/EmmaTrettin.jpg
+    alt: "Emma Trettin"
+    title: "Emma Trettin"
+    excerpt: "**M.S. Student**<br/>
+              **Minnesota State University, Mankato**<br>
+              B.S. 2023 University of Wisconsin, La Crosse<br>
+              *Fluvial geomorphology, stream-channel dynamics*<br>
+              emma.trettin [at] mnsu [dot] edu
               "
 
 undergrads:
