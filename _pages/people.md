@@ -60,20 +60,6 @@ researchers:
     #btn_label: "Homepage"
     #btn_class: "btn--inverse"
 
-  - image_path: /assets/images/headshots/bobby_square_320px.png
-    alt: "Bobby Schulz"
-    title: Bobby Schulz
-    excerpt: "**Research Engineer**<br/>
-              ***G.E.M.S. Agroinformatics***<br/>
-              M.S. 2021 University of Minnesota<br/>
-              B.S. 2017 University of Minnesota<br/>
-              *Environmental instrumentation*<br/>
-              schu3119 [at] umn [dot] edu
-              "
-    #url: ""
-    #btn_label: "Homepage"
-    #btn_class: "btn--inverse"
-
   - image_path: /assets/images/headshots/justin.jpg
     alt: "Justin Nghiem"
     title: Justin Nghiem
@@ -103,21 +89,6 @@ grads:
     #url: ""
     #btn_label: "Homepage"
     #btn_class: "btn--inverse"
-  - image_path: /assets/images/headshots/ChenXiating_square.jpeg
-    alt: "Xiating Chen"
-    title: "Xiating Chen"
-    excerpt: "**Collaborating Ph.D. Candidate**<br/>
-              **University of Minnesota**<br/>
-              ***Civil, Environmental, and Geo-engineering***<br/>
-              Advisor: Xue Feng<br/>
-              B.S.E. 2017 Duke University<br/>
-              *Ecohydrology of urban green infrastructure*<br/>
-              *Open-source environmental sensing system for urban trees*<br/>
-              chen7090 [at] umn [dot] edu
-              "
-    #url: ""
-    #btn_label: "Homepage"
-    #btn_class: "btn--inverse"
   - image_path: /assets/images/headshots/Ruby.jpg
     alt: "Andreas Ruby"
     title: "Andreas Ruby"
@@ -132,25 +103,6 @@ grads:
     #url: ""
     #btn_label: "Homepage"
     #btn_class: "btn--inverse"
-  - image_path: /assets/images/headshots/LaaksonenMadeline.jpeg
-    alt: "Madie Laaksonen"
-    title: "Madie Laaksonen"
-    excerpt: "**M.S. Student**<br/>
-              **Minnesota State University, Mankato**<br>
-              B.S. 2022 St. Norbert College<br/>
-              *Fluvial Geomorphology, Quaternary Geology*<br/>
-              madeline.laaksonen [at] mnsu [dot] edu
-              "
-  - image_path: /assets/images/headshots/SchulbergNaomi.jpeg
-    alt: "Naomi Schulberg"
-    title: "Naomi Schulberg"
-    excerpt: "**Ph.D. Student**<br/>
-              **University of Minnesota**<br>
-              Co-advised by Wickert with primary advisor Dan Griffin<br/>
-              B.S. 2023 Cornell University<br/>
-              *Dendroclimatology*<br/>
-              schu4841 [at] umn [dot] edu
-              "
   - image_path: /assets/images/headshots/Jayda.jpg
     alt: "Jayda Rowen"
     title: "Jayda Rowen"
@@ -198,14 +150,6 @@ undergrads:
               *Soil and carbon dynamics*<br/>
               abrah760 [at] umn [dot] edu
               "
-  - image_path: /assets/images/headshots/AlidaJohnson.png
-    alt: "Alida Johnson"
-    title: "Alida Johnson"
-    excerpt: "**Undergraduate Researcher**<br/>
-              **University of Minnesota**<br/>
-              *Bedrock-river erosion*<br/>
-              joh21774 [at] umn [dot] edu
-              "
   - image_path: /assets/images/headshots/HenryEngland.jpg
     alt: "Henry England"
     title: "Henry England"
@@ -214,9 +158,6 @@ undergrads:
               *Geoarcheology, Anthropogenic Geomorphology, Soil Science/Soil Magnetism*<br/>
               Hendrick.England [at] mnsu [dot] edu
               "
-
-visitors:
-
 
 visitors:
   - image_path: /assets/images/headshots/EricBarefoot_480p.png
@@ -400,6 +341,21 @@ animals:
 
 ### Graduate Students
 
+#### Naomi Schulberg (2023–2025, UMN)
+**PhD Student** (Advisor: Prof. Daniel Griffin)
+* Co-advisee for first two years of PhD program
+* Dendroclimatology
+
+#### Xiating Chen (2020–2025, UMN)
+**PhD 2025** (Advisor: Prof. Xue Feng)
+* Collaboration in instrumentation for ecohydrology
+* Urban stormwater and hydrology
+
+#### Madie Laaksonen (2023–2025, MNSU Mankato)
+**MS 2025**
+* Deglacial evolution of the Brule Spillway and Lake Superior
+* Quaternary geology and geomorphology
+
 #### Hunter Delikowski (2022--2025, MNSU Mankato)
 **MS 2025**
 * Geomorphic evolution of the St. Croix River valley
@@ -447,7 +403,7 @@ animals:
 * Glaciology
 * ***Now:*** [Assistant Professor, University of Cambridge](https://www.maxgeohub.com)
 
-#### Bobby Schulz (2018–2021, UMN)
+#### Bobby Schulz (2018–2021, 2024–2025 UMN)
 **MS, 2021** (UMN)
 * Development of a series of open-source data loggers
 * ***Since 2019:*** Hardware development lead for [GEMS IoT](https://agroinformatics.org/about-us/)
@@ -531,6 +487,10 @@ animals:
 * ***Now:*** [John Wood Group PLC](https://www.woodplc.com/)
 
 ### Undergraduate Students
+
+#### Alida Johnson (2025, UMN)
+* Bedrock erosion
+* Field work and image-based fracture mapping
 
 #### Abby Wilwerding (2023–2024, UMN)
 * Deglacial slackwater deposits
