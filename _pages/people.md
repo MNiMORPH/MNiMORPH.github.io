@@ -74,6 +74,20 @@ researchers:
     #btn_label: "Homepage"
     #btn_class: "btn--inverse"
 
+  - image_path: /assets/images/headshots/justin.jpg
+    alt: "Justin Nghiem"
+    title: Justin Nghiem
+    excerpt: "**Postdoctoral Research Scientist**<br/>
+              Ph.D. 2025 California Institute of Technology<br/>
+              M.S. 2021 California Institute of Technology<br/>
+              B.S. 2019 University of California Berkeley<br/>
+              *Sediment dynamics*<br/>
+              jnghiem [at] umn [dot] edu
+              "
+    #url: ""
+    #btn_label: "Homepage"
+    #btn_class: "btn--inverse"
+
 grads:
   - image_path: /assets/images/headshots/iscen2022.jpg
     alt: "Nilay İşcen"
