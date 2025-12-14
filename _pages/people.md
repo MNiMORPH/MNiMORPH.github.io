@@ -74,7 +74,7 @@ researchers:
     #btn_label: "Homepage"
     #btn_class: "btn--inverse"
 
-  - image_path: /assets/images/headshots/km_480x480.jpg
+  - image_path: /assets/images/headshots/km_418x418.jpg
     alt: "Khilav Majmudar"
     title: Khilav Majmudar
     excerpt: "**Volunteer Research Scientist**<br/>
