@@ -74,6 +74,19 @@ researchers:
     #btn_label: "Homepage"
     #btn_class: "btn--inverse"
 
+  - image_path: /assets/images/headshots/km_480x480.jpg
+    alt: "Khilav Majmudar"
+    title: Khilav Majmudar
+    excerpt: "**Volunteer Research Scientist**<br/>
+              PhD 2025 University of Minnesota<br/>
+              BS-MS 2018 Indian Institute of Science Education and Research, Pune<br/>
+              *Seismic measurements of turbulence and sediment transport*<br/>
+              majmu008 [at] umn [dot] edu
+              "
+    #url: ""
+    #btn_label: "Homepage"
+    #btn_class: "btn--inverse"
+
 grads:
   - image_path: /assets/images/headshots/iscen2022.jpg
     alt: "Nilay İşcen"
