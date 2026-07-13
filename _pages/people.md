@@ -419,7 +419,8 @@ animals:
 #### Bobby Schulz (2018–2021, 2024–2025 UMN)
 **MS, 2021** (UMN)
 * Development of a series of open-source data loggers
-* ***Since 2019:*** Hardware development lead for [GEMS IoT](https://agroinformatics.org/about-us/)
+* ***2019–2024:*** Hardware development lead for [GEMS IoT](https://agroinformatics.org/about-us/)
+* ***Now:*** Senior Hardware Engineer, Resideo Technologies
 
 #### Owen Lott (2019–2021, MNSU Mankato)
 * **MS, 2021** (Minnesota State; co-advised with Bryce Hoppie)
