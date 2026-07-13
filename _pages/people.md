@@ -416,7 +416,7 @@ animals:
 * Glaciology
 * ***Now:*** [Assistant Professor, University of Cambridge](https://www.maxgeohub.com)
 
-#### Bobby Schulz (2018–2021, 2024–2025 UMN)
+#### Bobby Schulz (2018–2021, 2023–2024 UMN)
 **MS, 2021** (UMN)
 * Development of a series of open-source data loggers
 * ***2019–2024:*** Hardware development lead for [GEMS IoT](https://agroinformatics.org/about-us/)
