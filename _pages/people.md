@@ -143,7 +143,7 @@ grads:
               *Fluvial geomorphology, stream-channel dynamics*<br>
               emma.trettin [at] mnsu [dot] edu
               "
-  - image_path: /assets/images/headshots/blank.jpg
+  - image_path: /assets/images/headshots/WangFelix.jpg
     alt: "Felix Chung-Kai Wang"
     title: "Felix Chung-Kai Wang"
     excerpt: "**Ph.D. Student**<br/>
