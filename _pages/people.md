@@ -143,6 +143,16 @@ grads:
               *Fluvial geomorphology, stream-channel dynamics*<br>
               emma.trettin [at] mnsu [dot] edu
               "
+  - image_path: /assets/images/headshots/blank.jpg
+    alt: "Felix Chung-Kai Wang"
+    title: "Felix Chung-Kai Wang"
+    excerpt: "**Ph.D. Student**<br/>
+              **University of Minnesota**<br>
+              M.S. 2025 National Cheng Kung University<br/>
+              B.S. 2023 Feng Chia University<br/>
+              *Braided rivers, experimental geomorphology*<br/>
+              wan03665 [at] umn [dot] edu
+              "
 
 undergrads:
   - image_path: /assets/images/headshots/Gabe.jpg
