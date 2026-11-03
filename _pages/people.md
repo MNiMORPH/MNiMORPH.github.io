@@ -458,7 +458,7 @@ animals:
 * Coupled groundwater--surface-water modeling on a global scale
 * Efficient algorithms to analyze depressions in landscapes and move water through them
 * Paleoclimate
-* ***Now:*** [Postdoctoral Research Scientist, Columbia/LDEO, Advisor: Jacky Austermann](https://www.ldeo.columbia.edu/~jackya/Group.html)
+* ***Now:*** Assistant Professor, University of Illinois Chicago
 
 #### Melissa Swanson (2017–2019, MNSU Mankato)
 * **MS, 2019** (Minnesota State)
