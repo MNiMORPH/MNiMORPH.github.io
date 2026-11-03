@@ -395,7 +395,7 @@ animals:
 **PhD 2024**
 * Glacier–river interactions and landscape change
 * Quaternary geochronology
-* ***Now*** Postdoctoral research scientist at Dartmouth College
+* ***Now*** Guarini Postdoctoral Fellow, Dartmouth College
 
 #### Jimmy Wood (2021–2023, UMN)
 **MS 2023**
