@@ -495,6 +495,9 @@ animals:
 
 ### Undergraduate Students
 
+#### Elise Palecek (2026, UMN)
+* Bedrock-river erosion (with Dr. Jessica Marggraf)
+
 #### Alida Johnson (2025, UMN)
 * Bedrock erosion
 * Field work and image-based fracture mapping
