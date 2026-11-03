@@ -73,8 +73,7 @@ Current focal points include:
 
 ### Additional Relevant Publications
 
-* Beaulieu, O. P., E. Witte, and A. D. Wickert (in revision, 2020), Mechanistic Insights from Emergent Landslides in Physical Experiments, Geology.
-* Tofelde, S., W. Düsing, T. F. Schildgen, A. D. Wickert, H. Wittmann, and R. N. Alonso (2018), [Effects of deep-seated versus shallow hillslope processes on cosmogenic 10 Be concentrations in fluvial sand and gravel](https://onlinelibrary.wiley.com/doi/abs/10.1002/esp.4471), Earth Surface Processes and Landforms, 34, 3086–3098, doi:10.1002/esp.4471.
+* Tofelde, S., W. Düsing, T. F. Schildgen, A. D. Wickert, H. Wittmann, R. N. Alonso, and M. R. Strecker (2018), [Effects of deep-seated versus shallow hillslope processes on cosmogenic 10 Be concentrations in fluvial sand and gravel](https://onlinelibrary.wiley.com/doi/abs/10.1002/esp.4471), Earth Surface Processes and Landforms, 43, 3086–3098, doi:10.1002/esp.4471.
 * Perron, J. T., P. M. Myrow, K. L. Huppert, A. R. Koss, and A. D. Wickert (2018), Ancient record of changing flows from wave ripple defects, Geology, 46(10), 875–878, doi:10.1130/G45463.1.
 
 
@@ -104,7 +103,7 @@ We use these approaches together to reconstruct past landscapes and environments
 
 ### Key Publications: Paleoclimate modeling
 
-* Ivanović, R. F., L. J. Gregoire, A. Burke, A. D. Wickert, P. J. Valdes, H. C. Ng, L. F. Robinson, J. F. McManus, J. X. Mitrovica, L. Lee, and J. E. Dentith (2018b), [Acceleration of northern ice sheet melt induces AMOC slowdown and northern cooling in simulations of the early last deglaciation](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2017PA003308), Paleoceanography and Paleoclimatology, 33(7), 807-824, doi:10.1029/2018GL077623.
+* Ivanović, R. F., L. J. Gregoire, A. Burke, A. D. Wickert, P. J. Valdes, H. C. Ng, L. F. Robinson, J. F. McManus, J. X. Mitrovica, L. Lee, and J. E. Dentith (2018b), [Acceleration of northern ice sheet melt induces AMOC slowdown and northern cooling in simulations of the early last deglaciation](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2017PA003308), Paleoceanography and Paleoclimatology, 33(7), 807–824, doi:10.1029/2017PA003308.
 * Ivanović, R. F., L. J. Gregoire, A. D. Wickert, and A. Burke (2018a), [Climatic effect of Antarctic meltwater overwhelmed by concurrent Northern hemispheric melt](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2018GL077623), Geophys. Res. Lett., 45(11), 5681–5689, doi:10.1029/2018GL077623.
 * Ivanović, R. F., L. J. Gregoire, A. D. Wickert, P. J. Valdes, and A. Burke (2017), [Collapse of the North American ice saddle 14,500 years ago caused widespread cooling and reduced ocean overturning circulation](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/2016GL071849), Geophys. Res. Lett., 44(1), 383–392, doi:10.1002/2016GL071849.
 
@@ -112,8 +111,8 @@ We use these approaches together to reconstruct past landscapes and environments
 
 <img align="right" src="/assets/images/rivers_G12_BA_0145.png" alt="G12 rivers at 14.5 ka" width="480px">
 
-* M. S. van Wyk de Vries and A. D. Wickert (submitted, 2020), Glacier Image Velocimetry: an open-source toolbox for easy and rapid calculation of high-resolution glacier-velocity fields, The Cryosphere Discussions.
-* Koriche, S. A., J. Singarayer, H. Cloke, P. Valdes, F. Wesselingh, S. Kroonenberg, A. Wickert, and T. Yanina (submitted, 2020), What are the drivers of Caspian Sea level variation during the late Quaternary?, Quaternary Science Reviews.
+* Van Wyk de Vries, M., and A. D. Wickert (2021), Glacier Image Velocimetry: An open-source toolbox for easy and rapid calculation of high-resolution glacier-velocity fields, The Cryosphere, 15, 2115–2132, [doi:10.5194/tc-15-2115-2021](https://doi.org/10.5194/tc-15-2115-2021).
+* Koriche, S. A., J. S. Singarayer, H. L. Cloke, P. J. Valdes, F. P. Wesselingh, S. B. Kroonenberg, A. D. Wickert, and T. A. Yanina (2022), What are the drivers of Caspian Sea level variation during the late Quaternary?, Quaternary Science Reviews, 283, 107457, [doi:10.1016/j.quascirev.2022.107457](https://doi.org/10.1016/j.quascirev.2022.107457).
 * Tofelde, S., T. F. Schildgen, S. Savi, H. Pingel, A. D. Wickert, B. Bookhagen, H. Wittmann, R. N. Alonso, J. Cottle, and M. R. Strecker (2017), [100 kyr fluvial cut-and-fill terrace cycles since the Middle Pleistocene in the southern Central Andes, NW Argentina](https://www.sciencedirect.com/science/article/pii/S0012821X17303102), Earth Planet. Sci. Lett., 473, 141–153, doi:10.1016/j.epsl.2017.06.001.
 * Wickert, A. D., R. S. Anderson, J. X. Mitrovica, S. Naylor and E. C. Carson (2019a), [The Mississippi River records glacial-isostatic deformation of North America](https://advances.sciencemag.org/content/5/1/eaav2366), Science Advances, 5(1), eaav2366, doi:10.1126/sciadv.aav2366.
 * Wickert, A. D. (2016b), [Reconstruction of North American drainage basins and river discharge since the Last Glacial Maximum](https://esurf.copernicus.org/articles/4/831/2016/), Earth Surface Dynamics, 4(4), 831–869, doi:10.5194/esurf-4-831-2016.
@@ -154,7 +153,7 @@ The Depression Hierarchy and Fill-Spill-Merge algorithms and associated code bas
 
 ### Key Publications
 
-* Barnes, R., K. L. Callaghan, and A. D. Wickert (in revision, 2020b), [Computing water flow through complex landscapes – Part 3: Fill-Spill-Merge: Flow routing in depression hierarchies](https://esurf.copernicus.org/preprints/esurf-2020-31/), Earth Surface Dynamics Discussions, doi:10.5194/esurf-2020-31.
+* Barnes, R., K. L. Callaghan, and A. D. Wickert (2021), Computing water flow through complex landscapes – Part 3: Fill-Spill-Merge: Flow routing in depression hierarchies, Earth Surface Dynamics, 9, 105–121, [doi:10.5194/esurf-9-105-2021](https://doi.org/10.5194/esurf-9-105-2021).
 * Barnes, R., K. L. Callaghan, and A. D. Wickert (2020a), [Computing water flow through complex landscapes, Part 2: Finding hierarchies in depressions and morphological segmentations](https://esurf.copernicus.org/articles/8/431/2020/), Earth Surface Dynamics, 8, 431–445, doi:10.5194/esurf-8-431-2020.
 * Callaghan, K. L., and A. D. Wickert (2019), [Computing water flow through complex landscapes – Part 1: Incorporating depressions in flow routing using FlowFill](https://esurf.copernicus.org/articles/7/737/2019/), Earth Surface Dynamics, 7, 737–753, doi:10.5194/esurf-7-737-2019.
 * Somers, L. D., J. M. McKenzie, B. G. Mark, P. Lagos, G.-H. C. Ng, A. D. Wickert, C. Yarleque, M. Baraër, and Y. Silva (2019), [Groundwater buffers decreasing glacier melt in the Andes – but not forever](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019GL084730), Geophysical Research Letters, 46(22), 13016–13026, doi:10.1029/2019GL084730.
