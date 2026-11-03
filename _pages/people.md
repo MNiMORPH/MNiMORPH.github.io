@@ -165,7 +165,7 @@ undergrads:
     title: "Taozhu Zhou"
     excerpt: "**Undergraduate Researcher**<br/>
               **University of Minnesota**<br/>
-              *Volcanic edifice in Tibet*<br/>
+              *Volcanology*<br/>
               "
 
 visitors:
