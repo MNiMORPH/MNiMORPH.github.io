@@ -481,7 +481,7 @@ animals:
 * **MS, 2018** (UMN; co-advised with Amy Myrbo)
 * B.S. 2015 University of Minnesota Duluth
 * [Flyover Country](https://flyovercountry.io/)
-* ***Now:*** [Cartographer and Web Developer, Polar Geospatial Center](https://www.pgc.umn.edu/about/people/shane-loeffler/)
+* ***Now:*** Software Engineer, CarbonPlan
 
 #### Melissa Oubre (2015–2018, MNSU Mankato)
 * **MS, 2018** (Minnesota State; Biology)
