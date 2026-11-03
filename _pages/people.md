@@ -579,6 +579,9 @@ animals:
 * Design of "thermal stake" for heat-flow and water-flux measurements
 * ***Now:*** [Enginner at Turck USA](https://www.linkedin.com/in/epg)
 
+#### Samuel Fleagle (2018, UMN)
+* Summer research hire
+
 #### Suyash Handa (2018, Colgate/Columbia)
 * Visiting undergraduate researcher (Colgate College)
 * MEMS accelerometers and geophones for low-cost seismometers
