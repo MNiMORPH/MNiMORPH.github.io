@@ -349,10 +349,10 @@ animals:
 * Sediment–morphodynamic interactions at tributary junctions
 * ***Now:*** Assistant Professor, University of California, Riverside
 
-#### Dr. Fiona Clubb (2017, UMN)
-**Predoctoral research scientist**
+#### Dr. Fiona Clubb (2018, UMN)
+**NCED Postdoctoral Fellow**
 * River-terrace analysis in the upper Mississippi valley
-* ***Now:*** [Assistant Professor, Department of Geography, Durham University](https://www.dur.ac.uk/research/directory/staff/?mode=staff&id=18302)
+* ***Now:*** [Associate Professor, Department of Geography, Durham University](https://www.dur.ac.uk/research/directory/staff/?mode=staff&id=18302)
 
 #### Bobby Schulz (2016–2018, UMN)
 **Research engineer**
