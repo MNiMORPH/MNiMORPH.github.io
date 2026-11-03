@@ -505,7 +505,7 @@ animals:
 #### Rachel McLaughlin (2015–2017, UMN)
 * **MS, 2017** (co-advised with primary advisor Crystal Ng)
 * Hydrology and water resources on Chimborazo Volcano, Ecuador
-* ***Now:*** [Staff Hydrogeologist - PES Environmental, Inc.](https://www.linkedin.com/in/rachel-mclaughlin-50796a36)
+* ***Now:*** Associate Environmental Analyst, Seattle Parks and Recreation
 
 #### Carson Smith (2013–2016, MNSU Mankato)
 * **MS, 2016** (Minnesota State)
