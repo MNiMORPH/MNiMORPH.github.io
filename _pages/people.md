@@ -613,10 +613,50 @@ animals:
 
 ### Visiting, Affiliated, and Key Collaborating Scientists
 
+#### Aaron Hurst (2026, UMN)
+* Visitor (University of Colorado Boulder)
+* *Research with our group:* Mechanistic modeling of bedrock-river incision and data–model integration, North Shore of Lake Superior
+
+#### Jonas Eschenfelder (2024–2025, UMN)
+* Visitor (Simon Fraser University)
+* *Research with our group:* Permafrost instrumentation
+
+#### Ru Wang (2024–2025, UMN)
+* Visitor (University of Leeds)
+* *Research with our group:* Experimental sedimentology at the St. Anthony Falls Laboratory
+
+#### David Polashenski (2020, UMN)
+* Visitor (University of Alaska Fairbanks)
+* *Research with our group:* Hydrological instrumentation
+
+#### Modeus Abdelnaby (2019, UMN)
+* Visitor (Technische Hochschule Lübeck)
+* *Research with our group:* Hydrological instrumentation
+
+#### Katherine Linninger (2018–2019, UMN)
+* Visitor (University of Colorado Boulder)
+* *Research with our group:* Geomorphology, carbon storage, and field instrumentation
+
+#### Keith Rapp (2018–2019, UMN)
+* Visitor (Pinnacle Engineering)
+* *Research with our group:* Pressure transducers for groundwater and surface-water remediation
+
+#### Mohammad Paknia (2018–2019, UMN)
+* Visitor (co-hosted with the Institute for Rock Magnetism)
+* *Research with our group:* Rock magnetism
+
+#### Evan Gowan (2018, UMN)
+* Visitor (Alfred-Wegener-Institut)
+* *Research with our group:* North American deglaciation and glacial isostatic adjustment
+
 #### Dr. Beth Fisher (2017–2019, UMN)
 * Friendly Neighborhood Scientist (UMN)
 * *Research with our group:* Environmental instrumentation
 * ***Now:*** [Associate Professor, Department of Chemistry and Geology, Minnesota State University, Mankato](https://cset.mnsu.edu/departments/chemistry-and-geology/faculty-and-staff/beth-fisher/)
+
+#### Lauren Somers (2017, UMN)
+* Visitor (McGill University)
+* *Research with our group:* Hydrological modeling for water resources in the Andes
 
 #### Dr. Sara Savi (2015, UMN)
 * Visiting postdoctoral research scientist from (Universität Potsdam)
