@@ -78,7 +78,7 @@ grads:
   - image_path: /assets/images/headshots/Ruby.jpg
     alt: "Andreas Ruby"
     title: "Andreas Ruby"
-    excerpt: "**Ph.D. Student**<br/>
+    excerpt: "**Ph.D. Candidate**<br/>
               **GFZ Potsdam**<br/>
               Co-advised by Wickert with primary advisor Taylor Schildgen (GyroSCoPe project)<br/>
               M.Sc. 2021: Universität Trier<br/>
