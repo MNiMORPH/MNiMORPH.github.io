@@ -449,7 +449,7 @@ animals:
 * Paleoclimate
 * ***Now:*** Assistant Professor, University of Illinois Chicago
 
-#### Melissa Swanson (2017–2019, MNSU Mankato)
+#### Melissa Kohout (2017–2019, MNSU Mankato)
 * **MS, 2019** (Minnesota State)
 * Mass Wasting Investigation and Assessment in the Midwest: Case Study of the Minnesota River Valley, New Ulm to St. Peter, Minnesota, USA
 * ***Now:*** [Sentera](https://sentera.com/)
