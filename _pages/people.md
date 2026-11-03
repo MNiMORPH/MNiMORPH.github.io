@@ -160,6 +160,13 @@ undergrads:
               *Geoarcheology, Anthropogenic Geomorphology, Soil Science/Soil Magnetism*<br/>
               Hendrick.England [at] mnsu [dot] edu
               "
+  - image_path: /assets/images/headshots/blank.jpg
+    alt: "Taozhu Zhou"
+    title: "Taozhu Zhou"
+    excerpt: "**Undergraduate Researcher**<br/>
+              **University of Minnesota**<br/>
+              *Volcanic edifice in Tibet*<br/>
+              "
 
 visitors:
   - image_path: /assets/images/headshots/EricBarefoot_480p.png
