@@ -46,19 +46,7 @@ faculty:
     btn_label: "About"
     btn_class: "btn--inverse"
 
-researchers:
-  - image_path: /assets/images/headshots/km_418x418.jpg
-    alt: "Khilav Majmudar"
-    title: Khilav Majmudar
-    excerpt: "**Volunteer Research Scientist**<br/>
-              PhD 2025 University of Minnesota<br/>
-              BS-MS 2018 Indian Institute of Science Education and Research, Pune<br/>
-              *Seismic measurements of turbulence and sediment transport*<br/>
-              majmu008 [at] umn [dot] edu
-              "
-    #url: ""
-    #btn_label: "Homepage"
-    #btn_class: "btn--inverse"
+researchers: []
 
 grads:
   - image_path: /assets/images/headshots/iscen2022.jpg
@@ -284,9 +272,11 @@ animals:
 
 {% include feature_row id="faculty" %}
 
+{% comment %} No current postdocs, researchers, or staff; restore when there are.
 ## Postdocs, Researchers, and Staff
 
 {% include feature_row id="researchers" %}
+{% endcomment %}
 
 ## Graduate Students
 
@@ -318,6 +308,11 @@ animals:
 **Postdoctoral research scientist**
 * Bedrock-river evolution
 * ***Now:*** Bundesanstalt für Wasserbau
+
+#### Dr. Khilav Majmudar (2025–2026, UMN)
+**Volunteer research scientist**
+* Seismic measurements of turbulence and sediment transport
+* ***Now:*** Limited Term Assistant Professor of Physics, Kennesaw State University
 
 #### Viet Bui (2024)
 **Research intern**
