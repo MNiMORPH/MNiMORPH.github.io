@@ -77,15 +77,6 @@ grads:
     #url: ""
     #btn_label: "Homepage"
     #btn_class: "btn--inverse"
-  - image_path: /assets/images/headshots/Jayda.jpg
-    alt: "Jayda Rowen"
-    title: "Jayda Rowen"
-    excerpt: "**M.S. Student**<br/>
-              **Minnesota State University, Mankato**<br>
-              B.S. 2023 Minnesota State University, Mankato<br>
-              *Geomorphology/Landscape Evolution, Quaternary Geology*<br>
-              jayda.rowen [at] mnsu [dot] edu
-              "
   - image_path: /assets/images/headshots/AshraniUma.jpeg
     alt: "Uma Ashrani"
     title: "Uma Ashrani"
@@ -353,6 +344,10 @@ animals:
 * ***Now:*** [Industrial mechanical engineer, Ironwood Electronics](https://www.researchgate.net/profile/Chad_Sandell)
 
 ### Graduate Students
+
+#### Jayda Rowen (2023–2026, MNSU Mankato)
+**MS 2026**
+* Camas Prairie geomorphology and glacial Lake Missoula drainage
 
 #### Naomi Schulberg (2023–2025, UMN)
 **PhD Student** (Advisor: Prof. Daniel Griffin)
