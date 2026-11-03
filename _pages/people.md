@@ -606,6 +606,10 @@ animals:
 * River terraces
 * ***Now:*** [Minnesota Geological Survey](https://cse.umn.edu/mgs/staff-directory#quaternary-geology)
 
+#### Jessica Scholz (2016, UMN)
+* Undergraduate student researcher (UMN; UROP, Spring 2016)
+* River terraces
+
 
 ### Visiting, Affiliated, and Key Collaborating Scientists
 
