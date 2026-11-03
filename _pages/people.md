@@ -392,9 +392,7 @@ animals:
 * ***Now*** SIP Researcher at Yosemite National Park
 
 #### Tyler Fulghum (2021–2023, UMN)
-**MS Student**
-* Image analysis for flow velocities
-* Solar-radiation measurement and sensor characterization
+**Graduate student**
 
 #### Dr. Jabari Jones (2018–2023, UMN)
 **PhD, 2023** (UMN)
