@@ -201,7 +201,7 @@ visitors:
     alt: "Andrea Prichard"
     title: "Andrea Prichard"
     excerpt: "**Visiting Research Scientist**<br/>
-              ***2020–2022 Fulbright Scholar***, Batipa Field Institute, Universidad Tecnológica Oteima, Panamá<br/>
+              ***Fulbright U.S. Scholar*** (2020–2021 award; August–December 2021), Batipa Field Institute, Universidad Tecnológica Oteima, Panamá<br/>
               M.S. 2012 Universidad Mayor de San Simón<br/>
               M.A. 2011 University of Arizona<br/>
               B.A. 2004 Oberlin College<br/>
