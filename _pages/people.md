@@ -47,20 +47,6 @@ faculty:
     btn_class: "btn--inverse"
 
 researchers:
-  - image_path: /assets/images/headshots/MarggrafJessica.jpg
-    alt: "Jessica Marggraf"
-    title: Jessica Marggraf
-    excerpt: "**Postdoctoral Research Scientist**<br/>
-              Doctorate 2024 Université Claude-Bernard-Lyon-I<br/>
-              M.S. 2020 Université de Strasbourg<br/>
-              B.S. 2018 Albert-Ludwigs-Universität Freiburg im Breisgau<br/>
-              *Bedrock-river evolution*<br/>
-              jmarggra [at] umn [dot] edu
-              "
-    #url: ""
-    #btn_label: "Homepage"
-    #btn_class: "btn--inverse"
-
   - image_path: /assets/images/headshots/km_418x418.jpg
     alt: "Khilav Majmudar"
     title: Khilav Majmudar
@@ -316,6 +302,11 @@ animals:
 **Postdoctoral research scientist** (co-advised with Judy Yang)
 * Sediment and floodplain dynamics
 * ***Now:*** Postdoctoral researcher, University of California, Santa Barbara
+
+#### Dr. Jessica Marggraf (2024–2026, UMN)
+**Postdoctoral research scientist**
+* Bedrock-river evolution
+* ***Now:*** Bundesanstalt für Wasserbau
 
 #### Viet Bui (2024)
 **Research intern**
