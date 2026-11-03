@@ -27,6 +27,16 @@ To see our open-source code, open-access data, and open-source hardware designs,
 * [Wickert's GitHub](https://github.com/awickert)
 * Instrumentation GitHub organizations for [finalized](https://github.com/NorthernWidget) and [experimental](https://github.com/NorthernWidget-Skunkworks) designs
 
+## Current and recent projects
+
+* **The Lake Superior basin: Natural geomorphic experiment, deepwater-terminating ice stream, and isostatically adjusting rift** (NSF FRES, 2022–2027)
+* **Alluvial-river dynamics through watershed networks** (NSF CAREER, 2020–2027)
+* **Sandpiper: A community toolchain to support geomorphology from data acquisition to analysis** (NSF CSSI, 2024–2028; led by C. Nguyen, SAFL)
+* **Ditching Delinquent Ditches: Optimizing Wetland Restoration** (LCCMR, 2023–2027)
+* **Quantifying the fluvial geomorphic response of the Blue Earth River to a catastrophic avulsive dam failure, Rapidan Dam, Minnesota** (NSF RAPID, 2024–2026; led by Z. Hilgendorf, UW–Eau Claire)
+* **Terrestrial hydrology during the last deglaciation** (NSF Paleo Perspectives on Climate Change, 2019–2025)
+* **Land-use and climate impacts on Minnesota's Whitewater River** (LCCMR, 2022–2024)
+
 ![Fitz Roy](/assets/images/GroupFitzRoy.JPG)
 
 ## River mechanics and geomorphic evolution
