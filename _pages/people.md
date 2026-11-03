@@ -258,13 +258,6 @@ visitors:
     url: "https://cla.umn.edu/about/directory/profile/griffin9/"
     btn_label: "Homepage"
     btn_class: "btn--inverse"
-  - image_path: /assets/images/headshots/blank.jpg
-    alt: "Dylan Ward"
-    title: "Dylan Ward"
-    excerpt: "**Visiting Scientist**<br/>
-              ***University of Cincinnati***<br/>
-              *Field research and geochronology, Lake Superior*<br/>
-              "
 
 animals:
   - image_path: /assets/images/headshots/FjordCat.JPG
