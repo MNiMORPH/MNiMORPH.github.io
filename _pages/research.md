@@ -46,11 +46,17 @@ Current focal points include:
 ### Key Personnel
 
 * Andy Wickert
-* Nilay Iscen
+* Nilay İşcen
 * Jabari Jones
 * Shanti Penprase
 * Phil Larson
 * Peter Mitchell
+* Fergus McNab
+* Jessica Marggraf
+* Justin Nghiem
+* Khilav Majmudar
+* Andreas Ruby
+* Felix Chung-Kai Wang
 
 ### Key Publications
 
@@ -106,6 +112,7 @@ We use these approaches together to reconstruct past landscapes and environments
 * Max van Wyk de Vries
 * Shanti Penprase
 * Peter Mitchell
+* Matías Romero
 
 ### Key Publications: Paleoclimate modeling
 
@@ -163,6 +170,7 @@ The Depression Hierarchy and Fill-Spill-Merge algorithms and associated code bas
 * Kerry Callaghan
 * Jabari Jones
 * Andy Wickert
+* Uma Ashrani
 
 ![Perito Moreno ablation stake](/assets/images/MaxAndy_AblationStakes.JPG)
 
