@@ -19,7 +19,8 @@ faculty:
     title: "Andy Wickert"
     excerpt: "**Associate Professor**<br/>
               **University of Minnesota**<br/>
-              *Alexander von Humboldt Fellow, GFZ Potsdam*<br/>
+              *Global Faculty, Universität zu Köln*<br/>
+              Humboldt Fellow 2022–2024 GFZ Potsdam<br/>
               Postdoc 2014–2015 Universität Potsdam<br/>
               Ph.D. 2014 University of Colorado Boulder<br/>
               S.B. 2008 Massachusetts Institute of Technology<br/>
