@@ -168,6 +168,7 @@ The Depression Hierarchy and Fill-Spill-Merge algorithms and associated code bas
 
 ### Key Publications
 
+* Callaghan, K. L., A. D. Wickert, R. Barnes, and J. Austermann (2025), The Water Table Model (WTM) v2.0.1: Coupled groundwater and dynamic lake modelling, Geoscientific Model Development, 18(5), 1463–1486, [doi:10.5194/gmd-18-1463-2025](https://doi.org/10.5194/gmd-18-1463-2025).
 * Barnes, R., K. L. Callaghan, and A. D. Wickert (2021), Computing water flow through complex landscapes – Part 3: Fill-Spill-Merge: Flow routing in depression hierarchies, Earth Surface Dynamics, 9, 105–121, [doi:10.5194/esurf-9-105-2021](https://doi.org/10.5194/esurf-9-105-2021).
 * Barnes, R., K. L. Callaghan, and A. D. Wickert (2020a), [Computing water flow through complex landscapes, Part 2: Finding hierarchies in depressions and morphological segmentations](https://esurf.copernicus.org/articles/8/431/2020/), Earth Surface Dynamics, 8, 431–445, doi:10.5194/esurf-8-431-2020.
 * Callaghan, K. L., and A. D. Wickert (2019), [Computing water flow through complex landscapes – Part 1: Incorporating depressions in flow routing using FlowFill](https://esurf.copernicus.org/articles/7/737/2019/), Earth Surface Dynamics, 7, 737–753, doi:10.5194/esurf-7-737-2019.
