@@ -247,7 +247,7 @@ visitors:
   - image_path: /assets/images/headshots/kwang_headshot.jpg
     alt: "Jeffrey Kwang"
     title: "Jeffrey Kwang"
-    excerpt: "**Research Scientist<br/>**
+    excerpt: "**Physical Scientist in Water Resources**<br/>
               **U.S. Geological Survey**<br/>
               NSF Postdoc 2022–2024 University of Minnesota<br/>
               Postdoc 2019–2022 University of Massachusetts<br/>
@@ -336,7 +336,7 @@ animals:
 * Landscape memory with superimposed drainage
 * Landscape-evolution modeling
 * Geoscientific visualization
-* ***Now:*** Research Scientist, USGS
+* ***Now:*** Physical Scientist in Water Resources, USGS
 
 #### Dr. Hima Hassenruck-Gudipati (2021–2023, UMN)
 **President's Postdoctoral research scientist**
