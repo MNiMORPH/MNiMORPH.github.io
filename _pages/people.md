@@ -362,7 +362,7 @@ animals:
 #### Chad Sandell (2016–2018, UMN)
 * **Research specialist:** Lab engineer
 * Maker of many things
-* ***Now:*** [Design Engineer, Ironwood Electronics](https://www.researchgate.net/profile/Chad_Sandell)
+* ***Now:*** [Industrial mechanical engineer, Ironwood Electronics](https://www.researchgate.net/profile/Chad_Sandell)
 
 ### Graduate Students
 
