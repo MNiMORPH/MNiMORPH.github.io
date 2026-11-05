@@ -371,8 +371,8 @@ animals:
 * Deglacial evolution of the Brule Spillway and Lake Superior
 * Quaternary geology and geomorphology
 
-#### Hunter Delikowski (2022--2025, MNSU Mankato)
-**MS 2025**
+#### Hunter Delikowski (2022--2024, MNSU Mankato)
+**MS 2024**
 * Geomorphic evolution of the St. Croix River valley
 * Quaternary geochronology
 
