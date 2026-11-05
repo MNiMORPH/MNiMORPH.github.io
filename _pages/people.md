@@ -144,6 +144,13 @@ undergrads:
               abrah760 [at] umn [dot] edu
               "
   - image_path: /assets/images/headshots/blank.jpg
+    alt: "Leah Olson"
+    title: "Leah Olson"
+    excerpt: "**Undergraduate Researcher**<br/>
+              **Minnesota State University, Mankato**<br/>
+              *Rapidan Dam and the Blue Earth River*<br/>
+              "
+  - image_path: /assets/images/headshots/blank.jpg
     alt: "Taozhu Zhou"
     title: "Taozhu Zhou"
     excerpt: "**Undergraduate Researcher**<br/>
