@@ -103,6 +103,20 @@ grads:
               *Incision of the St. Croix River*<br>
               "
   - image_path: /assets/images/headshots/blank.jpg
+    alt: "Ella Gould"
+    title: "Ella Gould"
+    excerpt: "**M.S. Student**<br/>
+              **Minnesota State University, Mankato**<br>
+              *River surveys, Rapidan Dam and the Blue Earth River*<br>
+              "
+  - image_path: /assets/images/headshots/blank.jpg
+    alt: "Neil Hurner"
+    title: "Neil Hurner"
+    excerpt: "**M.S. Student**<br/>
+              **Minnesota State University, Mankato**<br>
+              *Minnesota River valley terraces, GPR, geochronology*<br>
+              "
+  - image_path: /assets/images/headshots/blank.jpg
     alt: "Tenzin Choegyal"
     title: "Tenzin Choegyal"
     excerpt: "**M.S. Student**<br/>
