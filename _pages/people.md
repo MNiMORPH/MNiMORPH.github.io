@@ -100,6 +100,7 @@ grads:
     title: "David Pruder"
     excerpt: "**M.S. Student**<br/>
               **Minnesota State University, Mankato**<br>
+              B.S. Michigan State University<br>
               *Incision of the St. Croix River*<br>
               "
   - image_path: /assets/images/headshots/blank.jpg
