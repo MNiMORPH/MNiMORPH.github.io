@@ -96,6 +96,13 @@ grads:
               emma.trettin [at] mnsu [dot] edu
               "
   - image_path: /assets/images/headshots/blank.jpg
+    alt: "David Pruder"
+    title: "David Pruder"
+    excerpt: "**M.S. Student**<br/>
+              **Minnesota State University, Mankato**<br>
+              *Incision of the St. Croix River*<br>
+              "
+  - image_path: /assets/images/headshots/blank.jpg
     alt: "Tenzin Choegyal"
     title: "Tenzin Choegyal"
     excerpt: "**M.S. Student**<br/>
