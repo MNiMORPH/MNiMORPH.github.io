@@ -102,6 +102,7 @@ grads:
               **Minnesota State University, Mankato**<br>
               B.S. Michigan State University<br>
               *Incision of the St. Croix River*<br>
+              david [dot] pruder [at] mnsu [dot] edu
               "
   - image_path: /assets/images/headshots/blank.jpg
     alt: "Ella Gould"
@@ -109,6 +110,7 @@ grads:
     excerpt: "**M.S. Student**<br/>
               **Minnesota State University, Mankato**<br>
               *River surveys, Rapidan Dam and the Blue Earth River*<br>
+              ella [dot] gould [at] mnsu [dot] edu
               "
   - image_path: /assets/images/headshots/blank.jpg
     alt: "Neil Hurner"
@@ -116,6 +118,7 @@ grads:
     excerpt: "**M.S. Student**<br/>
               **Minnesota State University, Mankato**<br>
               *Minnesota River valley terraces, GPR, geochronology*<br>
+              neil [dot] hurner [at] mnsu [dot] edu
               "
   - image_path: /assets/images/headshots/blank.jpg
     alt: "Tenzin Choegyal"
@@ -150,6 +153,7 @@ undergrads:
     excerpt: "**Undergraduate Researcher**<br/>
               **Minnesota State University, Mankato**<br/>
               *Rapidan Dam and the Blue Earth River*<br/>
+              leah [dot] olson [dot] 2 [at] mnsu [dot] edu
               "
   - image_path: /assets/images/headshots/blank.jpg
     alt: "Taozhu Zhou"
