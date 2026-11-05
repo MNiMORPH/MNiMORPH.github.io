@@ -100,7 +100,7 @@ grads:
     title: "David Pruder"
     excerpt: "**M.S. Student**<br/>
               **Minnesota State University, Mankato**<br>
-              Undergraduate: Michigan State University<br>
+              B.S. 2026 Michigan State University<br>
               *Incision of the St. Croix River*<br>
               david [dot] pruder [at] mnsu [dot] edu
               "
