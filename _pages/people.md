@@ -134,15 +134,6 @@ grads:
               "
 
 undergrads:
-  - image_path: /assets/images/headshots/Gabe.jpg
-    alt: "Gabe Senf"
-    title: "Gabe Senf"
-    excerpt: "**Undergraduate Researcher**<br/>
-              **Minnesota State University, Mankato**<br>
-              *Aeolian processes/Paleoenvironmental Change*<br/>
-              *Surface water/Fluvial geomorphology*<br/>
-              gabriel [dot] senf [at] mnsu [dot] edu
-              "
   - image_path: /assets/images/headshots/MeiAbraham_IMG_3177.jpg
     alt: "Mei Abraham"
     title: "Mei Abraham"
@@ -151,14 +142,6 @@ undergrads:
               *Channel and floodplain geomorphology*<br/>
               *Soil and carbon dynamics*<br/>
               abrah760 [at] umn [dot] edu
-              "
-  - image_path: /assets/images/headshots/HenryEngland.jpg
-    alt: "Henry England"
-    title: "Henry England"
-    excerpt: "**Undergraduate Researcher**<br/>
-              **Minnesota State University, Mankato**<br/>
-              *Geoarcheology, Anthropogenic Geomorphology, Soil Science/Soil Magnetism*<br/>
-              Hendrick.England [at] mnsu [dot] edu
               "
   - image_path: /assets/images/headshots/blank.jpg
     alt: "Taozhu Zhou"
@@ -518,6 +501,14 @@ animals:
 
 #### Elise Palecek (2026, UMN)
 * Bedrock-river erosion (with Dr. Jessica Marggraf)
+
+#### Henry England (2024–2026, MNSU Mankato)
+* Geoarcheology, anthropogenic geomorphology
+* Soil science and soil magnetism
+
+#### Gabe Senf (2024–2025, MNSU Mankato)
+* Aeolian processes and paleoenvironmental change
+* Surface water and fluvial geomorphology
 
 #### Alida Johnson (2025, UMN)
 * Bedrock erosion
