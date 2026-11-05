@@ -100,7 +100,7 @@ grads:
     title: "David Pruder"
     excerpt: "**M.S. Student**<br/>
               **Minnesota State University, Mankato**<br>
-              B.S. Michigan State University<br>
+              Undergraduate: Michigan State University<br>
               *Incision of the St. Croix River*<br>
               david [dot] pruder [at] mnsu [dot] edu
               "
@@ -109,6 +109,7 @@ grads:
     title: "Ella Gould"
     excerpt: "**M.S. Student**<br/>
               **Minnesota State University, Mankato**<br>
+              Undergraduate: University of Wisconsin–Eau Claire<br>
               *River surveys, Rapidan Dam and the Blue Earth River*<br>
               ella [dot] gould [at] mnsu [dot] edu
               "
@@ -117,6 +118,7 @@ grads:
     title: "Neil Hurner"
     excerpt: "**M.S. Student**<br/>
               **Minnesota State University, Mankato**<br>
+              Undergraduate: Minnesota State University, Mankato<br>
               *Minnesota River valley terraces, GPR, geochronology*<br>
               neil [dot] hurner [at] mnsu [dot] edu
               "
